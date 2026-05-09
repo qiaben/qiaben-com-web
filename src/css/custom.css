@@ -185,6 +185,80 @@ h3 {
   color: var(--qb-text);
 }
 
+/* Marketing page body — wraps WP-imported MDX content */
+.qb-mdxBody {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 60px 24px 80px;
+}
+
+.qb-mdxBody h1 {
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 32px 0 12px;
+}
+
+.qb-mdxBody h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.8rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 36px 0 12px;
+  color: var(--qb-text);
+}
+
+.qb-mdxBody h3 {
+  font-size: 1.18rem;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin: 26px 0 8px;
+  color: var(--qb-text);
+}
+
+.qb-mdxBody h4 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 22px 0 6px;
+  color: var(--qb-text);
+}
+
+.qb-mdxBody h6 {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--qb-primary-dark);
+  margin: 30px 0 8px;
+}
+
+.qb-mdxBody p {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--qb-text);
+  margin: 0 0 14px;
+}
+
+.qb-mdxBody ul,
+.qb-mdxBody ol {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--qb-text);
+  padding-left: 22px;
+  margin: 0 0 14px;
+}
+
+.qb-mdxBody img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 16px auto;
+  display: block;
+}
+
+.qb-mdxBody a {
+  color: var(--qb-primary);
+}
+
 /* Top utility bar (above navbar) — used on real qiaben.com */
 .qb-topbar {
   background: var(--qb-dark);
