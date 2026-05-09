@@ -5,7 +5,7 @@ date: 2024-12-28
 authors: [qiaben]
 ---
 
-![Diagnostic codes](https://qiaben.com/wp-content/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg)
+![Diagnostic codes](/img/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg)
 
 The healthcare industry has changed drastically in the past decade. One of the biggest game changers is the rise of Electronic Health Records (EHR). These digital systems have replaced paper-based records and are now an essential part of modern medicine.
 
@@ -65,7 +65,7 @@ These systems often include:
 
 And because they are built for smaller operations, they are simpler to use.
 
-![preventive codes](https://qiaben.com/wp-content/uploads/2024/12/preventive-codes-4-1024x576.jpg)
+![preventive codes](/img/uploads/2024/12/preventive-codes-4-1024x576.jpg)
 
 ### Choosing the Best EHR for Small Medical Practice
 
@@ -180,4 +180,4 @@ The digital transformation of healthcare is here. Ensure your practice stays ahe
 
 Let Qiaben Health Solutions guide you to a tailored solution that fits your needs, budget, and goals.
 
-[Click here](https://qiaben.com/contact/) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://qiaben.com/contact/) ![](/img/uploads/2024/04/1.jpg)

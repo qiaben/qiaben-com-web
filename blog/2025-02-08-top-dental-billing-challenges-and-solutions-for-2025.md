@@ -178,7 +178,7 @@ higher-priced procedures such as crowns, implants, and ortho.
 - Diagnostic information corroborating treatment plan.
 - Signed consent forms stored securely.
 
-![Top Dental Billing Challenges and Solutions for 2025](https://qiaben.com/wp-content/uploads/2025/02/dental-billing-challenges-1-300x169.png)
+![Top Dental Billing Challenges and Solutions for 2025](/img/uploads/2025/02/dental-billing-challenges-1-300x169.png)
 
 ## What the Data Says: Key 2025 Billing Statistics
 

@@ -5,7 +5,7 @@ date: 2026-02-17
 authors: [qiaben]
 ---
 
-![A split-screen graphic for a dental practice case study. On the left, a professional dental office setting with a staff member at a computer. On the right, a digital tablet displaying financial growth charts and a checklist highlighting "Prevented Denials," "Improved Patient Collections," and "Streamlined Workflows." A large "25%" graphic and an upward-trending arrow made of gears connect the two sides, illustrating a 25% revenue recovery over six months.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_42_14-PM.png)
+![A split-screen graphic for a dental practice case study. On the left, a professional dental office setting with a staff member at a computer. On the right, a digital tablet displaying financial growth charts and a checklist highlighting "Prevented Denials," "Improved Patient Collections," and "Streamlined Workflows." A large "25%" graphic and an upward-trending arrow made of gears connect the two sides, illustrating a 25% revenue recovery over six months.](/img/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_42_14-PM.png)
 
 This case study follows a small, multi-operatory dental practice offering general and restorative care. The team had been stable for years, patient demand was consistent, and clinical quality was not the issue. Still, leadership felt something was off.
 

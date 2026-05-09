@@ -112,7 +112,7 @@ Qiaben Health provides transparent pricing with no hidden costs. This clarity al
 
 Qiaben Health is built to scale with your practice. Whether you are a small clinic or a growing healthcare network, the software can adapt to your evolving needs, ensuring continued efficiency and effectiveness.
 
- ![](https://qiaben.com/wp-content/uploads/2024/04/front-view-working-covid-concept-1024x1024.jpg)
+ ![](/img/uploads/2024/04/front-view-working-covid-concept-1024x1024.jpg)
 
 ## Conclusion
 

@@ -21,7 +21,7 @@ Medical billing is one of the most important parts of running a successful healt
 
 In this blog, we’ll guide you through the best ways to optimise your medical billing. Whether you run a small clinic or a large healthcare center, these tips can help you improve efficiency and increase revenue.
 
-![medical billing](https://qiaben.com/wp-content/uploads/2024/04/analyzing-business-chart-1024x683.jpg)
+![medical billing](/img/uploads/2024/04/analyzing-business-chart-1024x683.jpg)
 
 ### 1\. Understand the Medical Billing Process
 
@@ -75,7 +75,7 @@ By identifying the reasons, you can fix them and reduce future issues. **[The be
 
 ### 7\. Follow Up Promptly on Unpaid Claims
 
-![insurance verification](https://qiaben.com/wp-content/uploads/2024/04/claim-submission-image.jpeg)
+![insurance verification](/img/uploads/2024/04/claim-submission-image.jpeg)
 
 Sometimes, even clean claims can go unpaid if no one follows up. Insurance companies can delay or miss processing claims. Without follow-up, you lose revenue.
 
@@ -143,4 +143,4 @@ Qiaben Health Solution offers **medical billing consultation, compliance trainin
        (844) 874-2236\]  
 📧 info@qiabenhealth.com
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

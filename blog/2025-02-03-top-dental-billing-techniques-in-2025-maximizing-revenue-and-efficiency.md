@@ -160,7 +160,7 @@ To obtain peak billing performance, you must measure the right metrics on a recu
 |   Practices Using AI   |   58%   |
 |   Practices Sourcing Billing   |   42%   |
 
-![Top Dental Billing Techniques in 2025: Maximizing Revenue and Efficiency](https://qiaben.com/wp-content/uploads/2025/02/top-dental-billing-techniques-1-300x169.png)
+![Top Dental Billing Techniques in 2025: Maximizing Revenue and Efficiency](/img/uploads/2025/02/top-dental-billing-techniques-1-300x169.png)
 
 ## 8\. Real Results: Success Stories & Case Studies 
 

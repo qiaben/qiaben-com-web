@@ -16,7 +16,7 @@ authors: [qiaben]
 
 In today’s digital era, securing patient data in medical billing is more critical than ever. The Health Insurance Portability and Accountability Act (HIPAA) establishes strict guidelines for handling protected health information (PHI). There is a risk of severe penalties, damage to one's reputation, and legal action if you don't follow the rules. This guide explores the essentials of HIPAA compliance in medical billing and how healthcare providers can ensure the security of patient information.
 
-![HIPAA Compliance Uncovered: The Ultimate Guide to Secure Medical Billing:](https://qiaben.com/wp-content/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png)
+![HIPAA Compliance Uncovered: The Ultimate Guide to Secure Medical Billing:](/img/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png)
 
 #### **Understanding Medical Billing under HIPAA:**
 
@@ -90,4 +90,4 @@ There are a few key rules in [HIPAA](https://qiaben.com/what-are-hipaa-violatio
 
 ####          HIPAA compliance in medical billing is unchangeable. To execute proper authentication and train the employee,  using HIPAA software to maintain proper exams and secure the patient information to neglect the rejections. Giving more  importance to compliance not only for maintaining patient information but also to boost the medical billing.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

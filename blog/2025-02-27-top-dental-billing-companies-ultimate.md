@@ -40,7 +40,7 @@ HIPAA violations can cost from $100 to $50,000 per incident, up to a maximum of 
 
 ### 1\. Qiaben Health
 
-  [Dr. Jay Doshi@username](https://www.google.com/maps/contrib/102611196809965896545/reviews/@29.931977,-96.5648441,9z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDMzMS4wIKXMDSoASAFQAw%3D%3D) I signed up with Qaiben about 4 to 5 months ago. They have been great to work with! Siva And his team are very good about communication via text or email. They get all work done and claims paid in a very efficient manner. With denials, they are very good about gathering information and resubmitting it. If we have any questions or concerns, they are very prompt to respond via a call or zoom. This has been a much better option than having someone physically in the office. I highly recommend them. ![dental billing companies](https://qiaben.com/wp-content/uploads/2025/02/Screenshot-11-1024x517.png)
+  [Dr. Jay Doshi@username](https://www.google.com/maps/contrib/102611196809965896545/reviews/@29.931977,-96.5648441,9z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDMzMS4wIKXMDSoASAFQAw%3D%3D) I signed up with Qaiben about 4 to 5 months ago. They have been great to work with! Siva And his team are very good about communication via text or email. They get all work done and claims paid in a very efficient manner. With denials, they are very good about gathering information and resubmitting it. If we have any questions or concerns, they are very prompt to respond via a call or zoom. This has been a much better option than having someone physically in the office. I highly recommend them. ![dental billing companies](/img/uploads/2025/02/Screenshot-11-1024x517.png)
 
 [Qiaben Health](https://qiaben.com/dental-billing-services/)has been an exceptional dental billing and insurance claims processing company. Through its sophisticated automation and highly qualified team, Qiaben allows practices to recover as much as 25% extra revenue within 6 months.
 
@@ -56,7 +56,7 @@ HIPAA violations can cost from $100 to $50,000 per incident, up to a maximum of 
 
 ### 2\. EAssist Dental Solutions
 
-  DR. BENJAMIN KUR@username I can't tell you how utterly relieved I was to now have the billing portion of my practice completely outside of my office, and in the hands of professionals. ![dental billing company](https://qiaben.com/wp-content/uploads/2025/02/Screenshot-12-1024x510.png)
+  DR. BENJAMIN KUR@username I can't tell you how utterly relieved I was to now have the billing portion of my practice completely outside of my office, and in the hands of professionals. ![dental billing company](/img/uploads/2025/02/Screenshot-12-1024x510.png)
 
 [eAssist](https://dentalbilling.com/) is one of the most widely used dental billing companies in the United States, offering complete insurance claims processing. Their platform is designed to take billing out of your hands completely and really boost cash flow.
 
@@ -68,7 +68,7 @@ HIPAA violations can cost from $100 to $50,000 per incident, up to a maximum of 
 
 ### 3\. Dental Cash flow Solutions
 
-  Carla Ferrada@username lt is very much an example of what 'Excellent Customer Service' is all about. Their goal is to ensure all their clients' needs are addressed in a timely and professional manner at all times. ![dental billing company](https://qiaben.com/wp-content/uploads/2025/02/Screenshot-14-1024x499.png)
+  Carla Ferrada@username lt is very much an example of what 'Excellent Customer Service' is all about. Their goal is to ensure all their clients' needs are addressed in a timely and professional manner at all times. ![dental billing company](/img/uploads/2025/02/Screenshot-14-1024x499.png)
 
 [DCS](https://www.dentalclaimsupport.com/) allows dental practices to cut payment delays and coding errors. Its customized dental billing and insurance claims processing service means that practices can experience financial transparency.
 
@@ -80,7 +80,7 @@ HIPAA violations can cost from $100 to $50,000 per incident, up to a maximum of 
 
 ### 4\. Capline Dental Services
 
-  Pike Smiles @username "We recently had the pleasure to work with Capline Dental Services for our insurance credentialing needs and I am thoroughly impressed with their service. The credentialing process can often be complex and time-consuming, but Capline made it remarkably smooth and efficient. They were proactive in communicating every step of the process, ensuring that we were always informed and up to date. Highly recommend them!" ![dental billing cpmanies](https://qiaben.com/wp-content/uploads/2025/02/Screenshot-13-1024x488.png)
+  Pike Smiles @username "We recently had the pleasure to work with Capline Dental Services for our insurance credentialing needs and I am thoroughly impressed with their service. The credentialing process can often be complex and time-consuming, but Capline made it remarkably smooth and efficient. They were proactive in communicating every step of the process, ensuring that we were always informed and up to date. Highly recommend them!" ![dental billing cpmanies](/img/uploads/2025/02/Screenshot-13-1024x488.png)
 
 [Capline](https://www.caplinedentalservices.com/) is proficient in diminishing AR days and speeding up the processing of insurance claims. Credentialing, verification, and resubmission are Capline's strengths.
 
@@ -92,7 +92,7 @@ HIPAA violations can cost from $100 to $50,000 per incident, up to a maximum of 
 
 ### 5\. EZ Dental Billing
 
-  Dr. John Hill - Springwoods Smiles@username As the owner of a starting up practice, I was worried about dealing with massive amounts of information from my patients. I was lucky to find EZ Dental because they made my life much easier by taking care of everything in the most careful way possible. Thank you so much for all your good efforts!” ![dental billing companies](https://qiaben.com/wp-content/uploads/2025/02/Screenshot-15-1024x512.png)
+  Dr. John Hill - Springwoods Smiles@username As the owner of a starting up practice, I was worried about dealing with massive amounts of information from my patients. I was lucky to find EZ Dental because they made my life much easier by taking care of everything in the most careful way possible. Thank you so much for all your good efforts!” ![dental billing companies](/img/uploads/2025/02/Screenshot-15-1024x512.png)
 
 [EZ Dental Billing](https://www.ezdentalbilling.com/) simplifies dental billing and insurance claims processing for start-ups and growing practices. Its user-friendly service approach enables faster payment cycles and fewer errors.
 
@@ -220,7 +220,7 @@ Before signing up, request a demo. Top companies like Qiaben Health provide:
 The correct partner for your dental billing and insurance claims process can boost efficiency and revenues at your practice profoundly. Of the best contenders, Qiaben Health stands out through their AI-driven system, experienced staff, and great client outcomes.  
 If you need to reduce claim denials, speed up payments, and boost profitability, Qiaben is the dental billing program that can transform your financial workflow. Frequently Asked Questions (FAQs) About Dental Billing and Insurance Claims Processing
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)
 
 ## FAQ
 

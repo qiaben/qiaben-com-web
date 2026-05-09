@@ -107,7 +107,7 @@ Red Flags:
 - Missing narrative or attachments
     
 
-  ![Simplifying Restorative Dental Billing with D2000-D2999 Codes:](https://qiaben.com/wp-content/uploads/2025/01/restorative-coding-1-300x169.png) [Click here](https://qiaben.com/contact/)
+  ![Simplifying Restorative Dental Billing with D2000-D2999 Codes:](/img/uploads/2025/01/restorative-coding-1-300x169.png) [Click here](https://qiaben.com/contact/)
 
 ## 5\. Frequency of Coverage & Plan Limitations 
 

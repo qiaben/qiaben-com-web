@@ -65,7 +65,7 @@ AI-powered claim scrubbing tools can review claims before submission to ensure t
 
 AI can automate the payment posting process, ensuring that payments are accurately recorded and discrepancies are quickly identified and resolved.
 
-![](https://qiaben.com/wp-content/uploads/2024/07/Untitled-design-5-1024x553.png)
+![](/img/uploads/2024/07/Untitled-design-5-1024x553.png)
 
 #### Case Study:
 

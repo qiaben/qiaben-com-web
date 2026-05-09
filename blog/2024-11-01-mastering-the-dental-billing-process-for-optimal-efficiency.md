@@ -76,7 +76,7 @@ authors: [qiaben]
 
          Convey patient articulations in the event that there's any equilibrium and circle back to exceptional sums.
 
-![Master dental billing process](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-3-768x768.jpg)
+![Master dental billing process](/img/uploads/2024/11/Untitled-design-3-768x768.jpg)
 
 ### ****2\. Segment : Common Difficulties in Dental Billing****
 
@@ -92,7 +92,7 @@ authors: [qiaben]
 
           Neglected patient adjusts can make income issues. Talk about normal reasons patients defer installments, for example, disarray over what protection covers, and how clear correspondence can address these errors forthright.
 
-![Mastering Dental Billing Efficiency](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-6-768x768.jpg)
+![Mastering Dental Billing Efficiency](/img/uploads/2024/11/Untitled-design-6-768x768.jpg)
 
 ### ****3\. Steps to optimise the dental billing process:****
 

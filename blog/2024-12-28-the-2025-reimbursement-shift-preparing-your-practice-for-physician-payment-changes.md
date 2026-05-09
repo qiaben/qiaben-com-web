@@ -5,7 +5,7 @@ date: 2024-12-28
 authors: [qiaben]
 ---
 
-![payment changes](https://qiaben.com/wp-content/uploads/2024/12/qtq80-ws913p-1024x678.jpeg)
+![payment changes](/img/uploads/2024/12/qtq80-ws913p-1024x678.jpeg)
 
 The medical services scene proceeds to develop, and 2025 carries critical updates to doctor repayment arrangements. These progressions will influence how clinical practices work, oversee funds, and convey care. To remain ahead, understanding the updates and their suggestions for your practice is pivotal. Here is a breakdown of what you really want to be aware and how to plan.
 
@@ -97,7 +97,7 @@ For the 2025 presentation year, CMS acquainted insignificant changes with MIPS y
 
 Charging and coding divisions in works on partaking in MIPS need to integrate these new quality measures into their revealing frameworks. Effective cooperation in MIPS requires a comprehension of explicit measurements attached to Federal health care repayment. In cardiovascular consideration, adherence to these actions can help rehearses monetarily through MIPS execution motivations, which award works on gathering or surpassing execution benchmarks.
 
-![Investment plans](https://qiaben.com/wp-content/uploads/2024/12/qtq80-LBIz9R-1024x655.jpeg)
+![Investment plans](/img/uploads/2024/12/qtq80-LBIz9R-1024x655.jpeg)
 
 ### Effect of Regulative Promotion on 2025 Repayment
 

@@ -102,7 +102,7 @@ What They Offer:
 
 Why Work Here: Offers formal processes and stability in the corporate healthcare sector.
 
-![Top Companies Hiring for Remote Dental Billing Jobs in 2025](https://qiaben.com/wp-content/uploads/2025/02/hiring-db-jobs-300x169.png)
+![Top Companies Hiring for Remote Dental Billing Jobs in 2025](/img/uploads/2025/02/hiring-db-jobs-300x169.png)
 
 6.Ciox Health
 
@@ -232,4 +232,4 @@ Whether you are new to billing or an experienced professional ready for change, 
 - Schedule a call to discuss career coaching or training.
 - The future of dental billing arrives: remote—and it begins now.
 
-![Female Dental Doctor](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![Female Dental Doctor](/img/uploads/2024/04/1.jpg)

@@ -31,7 +31,7 @@ The integration of [**AI in Medical and Dental Billing**](https://qiaben.com/can
 
 By adopting AI, healthcare providers can ensure that their **Medical and Dental Billing Services** are not only accurate but also efficient and cost-effective.
 
- ![](https://qiaben.com/wp-content/uploads/2024/08/OFRI-8-1024x1024.png)
+ ![](/img/uploads/2024/08/OFRI-8-1024x1024.png)
 
 ### How AI Benefits Medical and Dental Billing Services
 

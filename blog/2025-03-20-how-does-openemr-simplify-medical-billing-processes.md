@@ -27,7 +27,7 @@ Managing denials or rejections
 
 Legacy systems or manual billing are susceptible to errors, delays, and lost revenues. OpenEMR addresses this issue by minimizing these activities to one entire system. This saves practices time and money and gets them paid sooner.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__winter-setting-openemr-and-qiaben-logos-projected-__14945-1024x585.png)
+![Open EMR](/img/uploads/2025/03/freepik__winter-setting-openemr-and-qiaben-logos-projected-__14945-1024x585.png)
 
 ### One Platform for All Your Needs
 
@@ -51,7 +51,7 @@ Monitoring of real-time claim status
 
 Automation stops human error, such as typing in bad insurance IDs or codes. OpenEMR also checks claim information prior to submission, which minimizes denials and rejections.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-07-29-at-12.49.51_819063a5-300x300.jpg)
+![open EMR](/img/uploads/2025/04/WhatsApp-Image-2025-07-29-at-12.49.51_819063a5-300x300.jpg)
 
 ### Easy Patient Billing
 
@@ -111,7 +111,7 @@ Recurring billing problems
 
 Through reactions based on these metrics, healthcare providers can streamline workflows, collect maximum revenue, and prevent future problems.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13824-300x171.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13824-300x171.png)
 
 ### Intrinsic Compliance and Security
 
@@ -180,4 +180,4 @@ By streamlining clinical and financial tasks into one system, OpenEMR reduces yo
 
 If you are to deploy OpenEMR, offer expert support to install the system correctly. Correct installation and training will assist OpenEMR in revolutionizing your practice and maximizing the health of your revenue cycle.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

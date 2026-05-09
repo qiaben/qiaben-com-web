@@ -15,7 +15,7 @@ Does OpenEMR follow HIPAA rules?
 And most importantly, how secure is it for patient data?  
 Let's put it simply.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71742-1024x585.png)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71742-1024x585.png)
 
 ### Why Security & Compliance Matter in EMR Systems
 
@@ -42,7 +42,7 @@ If you're using an EMR system, [**HIPAA**](https://www.hhs.gov/hipaa/index.html)
 
 But here's the deal: it's not just the software that matters. It's how you use it. Things can go incorrect, even with a secure EMR, if your clinic isn't set up properly.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71743-768x439.png)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71743-768x439.png)
 
 ### OpenEMR Compared to Paid EMR Systems
 
@@ -64,7 +64,7 @@ But this freedom means **you have to take responsibility**. You need to keep you
 A clinic in California switched to OpenEMR to save cash and make their work easier. But after half a year, they had a data problem — and it wasn’t OpenEMR’s fault. Their server permissions weren’t set correctly.  
 They called in a compliance expert and fixed their system. Now, they’re HIPAA compliant and way happier with OpenEMR than their old software.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71744-768x439.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71744-768x439.jpeg)
 
 ### Why Cloud Hosting Is Usually Safer for Your Data
 
@@ -85,7 +85,7 @@ Keeping your EMR system on your own server might sound smart, but what if the po
 
 **The best part?** You still own your data! Some commercial EMR companies don’t let you do that; they charge crazy fees to get your own data back.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71745-768x439.png)
+![](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71745-768x439.png)
 
 ### What About Rules Around the World? (Like GDPR or ISO)
 
@@ -120,7 +120,7 @@ Even the most secure EMR can be a problem if your team doesn’t actually know h
 - How to spot phishing and other threats
     
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__12011-768x439.png)
+![](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__12011-768x439.png)
 
 ### Compliance Benefits of OpenEMR
 
@@ -137,7 +137,7 @@ Even the most secure EMR can be a problem if your team doesn’t actually know h
     Healthcare practices can adjust settings to align with their internal compliance policies and industry requirements.
     
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__12012-768x439.png)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__12012-768x439.png)
 
 **FAQs**
 

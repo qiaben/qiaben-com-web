@@ -21,7 +21,7 @@ Why Mental Health Providers Will Need Specific EHR Software There is a general s
 
 There are:
 
-![free-ehr-mental-health-providers](https://qiaben.com/wp-content/uploads/2024/10/download-1-1024x585.webp)
+![free-ehr-mental-health-providers](/img/uploads/2024/10/download-1-1024x585.webp)
 
 ## Best Free EHR Software for Mental Health Providers
 

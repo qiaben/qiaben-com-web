@@ -11,7 +11,7 @@ What surprises many teams is that choosing the new EHR is often the easy part. T
 
 This guide is written for clinics planning a transition and wanting to avoid those hidden traps  based on what’s actually happening in the market right now.
 
-![An infographic titled "EHR Migration Checklist: Avoid These 10 Data Transfer Pitfalls," featuring a side-by-side comparison of a cluttered "Old System" and a streamlined "New System" connected by a digital data transfer bridge. A central checklist highlights common migration risks such as "Dirty Data," "Bad Mapping," "Billing Gaps," and "Skip Training" with red and green status icons against a blurred clinical office background.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-16-2026-09_02_05-PM.png)
+![An infographic titled "EHR Migration Checklist: Avoid These 10 Data Transfer Pitfalls," featuring a side-by-side comparison of a cluttered "Old System" and a streamlined "New System" connected by a digital data transfer bridge. A central checklist highlights common migration risks such as "Dirty Data," "Bad Mapping," "Billing Gaps," and "Skip Training" with red and green status icons against a blurred clinical office background.](/img/uploads/2026/02/ChatGPT-Image-Feb-16-2026-09_02_05-PM.png)
 
 ## Why EHR migrations feel harder than expected
 

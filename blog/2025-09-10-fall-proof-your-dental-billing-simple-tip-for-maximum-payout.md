@@ -9,7 +9,7 @@ Fall brings crisp air, school routines, family gatherings, and the anticipation 
 
 By adopting the right strategies, practices can reduce denials, improve reimbursements, and keep patient schedules full—while still focusing on delivering quality **dental care**.
 
-![Dental Billing](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__99948.jpeg)
+![Dental Billing](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__99948.jpeg)
 
 ### Six Strategies for Seamless Dental Billing Operations This Fall
 

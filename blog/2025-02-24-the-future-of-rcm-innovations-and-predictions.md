@@ -11,7 +11,7 @@ Healthcare is evolving quickly, and these changes affect how hospitals and clini
 
 In this blog, we’ll look at the latest trends in RCM and how they’re helping providers stay financially strong while continuing to deliver quality care.
 
-![Image of RCM process from web](https://qiaben.com/wp-content/uploads/2025/02/RCM.jpg)
+![Image of RCM process from web](/img/uploads/2025/02/RCM.jpg)
 
 ### Smart Automation
 

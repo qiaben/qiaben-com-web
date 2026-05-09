@@ -10,7 +10,7 @@ authors: [qiaben]
 
 Maintaining clear and accurate billing is essential for building trust with your patients. Many patients struggle to understand their dental bills, and this can create stress or confusion. Here’s a simple, patient-friendly way to handle billing concerns while strengthening your practice–patient relationship.
 
-![How To Handle A Dental Patient Who Has A Problem With Their Bill?](https://qiaben.com/wp-content/uploads/2025/02/handle-dental-patient-billing-768x432.png)
+![How To Handle A Dental Patient Who Has A Problem With Their Bill?](/img/uploads/2025/02/handle-dental-patient-billing-768x432.png)
 
 #### 1\. Stay calm and listen actively
 

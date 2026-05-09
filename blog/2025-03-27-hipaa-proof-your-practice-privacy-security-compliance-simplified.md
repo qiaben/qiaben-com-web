@@ -13,7 +13,7 @@ authors: [qiaben]
 
 In today's digital healthcare perspective, secure patient details are more important than ever, with more cyber issues and strict control. Make sure your practice with HIPAA compliance is more important. Still tracking the difficulty of privacy, security, and compliance can be complex. Luckily, with the proper strategies you can secure your details and maintain privacy.  
 
-![HIPAA-Proof Your Practice: Privacy, Security & Compliance Simplified:](https://qiaben.com/wp-content/uploads/2025/03/HIPAA-Proof-Your-Practice-Privacy-Security-Compliance-Simplified-2-768x432.png)
+![HIPAA-Proof Your Practice: Privacy, Security & Compliance Simplified:](/img/uploads/2025/03/HIPAA-Proof-Your-Practice-Privacy-Security-Compliance-Simplified-2-768x432.png)
 
 #### **What is HIPAA, and why does it matter?**
 
@@ -90,4 +90,4 @@ Even with the best intentions, practices can sometimes overlook key compliance a
 
 Achieving and maintaining HIPAA compliance doesn’t have to be overwhelming. By understanding the core principles of privacy, security, and compliance and leveraging technology, you can simplify the process. Ultimately, a HIPAA-proof practice not only protects sensitive data but also fosters trust with your patients, boosting your reputation and reliability.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

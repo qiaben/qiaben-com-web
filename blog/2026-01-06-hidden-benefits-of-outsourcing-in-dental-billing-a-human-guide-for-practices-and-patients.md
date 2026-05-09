@@ -7,7 +7,7 @@ authors: [qiaben]
 
 If the phrase **outsourcing in dental billing** makes you picture a faceless company taking over patient calls, stop for a second. There’s a lot more to it — and some real, quiet benefits that help patients feel calmer and practices run smoother. This article explains those benefits in plain language, so everyone (patients and clinics) understands why outsourcing can be a gentle, trust-building choice  not something to fear.
 
-![MD audit shield](https://qiaben.com/wp-content/uploads/2026/01/Gemini_Generated_Image_8qjdil8qjdil8qjd.png)
+![MD audit shield](/img/uploads/2026/01/Gemini_Generated_Image_8qjdil8qjdil8qjd.png)
 
 #### **What patients usually fear — and why that matters**
 
@@ -84,7 +84,7 @@ If your practice is considering outsourcing, here are five practical, human-focu
 
 These steps make **outsourcing in dental billing** a tool for better patient relationships — not a replacement for them.
 
-![](https://qiaben.com/wp-content/uploads/2025/12/pexels-rdne-6129116-1024x683.jpg)
+![](/img/uploads/2025/12/pexels-rdne-6129116-1024x683.jpg)
 
 **A final word to patients: outsourcing is on your side**
 

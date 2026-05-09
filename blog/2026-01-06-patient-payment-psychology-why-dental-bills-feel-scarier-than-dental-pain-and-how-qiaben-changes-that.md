@@ -5,7 +5,7 @@ date: 2026-01-06
 authors: [qiaben]
 ---
 
-![gingiva anatomy](https://qiaben.com/wp-content/uploads/2026/01/pexels-photo-4971514-4971514-1024x683.jpg)
+![gingiva anatomy](/img/uploads/2026/01/pexels-photo-4971514-4971514-1024x683.jpg)
 
 #### **The fear that comes after treatment**
 
@@ -55,7 +55,7 @@ One of the simplest ways to reduce payment anxiety is to show patients someone�
 
 People relax when they think, “Okay — someone is handling this. I don’t have to fight through it alone.”
 
-![](https://qiaben.com/wp-content/uploads/2025/10/download-67-1024x576.webp)
+![](/img/uploads/2025/10/download-67-1024x576.webp)
 
 #### **Transparency speeds payments**
 

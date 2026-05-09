@@ -146,4 +146,4 @@ Dental narratives may be short, but they have a significant impact. With strong 
 
 Whether you create them in-house or outsource them, effective narratives can greatly improve your revenue cycle and claim approval success.
 
-[Click here](https://qiaben.com/contact/) ![Female Dental Doctor](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://qiaben.com/contact/) ![Female Dental Doctor](/img/uploads/2024/04/1.jpg)

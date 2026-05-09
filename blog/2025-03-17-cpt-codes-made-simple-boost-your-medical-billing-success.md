@@ -60,7 +60,7 @@ Temporary codes for emerging medical procedures not yet fully approved by the AM
 
 Example: 0640T – AI-based analysis of heart rhythm abnormalities.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/programming-background-with-person-working-with-codes-computer-1-1-1024x683.jpg)
+![](/img/uploads/2025/03/programming-background-with-person-working-with-codes-computer-1-1-1024x683.jpg)
 
 ### How to Use CPT Codes Correctly
 
@@ -162,7 +162,7 @@ Here is a **CPT Coding Cheat Sheet** to help you quickly reference essential inf
 ✔ Train staff regularly on proper documentation and coding guidelines.  
 ✔ Conduct periodic internal audits to prevent claim rejections.
 
-![coding](https://qiaben.com/wp-content/uploads/2025/03/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-into-secure-network-server-with-lines-code-1024x641.jpg)
+![coding](/img/uploads/2025/03/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-into-secure-network-server-with-lines-code-1024x641.jpg)
 
 ### Final Thoughts
 
@@ -174,4 +174,4 @@ Need expert CPT coding support? Qiaben Health Solutions offers professional **[m
 
 👉 Visit **[Qiaben.com](https://qiaben.com/)** today!
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

@@ -10,7 +10,7 @@ authors: [qiaben]
 
 ## The Role of EHR in Telehealth: Enhancing Remote Patient Management
 
-![EHR and telehealth](https://qiaben.com/wp-content/uploads/2024/11/Remote-work-experience-solution-Instagram-post-768x768.jpg)
+![EHR and telehealth](/img/uploads/2024/11/Remote-work-experience-solution-Instagram-post-768x768.jpg)
 
 ### **1.Introduction**
 
@@ -70,7 +70,7 @@ authors: [qiaben]
 
   Numerous patients are mindful about information security in Telehealth. Tending to these worries straightforwardly by making sense of how their information is safeguarded inside an EHR-incorporated Telehealth framework can assemble trust.
 
-![telehealth](https://qiaben.com/wp-content/uploads/2024/11/Blue-White-Navy-Modern-Minimalist-Telemedicine-Facebook-Cover-768x433.jpg)
+![telehealth](/img/uploads/2024/11/Blue-White-Navy-Modern-Minimalist-Telemedicine-Facebook-Cover-768x433.jpg)
 
 ### **5\. Challenges in Coordinating EHR with Telehealth Frameworks**
 

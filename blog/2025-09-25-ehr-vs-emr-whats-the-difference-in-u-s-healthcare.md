@@ -11,7 +11,7 @@ And with the change came new buzzwords—used interchangeably, and loosely in so
 
 ## What is an EMR (Electronic Medical Record)?
 
-![emr](https://qiaben.com/wp-content/uploads/2025/09/download-53-1024x576.webp)
+![emr](/img/uploads/2025/09/download-53-1024x576.webp)
 
 An Electronic Medical Record, or [EMR](https://qiaben.com/open-emr/), is a computerized copy of a single patient's record for one practice or facility. It's much like the paper chart that a physician would keep in a file cabinet. 
 
@@ -56,7 +56,7 @@ EHRs offer interoperability, allowing healthcare providers to share and access u
 
 ## Why EHRs Are Better?
 
-![](https://qiaben.com/wp-content/uploads/2025/09/download-54-1024x576.webp)
+![](/img/uploads/2025/09/download-54-1024x576.webp)
 
 EHRs build a 360-degree picture of a patient's health care experience. For example, when a patient sees a cardiologist, primary care doctor, and receives prescriptions from a pharmacy, the EHR accumulates all that information in a single location. This prevents unnecessary testing, improves diagnostic accuracy, and prevents medical errors.  EHRs are patient-centric, while EMRs are doctor-centric.   
   
@@ -226,4 +226,4 @@ Effectively, EMRs were the bridge, and EHRs are the foundation for a connected, 
 
 To physicians, policymakers, and patients, the message is clear: EHRs are not merely the future—but they're already on the ground transforming U.S. health care. 
 
-[Click here](https://qiaben.com/contact/) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://qiaben.com/contact/) ![](/img/uploads/2024/04/1.jpg)

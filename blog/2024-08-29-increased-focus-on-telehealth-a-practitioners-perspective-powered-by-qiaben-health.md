@@ -11,7 +11,7 @@ authors: [qiaben]
 The COVID-19 pandemic has accelerated the adoption of remote healthcare services, and this trend is expected to continue. As a practitioner, I have seen first hand the benefits and challenges of remote health services. In this blog post, I will share my insights on the increased focus on remote healthcare, including the benefits, challenges, and best practices for implementation.
 
 [  
-![AI Medical](https://qiaben.com/wp-content/uploads/2024/08/OFRI-1024x1024.png)](https://calendly.com/qiaben/15-minutes-meeting?month=2024-06)  
+![AI Medical](/img/uploads/2024/08/OFRI-1024x1024.png)](https://calendly.com/qiaben/15-minutes-meeting?month=2024-06)  
 Benefits of Remote Healthcare:
 
 - Increased access to care: Remote healthcare services can reach patients in remote or underserved areas.

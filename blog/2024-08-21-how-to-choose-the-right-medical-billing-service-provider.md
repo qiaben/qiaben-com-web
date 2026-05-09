@@ -71,7 +71,7 @@ In today's fast-paced healthcare environment, technology plays a crucial role in
     
 - **Real-Time Analytics:** Look for providers who offer real-time analytics to help you monitor your revenue cycle and make informed decisions.
 
- ![](https://qiaben.com/wp-content/uploads/2024/08/INGOUDE-CLINIC-12-1024x553.png)
+ ![](/img/uploads/2024/08/INGOUDE-CLINIC-12-1024x553.png)
 
 ## Compliance and Security
 

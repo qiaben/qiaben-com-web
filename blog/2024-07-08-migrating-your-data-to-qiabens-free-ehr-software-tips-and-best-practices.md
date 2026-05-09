@@ -170,7 +170,7 @@ Dr. Smith’s clinic successfully migrated to Qiaben’s EHR within three months
 - **Early Planning:** Starting the migration process early helps address potential issues before they become critical.
 - **Staff Involvement:** Involving staff in planning and testing ensures a smoother transition.
 
- ![](https://qiaben.com/wp-content/uploads/2024/04/financial-advisor-couple-wearing-face-masks-while-talking-office-1024x683.jpg)
+ ![](/img/uploads/2024/04/financial-advisor-couple-wearing-face-masks-while-talking-office-1024x683.jpg)
 
 ### Conclusion
 

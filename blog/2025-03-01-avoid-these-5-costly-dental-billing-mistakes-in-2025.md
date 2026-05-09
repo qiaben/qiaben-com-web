@@ -17,7 +17,7 @@ Whether you're the practice owner, a billing specialist, or office administrator
 
 This comprehensive, step-by-step guide will walk you through the most destructive dental billing mistakes still plaguing practices in 2025. More significantly, you'll discover how to prevent them with new, battle-tested strategies. From CDT code updates to artificial intelligence and cyber security, we'll walk you through the do-it-yourself steps you can implement immediately to streamline your billing process—and your bottom line..
 
-![Avoid These 5 Costly Dental Billing Mistakes in 2025](https://qiaben.com/wp-content/uploads/2025/03/avoid-dental-billing-mistakes-300x169.png)
+![Avoid These 5 Costly Dental Billing Mistakes in 2025](/img/uploads/2025/03/avoid-dental-billing-mistakes-300x169.png)
 
 ### 1\. Reporting Stale or Inaccurate CDT Codes 
 
@@ -153,7 +153,7 @@ Healthcare workers are seeing record cyberattacks, and dental offices are a new 
 
 Bonus Tip: Enable two-factor authentication (2FA) for all billing software logins. It's one of the easiest ways to steer clear of phishing and ransomware attacks.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-splitscreen-of-a-computer-showing-various-openem__79345-300x300.jpeg)
+![](/img/uploads/2025/03/freepik__a-splitscreen-of-a-computer-showing-various-openem__79345-300x300.jpeg)
 
 ### Bonus: Other Billing Blunders Costing You Costing Thousands 
 

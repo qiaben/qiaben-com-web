@@ -27,7 +27,7 @@ For example, during certain seasons, patient billing volume may fluctuate due to
 
 * * *
 
- ![AI Medical](https://qiaben.com/wp-content/uploads/2024/08/OFRI-1024x1024.png)
+ ![AI Medical](/img/uploads/2024/08/OFRI-1024x1024.png)
 
 **Related: [How AI's Transforming Medical & Dental Billing?](https://qiaben.com/how-ais-transforming-medical-dental-billing/)**
 

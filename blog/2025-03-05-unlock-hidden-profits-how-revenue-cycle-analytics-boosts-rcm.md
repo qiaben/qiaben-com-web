@@ -17,7 +17,7 @@ When claims are denied or delayed, organizations must spend additional time and 
 
 In this article, we’ll explore what revenue cycle analysis is, highlight key RCM metrics to monitor, and share strategies for using analytics to unlock hidden profits in your practice.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/hand-workplace-working-analysis-note-768x513.jpg)
+![](/img/uploads/2025/03/hand-workplace-working-analysis-note-768x513.jpg)
 
 ### What Is Revenue Cycle Analytics?
 
@@ -121,7 +121,7 @@ To truly unlock hidden profits, healthcare organizations need an integrated, dat
 
 Providers using advanced analytics have reported **up to 40% denial reduction** and a **93% first pass yield**, transforming their financial outlook and operational efficiency.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/revenue-cycle-1024x684.jpg)
+![](/img/uploads/2025/03/revenue-cycle-1024x684.jpg)
 
 ### Why Choose Qiaben Healthcare Solutions for Revenue Cycle Analytics?
 

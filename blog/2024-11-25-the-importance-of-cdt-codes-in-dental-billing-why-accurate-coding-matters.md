@@ -14,7 +14,7 @@ authors: [qiaben]
 
 [CDT Codes](https://www.combinehealth.ai/blog/dental-coding-what-are-cdt-codes-and-why-are-they-important) are normalized codes used to precisely record and report dental strategies. Their motivation is to guarantee consistency in records, smooth out protection asserts, and coordinate with Electronic Health Records (EHRs).
 
-![CDT Codes](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-29-768x768.jpg)
+![CDT Codes](/img/uploads/2024/11/Untitled-design-29-768x768.jpg)
 
 ### **Key Purposes:** 
 

@@ -18,7 +18,7 @@ Before diving into the myths, it’s crucial to understand why accurate medical 
 
 #### Common Myths About Medical Billing
 
- ![](https://qiaben.com/wp-content/uploads/2024/08/Untitled-design-24-1024x737.png)
+ ![](/img/uploads/2024/08/Untitled-design-24-1024x737.png)
 
 ##### Myth 1: Medical Billing is Just Data Entry
 

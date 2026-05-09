@@ -10,7 +10,7 @@ tags:
 authors: [qiaben]
 ---
 
-![patient payment is being cross-checked by verifier](https://qiaben.com/wp-content/uploads/2025/02/patient-payment-image.webp)
+![patient payment is being cross-checked by verifier](/img/uploads/2025/02/patient-payment-image.webp)
 
 ### Introduction
 
@@ -42,7 +42,7 @@ Manual billing is time-consuming. Automated systems in the best EHR software sim
 
 When patients face large bills, they might ignore them. But small, scheduled payments are easier to manage. This reduces the chances of non-payment and ensures a predictable revenue flow.
 
-![](https://qiaben.com/wp-content/uploads/2025/02/patient-payment-images.webp)
+![](/img/uploads/2025/02/patient-payment-images.webp)
 
 ### How to Implement Smart Patient Payment Plans
 

@@ -11,7 +11,7 @@ tags:
 authors: [qiaben]
 ---
 
-![medicare coding](https://qiaben.com/wp-content/uploads/2024/12/medical-coding-service-image-3.jpg)
+![medicare coding](/img/uploads/2024/12/medical-coding-service-image-3.jpg)
 
 The Centers for Medicare & Medicaid Services (CMS) has finalized several key changes to Medicare coding regulations for 2025. These updates impact various aspects of [medical billing](https://qiaben.com/medical-billing-service/), including caregiver training, behavioral health services, post-discharge care, and reimbursement structures. Staying ahead of these changes is crucial for healthcare providers, medical coders, and revenue cycle managers to ensure compliance and maximize reimbursement.
 
@@ -51,7 +51,7 @@ CMS is introducing codes for advanced primary care management, which will help p
 - **Expansion of Telehealth Coverage**: More services can be conducted remotely, increasing patient access and provider efficiency.
 - **Potential Revenue Loss for Physicians**: The PFS reduction means providers may need to optimize billing strategies to mitigate revenue cuts.
 
-![preventive codes](https://qiaben.com/wp-content/uploads/2024/12/preventive-codes-4-1024x576.jpg)
+![preventive codes](/img/uploads/2024/12/preventive-codes-4-1024x576.jpg)
 
 ### Final Thoughts
 

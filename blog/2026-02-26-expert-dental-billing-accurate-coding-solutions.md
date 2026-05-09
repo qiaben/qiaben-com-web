@@ -13,7 +13,7 @@ authors: [qiaben]
     
 - With expertise in accurate coding, timely claim submission, and revenue cycle management, Qiaben helps dental offices improve reimbursements while focusing on delivering exceptional patient care.
 
-![Hand selecting digital checklist on virtual screen representing dental billing coding process, accurate claim submission, insurance verification, and revenue cycle management.](https://qiaben.com/wp-content/uploads/2026/02/30ccf14ea5ecad8e4a1854f75a62e43d.jpg)
+![Hand selecting digital checklist on virtual screen representing dental billing coding process, accurate claim submission, insurance verification, and revenue cycle management.](/img/uploads/2026/02/30ccf14ea5ecad8e4a1854f75a62e43d.jpg)
 
 ### CODING EXPERTS:
 

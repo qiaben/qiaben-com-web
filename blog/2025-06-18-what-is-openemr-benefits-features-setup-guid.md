@@ -21,7 +21,7 @@ Because OpenEMR is developed by a global community, it continues to evolve with 
 
 **Related: [https://qiaben.com/open-emr/](https://qiaben.com/open-emr/)**  
 
-![OpenEMR](https://qiaben.com/wp-content/uploads/2025/06/freepik__the-style-is-candid-image-photography-with-natural__14288-768x439.jpeg)
+![OpenEMR](/img/uploads/2025/06/freepik__the-style-is-candid-image-photography-with-natural__14288-768x439.jpeg)
 
 ### Why OpenEMR Matters in 2025
 
@@ -83,7 +83,7 @@ OpenEMR supports MU, MIPS, and MACRA reporting with visual dashboards and custom
 
 Furthermore, data can now be exported to tools like Tableau and Power BI. Drag-and-drop dashboard builders allow faster insights and better decision-making.
 
-![OpenEMR](https://qiaben.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-07-18-at-23.35.30_7d02b538-768x512.jpg)
+![OpenEMR](/img/uploads/2025/06/WhatsApp-Image-2025-07-18-at-23.35.30_7d02b538-768x512.jpg)
 
 ### Interoperability and Integration
 
@@ -198,7 +198,7 @@ Qiaben ensures your OpenEMR system is secure, scalable, and future-ready.
 - **[Qiaben OpenEMR Billing Services](https://qiaben.com/patient-billing/)**
 - [**Discuss Qiaben’s Customization Packages**](https://qiaben.com/customize-openemr-for-your-specialty/)
 
-![](https://qiaben.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-07-18-at-23.42.50_fb18cc74-768x512.jpg)
+![](/img/uploads/2025/06/WhatsApp-Image-2025-07-18-at-23.42.50_fb18cc74-768x512.jpg)
 
 ### Conclusion
 

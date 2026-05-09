@@ -52,7 +52,7 @@ Further, some of the AI billing solutions offer integration with the Electronic 
 
 Developing key structures in artificial intelligence incorporates a desired effect from [machine learning](https://qiaben.com/the-future-of-healthcare-billing-trends-to-watch/) when working with bill-grabbing software. It further optimizes the processes, as the more the system bills patients, the better it becomes at bill practice refinement.
 
-![](https://qiaben.com/wp-content/uploads/2024/09/AI-integration-1-edited.jpg "AI-medical-dental-billing")
+![](/img/uploads/2024/09/AI-integration-1-edited.jpg "AI-medical-dental-billing")
 
 ### **Benefits of Using an Integrated Billing Software with AI Technology**
 

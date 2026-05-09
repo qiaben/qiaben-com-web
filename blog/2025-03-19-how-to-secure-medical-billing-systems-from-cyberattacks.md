@@ -11,7 +11,7 @@ tags:
 authors: [qiaben]
 ---
 
-![cyber hacking](https://qiaben.com/wp-content/uploads/2025/03/html-css-collage-concept-with-hacker-1024x683.jpg)
+![cyber hacking](/img/uploads/2025/03/html-css-collage-concept-with-hacker-1024x683.jpg)
 
 ### Introduction
 
@@ -64,7 +64,7 @@ Weak or reused passwords make it easier for hackers to access billing accounts. 
 
 ### Core Principles for Defending Medical Billing Systems
 
-![](https://qiaben.com/wp-content/uploads/2025/03/young-male-researcher-carrying-out-scientific-experiment-1024x683.jpg)
+![](/img/uploads/2025/03/young-male-researcher-carrying-out-scientific-experiment-1024x683.jpg)
 
 **1\. Adopt a Defense-in-Depth Security Strategy**
 
@@ -146,7 +146,7 @@ More healthcare providers are moving to cloud-based EHR and billing systems with
 
 Adopting these innovations will help healthcare organizations stay ahead of cybercriminals.
 
-![cyber security](https://qiaben.com/wp-content/uploads/2025/03/metaverse-avatar-collage-concept-1024x683.jpg)
+![cyber security](/img/uploads/2025/03/metaverse-avatar-collage-concept-1024x683.jpg)
 
 ### Conclusion
 
@@ -154,4 +154,4 @@ Securing **[medical billing systems](https://qiaben.com/medical-billing-service/
 
 By implementing strong security measures, training staff, and staying compliant with regulations, medical billing can remain secure. Patients trust healthcare providers with their data and protecting that trust should be a top priority.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

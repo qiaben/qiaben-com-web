@@ -16,7 +16,7 @@ Running a successful healthcare practice depends on accurate billing and timely 
 
 At Qiaben, we know how costly **common medical billing errors** can be. That’s why we’ve put together this guide to highlight the top mistakes, their financial impact, and actionable steps to prevent them.
 
-![medical billing](https://qiaben.com/wp-content/uploads/2025/02/employees-with-face-masks-cleaning-hand-before-use-co-working-space-coronavirus-pandemic-coworkers-new-normal-office-using-sanitize-alcohol-gel-against-corona-virus-until-typing-computer-1024x576.jpg)
+![medical billing](/img/uploads/2025/02/employees-with-face-masks-cleaning-hand-before-use-co-working-space-coronavirus-pandemic-coworkers-new-normal-office-using-sanitize-alcohol-gel-against-corona-virus-until-typing-computer-1024x576.jpg)
 
 ### 1.Inaccurate Patient Demographics
 
@@ -94,7 +94,7 @@ Medical billing is complex, but outsourcing to professional [medical billing ser
 - **Better Compliance**: Avoid legal and financial risks with correct billing practices.
 - **More Focus on Patient Care**: Let healthcare providers concentrate on treating patients rather than managing billing issues.
 
-![medical billing](https://qiaben.com/wp-content/uploads/2025/02/medical-invoice-document-form-patient-concept-1024x748.jpg)
+![medical billing](/img/uploads/2025/02/medical-invoice-document-form-patient-concept-1024x748.jpg)
 
 ### Final Thoughts
 

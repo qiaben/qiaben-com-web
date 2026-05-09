@@ -8,7 +8,7 @@ tags:
 authors: [qiaben]
 ---
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__77137-1024x585.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__77137-1024x585.png)
 
 Understanding Medical Billing Challenges
 

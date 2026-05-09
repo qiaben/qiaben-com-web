@@ -61,7 +61,7 @@ Denials of Claims: When insurance has not been verified, many claims could be de
 
 In general, HI Solutions’ purview over the insurance verification process entails lines of processes and automated systems that enable the activities to flow better. Below are the processes that healthcare solutions need to undertake and manage:
 
-[![](https://qiaben.com/wp-content/uploads/2024/09/980340ca-d223-4418-860d-ed9d03353fc2-2-1-edited.jpg)](https://qiaben.com/)
+[![](/img/uploads/2024/09/980340ca-d223-4418-860d-ed9d03353fc2-2-1-edited.jpg)](https://qiaben.com/)
 
 **1\. Automated Patient Information Collection**
 

@@ -23,7 +23,7 @@ Insurance verification is more than just checking if a patient is covered. It he
 - Improve cash flow by ensuring timely payments.
 - Minimize the administrative burden on staff by reducing follow-up on unpaid claims.
 
-![dental insurance](https://qiaben.com/wp-content/uploads/2025/03/young-female-patient-with-open-mouth-examining-dental-inspection-dentist-office-1024x683.jpg)
+![dental insurance](/img/uploads/2025/03/young-female-patient-with-open-mouth-examining-dental-inspection-dentist-office-1024x683.jpg)
 
 ### Step-by-Step Dental Insurance Verification Process
 
@@ -101,7 +101,7 @@ Transparent communication with patients regarding their coverage helps build tru
 
 Transparent communication with patients regarding their coverage helps build trust and minimizes billing disputes. Provide written estimates of patient responsibility before beginning treatment. Offer a printed breakdown of covered services and out-of-pocket costs.
 
-![dentist](https://qiaben.com/wp-content/uploads/2025/03/dentist-healthcare-medical-schedule-appointment-concept-1024x683.jpg)
+![dentist](/img/uploads/2025/03/dentist-healthcare-medical-schedule-appointment-concept-1024x683.jpg)
 
 ### Understanding PPO and DMO in Dental Insurance
 
@@ -190,7 +190,7 @@ Advancements in technology have made insurance verification more efficient. Dent
 - **Artificial Intelligence (AI):** AI-driven systems can flag potential claim issues before submission.
 - **Outsourced Verification Services:** Hiring third-party verification companies can improve accuracy and save time for in-house staff.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/6794584-1024x683.jpg)
+![](/img/uploads/2025/03/6794584-1024x683.jpg)
 
 ### Final Thoughts
 
@@ -198,4 +198,4 @@ Advancements in technology have made insurance verification more efficient. Dent
 
 Ensuring that verification processes are accurate, timely, and well-documented will lead to fewer claim denials, smoother patient interactions, and a more financially stable practice. Investing in automated systems and staying updated with industry changes will help dental offices maintain efficiency and profitability in the long run.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

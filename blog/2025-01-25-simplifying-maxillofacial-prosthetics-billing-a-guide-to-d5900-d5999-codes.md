@@ -12,7 +12,7 @@ authors: [qiaben]
 
 Maxillofacial prosthetics assume an essential role in reestablishing capability and feel for patients with complex facial and oral distortions. Whether because of injury, malignant growth treatment, or innate circumstances, these [prosthetics](https://qiaben.com/prosthodontic-coding-made-easy-focus-on-d5000-d5899-codes/) are indispensable to working on patients' personal satisfaction. In any case, the billing system for maxillofacial prosthetics can be overwhelming, particularly while exploring the D5900-D5999 code range in Current Dental Terminology (CDT). This guide separates these codes, giving lucidity and common sense tips to smooth out your billing cycle.  
 
-![Simplifying Maxillofacial Prosthetics Billing:](https://qiaben.com/wp-content/uploads/2025/01/maxi-facial-2-768x432.png)
+![Simplifying Maxillofacial Prosthetics Billing:](/img/uploads/2025/01/maxi-facial-2-768x432.png)
 
 #### **Figuring out maxillofacial prosthetics**
 

@@ -13,7 +13,7 @@ Luckily, there is a solution. [**OpenEMR**](https://qiaben.com/exploring-openemr
 
 Qiaben is dedicated to assisting healthcare professionals to derive the best out of OpenEMR billing. By fusing medical billing experience with years of technical expertise, Qiaben assists practices in eradicating errors, accelerating payments, and removing administrative stress. Through this guide, we will guide you through how Qiaben can revolutionize your practice's financial functions through tailored OpenEMR billing assistance.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__34584-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__34584-300x300.jpeg)
 
 ### What Is OpenEMR?
 
@@ -49,7 +49,7 @@ Payment tracking and reporting
 
 They are intended to save time and reduce errors. But most practices do not make the best use of them because they lack training or technical knowledge. Qiaben's background comes in here.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__47494-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__47494-300x300.jpeg)
 
 ### The Hidden Costs of Poor Medical Billing
 
@@ -75,7 +75,7 @@ When timely or accurate billing doesn't occur, reimbursements are delayed. This 
 
 In most small and medium-sized practices, the same individuals are assumed to be taking care of patient care and billing. This delegation of similar tasks is tension-provoking, less efficient, and diverts attention from the patient experience.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__58556-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__58556-300x300.jpeg)
 
 ### Qiaben's Custom Billing Solutions for OpenEMR
 
@@ -117,7 +117,7 @@ Using these data, your staff will be able to make informed financial decisions, 
 
 In contrast to most service providers, Qiaben provides hands-on training for your staff. They assist employees with learning the effective use of OpenEMR as well as keeping them informed about coding updates, insurance regulations, and best practices in billing. Their support team is accessible 24/7 to tackle problems and answer questions as needed.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__92554-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__92554-300x300.jpeg)
 
 ### Unlocking the Full Power of OpenEMR's Billing Features
 
@@ -137,7 +137,7 @@ Qiaben doesn't just correct what's broken—they make sure that you're getting t
 
 Qiaben has been set up to ensure all of these tools are properly configured and humming along—so your practice hums like a well-oiled machine.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__39912-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__39912-300x300.jpeg)
 
 ### Success in Action: A Real-World Example
 

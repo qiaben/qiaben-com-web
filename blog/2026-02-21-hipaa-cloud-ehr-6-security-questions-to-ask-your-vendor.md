@@ -5,7 +5,7 @@ date: 2026-02-21
 authors: [qiaben]
 ---
 
-![Infographic titled “HIPAA & Cloud EHR: 6 Security Questions – Protecting Patient Data, Billing & Revenue” featuring a glowing blue shield with a lock inside a cloud, displayed in a server room background. At the bottom, six security questions are listed: Sign BAA? Data Encrypted? User Access? Backups & DR? Threat Monitor? Risk Assessments.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-09_25_47-PM.png)
+![Infographic titled “HIPAA & Cloud EHR: 6 Security Questions – Protecting Patient Data, Billing & Revenue” featuring a glowing blue shield with a lock inside a cloud, displayed in a server room background. At the bottom, six security questions are listed: Sign BAA? Data Encrypted? User Access? Backups & DR? Threat Monitor? Risk Assessments.](/img/uploads/2026/02/ChatGPT-Image-Feb-21-2026-09_25_47-PM.png)
 
 # Cloud EHR Security Checklist for HIPAA Compliance and Insurance Protection
 

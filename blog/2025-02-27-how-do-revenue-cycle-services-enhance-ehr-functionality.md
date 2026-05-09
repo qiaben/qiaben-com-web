@@ -39,7 +39,7 @@ Healthcare organizations need to tackle specific challenges before they can achi
 - The organization must track system expenses to determine sustainable financial operations for the software.
 - Regular updates of systems result in process efficiency together with technological suitability for organizational requirements.
 
-![Web image of Future trends](https://qiaben.com/wp-content/uploads/2025/02/Future-Trends-in-EHR-RCM-Integration.webp)
+![Web image of Future trends](/img/uploads/2025/02/Future-Trends-in-EHR-RCM-Integration.webp)
 
 ### Future Trends in EHR-RCM Integration
 
@@ -87,4 +87,4 @@ The success of this integration for healthcare organizations depends on staff tr
     For a seamless transition, organizations must have effective leadership, promote collaboration, and select systems that can easily integrate. Giving employees proper training and updating software will also ensure efficiency and prevent interruptions.
     
 
-[Click here](https://calendly.com/qiaben/openemr) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://calendly.com/qiaben/openemr) ![](/img/uploads/2024/04/1.jpg)

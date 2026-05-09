@@ -11,7 +11,7 @@ authors: [qiaben]
 
 The [dental industry](https://qiaben.com/supercharge-your-dental-billing-in-2025-essential-tips-for-financial-growth/) has changed a lot when it comes to technology and innovation. AI plays a lead role in this generation. Artificial Intelligence plays a major role in all industries, especially dental practice, maintaining the operations, improving patient care, and eventually increasing the revenue cycle. 
 
-![AI-Driven Breakthrough: Transforming Your Dental Practice for Unstoppable Growth](https://qiaben.com/wp-content/uploads/2025/03/AI-Driven-breakthrough-2-768x432.png)
+![AI-Driven Breakthrough: Transforming Your Dental Practice for Unstoppable Growth](/img/uploads/2025/03/AI-Driven-breakthrough-2-768x432.png)
 
 #### AI in Practice Management: Efficiency Meets Precision
 

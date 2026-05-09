@@ -11,7 +11,7 @@ An In-Depth View for Every Practice The [dental world](https://www.outsourcestra
 
 ### 1\. Automation and AI Integration in Billing
 
-![](https://qiaben.com/wp-content/uploads/2024/10/dental-image-3.jpg)
+![](/img/uploads/2024/10/dental-image-3.jpg)
 
 The movement towards automation and AI integration in billing Let’s begin our coverage with  
 what relates closely to the most critical processes of a dental practice. One of the most powerful  
@@ -75,7 +75,7 @@ with an advance knowledge of how much patients would have to pay out of their po
 don’t have to be shocked by additional payments after treatment while the practice is assured  
 that claims lodged are legitimate and sufficient.
 
-![](https://qiaben.com/wp-content/uploads/2024/10/real-time-insurance-verification.png)
+![](/img/uploads/2024/10/real-time-insurance-verification.png)
 
 ### What to Do
 
@@ -146,7 +146,7 @@ for practices to know the details of billing practices remotely.
 Tele-dentistry is equally increasing the demand for smart, simple, and secure payment systems,  
 as most patients now prefer to pay for their remote consultation.
 
-![](https://qiaben.com/wp-content/uploads/2024/10/teledensity.jpg)
+![](/img/uploads/2024/10/teledensity.jpg)
 
 ### How to Leverage This Trend
 

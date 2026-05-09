@@ -11,7 +11,7 @@ tags:
 authors: [qiaben]
 ---
 
-![hospice care](https://qiaben.com/wp-content/uploads/2025/02/StockCake-Compassionate-Medical-Care_1740123589-1024x585.webp)
+![hospice care](/img/uploads/2025/02/StockCake-Compassionate-Medical-Care_1740123589-1024x585.webp)
 
 Running a hospice agency comes with unique challenges. Between patient care, regulatory compliance, and staff management, financial operations often take a back seat. Yet, the health of your agency depends on consistent cash flow. That’s where [**hospice billing services**](https://qiaben.com/medical-billing-service/) can make a game-changing difference. With expert support, your agency can unlock hidden revenue, minimize claim denials, and ensure faster reimbursements.
 
@@ -153,7 +153,7 @@ Avoid hidden fees. Choose a service with clear pricing and no unexpected costs.
 
 A good billing service provides regular financial reports to track revenue performance.
 
-![](https://qiaben.com/wp-content/uploads/2025/02/StockCake-Compassionate-Home-Care_1740123724-1024x585.jpg)
+![](/img/uploads/2025/02/StockCake-Compassionate-Home-Care_1740123724-1024x585.jpg)
 
 ### Conclusion
 

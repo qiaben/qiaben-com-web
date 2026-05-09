@@ -15,7 +15,7 @@ In today’s fast-paced healthcare environment, efficiency and compliance are ke
 
 ### What Is Physician Credentialing?
 
-![physician credentialing](https://qiaben.com/wp-content/uploads/2025/04/medical-questionnaire-1024x683.jpg)
+![physician credentialing](/img/uploads/2025/04/medical-questionnaire-1024x683.jpg)
 
 Physician credentialing involves the thorough verification of a healthcare provider’s background, including their education, professional training, licenses, and employment history. Insurance companies, hospitals, and healthcare facilities use this information to ensure that doctors are properly certified and eligible to deliver care.
 
@@ -78,7 +78,7 @@ Many practices try to handle credentialing in-house. However, it’s often more 
 
 Professional credentialing companies stay up to date on the latest compliance rules. They also use credentialing software and automation tools to streamline the process. This results in fewer delays and better outcomes for healthcare providers.
 
-![](https://qiaben.com/wp-content/uploads/2025/04/physician-credentialing-1024x748.jpg)
+![](/img/uploads/2025/04/physician-credentialing-1024x748.jpg)
 
 ### Benefits of Using Physician Credentialing Services
 
@@ -120,7 +120,7 @@ Credentialing becomes even more critical when it involves multiple providers. Gr
 
 Professional credentialing services bring scalability. They offer structured systems that manage large volumes of applications while ensuring each step is accurate and timely.
 
-![physician credentialing](https://qiaben.com/wp-content/uploads/2025/04/side-view-patient-filling-consent-document-1024x681.jpg)
+![physician credentialing](/img/uploads/2025/04/side-view-patient-filling-consent-document-1024x681.jpg)
 
 ### Avoiding Revenue Loss from Credentialing Delays
 
@@ -134,4 +134,4 @@ In today’s healthcare world, every detail matters. From patient care to back-o
 
 By using a trusted provider for **[physician credentialing services](https://qiaben.com/home/physician-credentialing/)**, your practice can ensure compliance, avoid billing disruptions, and speed up onboarding for new providers. Partnering with effective medical billing services makes the impact even greater. Make credentialing a priority. Because when it’s done right, everything else runs smoother.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

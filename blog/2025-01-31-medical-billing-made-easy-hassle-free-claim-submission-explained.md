@@ -15,7 +15,7 @@ Navigating the world of medical billing can feel overwhelming. However, understa
 
 Whether you're a healthcare professional, billing staff member, or just curious, this guide is for you.
 
-![medical billing done at hopital](https://qiaben.com/wp-content/uploads/2025/01/claim-5.webp)
+![medical billing done at hopital](/img/uploads/2025/01/claim-5.webp)
 
 ### What Is the Claim Submission Process in Medical Billing?
 
@@ -60,7 +60,7 @@ Before submission, the claim goes through an audit to check for errors. Mistakes
 
 Once scrubbed, the claim is submitted either manually or electronically, depending on the setup. Electronic submission is quicker and more efficient.
 
-![medical billing submission being done by staff](https://qiaben.com/wp-content/uploads/2025/01/claim-image-4.webp)
+![medical billing submission being done by staff](/img/uploads/2025/01/claim-image-4.webp)
 
 ### Manual vs Electronic Claim Submission
 
@@ -165,7 +165,7 @@ With technology moving fast, AI-powered tools are helping automate medical billi
 
 Over time, they’ll make the [**insurance claim submission**](https://qiaben.com/insurance-verification/) process even more seamless.
 
-![claim submission or medical billing being carried out](https://qiaben.com/wp-content/uploads/2025/01/claim-sub2-1024x684.jpg)
+![claim submission or medical billing being carried out](/img/uploads/2025/01/claim-sub2-1024x684.jpg)
 
 ### Key Takeaways
 

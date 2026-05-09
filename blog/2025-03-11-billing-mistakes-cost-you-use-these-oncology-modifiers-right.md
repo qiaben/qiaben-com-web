@@ -29,7 +29,7 @@ For example:
 
 Using the right modifiers ensures proper reimbursement and avoids costly rework.
 
-![oncology medical consultation](https://qiaben.com/wp-content/uploads/2025/03/StockCake-Friendly-medical-consultation_1741084403-1024x574.jpg)
+![oncology medical consultation](/img/uploads/2025/03/StockCake-Friendly-medical-consultation_1741084403-1024x574.jpg)
 
 ### Key Roles of Modifiers in Oncology Billing
 
@@ -65,7 +65,7 @@ Using the right modifiers ensures proper reimbursement and avoids costly rework.
 |   **XE, XS, XP, XU**   |   Subset of Modifier 59   |   Differentiates separate services   |
 |   **TC**   |   Technical component   |   Radiation therapy performed but not interpreted by the provider   |
 
-![oncology doctor](https://qiaben.com/wp-content/uploads/2025/03/male-radiologist-analyzing-mri-scan-results-patient-computer-monitor-control-room-1024x683.jpg)
+![oncology doctor](/img/uploads/2025/03/male-radiologist-analyzing-mri-scan-results-patient-computer-monitor-control-room-1024x683.jpg)
 
 ### Common Oncology Billing Mistakes with Modifiers
 
@@ -117,7 +117,7 @@ Modifiers change frequently. Keeping up with insurance rules and coding updates 
 
 Oncology billing is complex. If your practice struggles with frequent denials, working with [**medical billing services**](https://ezassist.com/our-healthcare-services/) can help. Experts stay updated on insurance policies, coding guidelines, and modifier requirements to ensure accurate claims.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/StockCake-Cancer-Cells-Microscopic_1741084370-1024x574.jpg)
+![](/img/uploads/2025/03/StockCake-Cancer-Cells-Microscopic_1741084370-1024x574.jpg)
 
 #### 3\. Double-Check Modifiers Before Submitting Claims
 

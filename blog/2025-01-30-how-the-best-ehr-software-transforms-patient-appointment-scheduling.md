@@ -27,7 +27,7 @@ The Best EHR platforms come with built-in tools that automate much of the schedu
 
 Instead of relying on phone calls and spreadsheets, staff can quickly view and update provider availability. This not only reduces errors but also improves communication across departments. For clinics using medical billing services, synced scheduling ensures that patient data, billing codes, and appointment types are all aligned.
 
-![](https://qiaben.com/wp-content/uploads/2025/01/patient-appointment.jpg)
+![](/img/uploads/2025/01/patient-appointment.jpg)
 
 #### Online Booking Empowers Patients
 
@@ -61,7 +61,7 @@ No-shows are a costly issue for healthcare providers. But EHR systems have smart
 
 In case of cancellations, the system can notify waitlisted patients, keeping the schedule full. For practices using [**Affordable ehr software**](https://qiaben.com/qiaben-health-ehr/), these features come built-in and don’t require additional setup or subscription.
 
-![](https://qiaben.com/wp-content/uploads/2025/01/qtq80-zYGsJo-1024x683.jpeg)
+![](/img/uploads/2025/01/qtq80-zYGsJo-1024x683.jpeg)
 
 #### Better Communication and Patient Flow
 
@@ -101,4 +101,4 @@ If you're looking to grow your practice and modernize your scheduling process, l
 
 Investing in the right EHR system is more than a tech upgrade—it’s a game-changer for your entire practice.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

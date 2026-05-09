@@ -9,7 +9,7 @@ authors: [qiaben]
 
 OpenEMR is one of the most trusted open-source electronic medical record (EMR) and practice management platforms. Its popularity stems from flexibility, cost savings, and a strong global community. However, like any mission-critical system, OpenEMR requires continuous **support and maintenance** to perform at its best. From security updates to feature optimization, professional OpenEMR support is key to keeping healthcare workflows efficient, secure, and compliant.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__57437-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__57437-300x300.jpeg)
 
 ### Key Services in OpenEMR Support & Maintenance
 
@@ -29,13 +29,13 @@ OpenEMR is one of the most trusted open-source electronic medical record (EMR) a
     Dedicated support teams provide training and 24/7 assistance to staff for effective system use.
     
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__66185-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__66185-300x300.jpeg)
 
 ### The True Value of OpenEMR Support and Maintenance
 
 Installing [OpenEMR](https://qiaben.com/openemr2/) is just the beginning. Healthcare environments do not stand still and needs change quickly. Left to themselves without updates, support, and ongoing maintenance, the system can become quickly outdated or insecure. Why professional support is important:
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__58039-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__58039-300x300.jpeg)
 
 #### 1\. Security and Compliance
 
@@ -61,7 +61,7 @@ Preventive maintenance prevents the enormous cost of repairs in crisis cases. Ma
 
 At Qiaben, we do not simply repair problems after they have occurred; we form long-term relationships with healthcare professionals so that their systems can grow alongside them. Below is an outline of what our maintenance and support services consist of:
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__43044-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__43044-300x300.jpeg)
 
 #### Bug Fixing and Technical Support
 
@@ -101,7 +101,7 @@ Healthcare technology is only as solid as the team behind it. Here's why hundred
 
 ### Certified Experts
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__21439-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__21439-300x300.jpeg)
 
 Our experts are certified developers and healthcare IT professionals with extensive experience in [**OpenEMR.**](https://qiaben.com/openemr-webinar-registration-page/) We speak both languages.
 
@@ -125,7 +125,7 @@ We have assisted hundreds of clinics maximize system performance, maintain compl
 
 Qiaben provides a range of [OpenEMR](https://qiaben.com/customer-cabinet-2/) support plans to accommodate the individual needs and price points of healthcare providers:
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__33147-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__33147-300x300.jpeg)
 
 #### Basic Plan
 
@@ -219,4 +219,4 @@ Don't leave OpenEMR-dependent practice performance and security to chance. Have 
 
 From bug resolution to system optimizations, we're here to have your OpenEMR setup humming along day after day. We understand – we're experts and we know what healthcare professionals go through, and we're here to remove the IT burden from your back.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__21440-300x300.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__21440-300x300.jpeg)

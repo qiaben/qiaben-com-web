@@ -13,7 +13,7 @@ OpenEMR is an open-source electronic medical record and practice management soft
 
 Here we are going to instruct you step by step how to install OpenEMR on a Windows computer. It's really simple and easy to understand for a beginner, so don't worry if you are not an expert on the computer, you can easily install the setup.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/OpenEMR-installation-1024x674-2-768x506.png)
+![](/img/uploads/2025/03/OpenEMR-installation-1024x674-2-768x506.png)
 
 ### What You Need Before Installation
 
@@ -31,7 +31,7 @@ Disk Space: 2GB free space
 
 Internet Access: For downloading software packages
 
-![Open EMR Step-by-step](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-checklist-graphic-showing-hardware-and-software-__44861-300x300.jpeg)
+![Open EMR Step-by-step](/img/uploads/2025/03/freepik__a-checklist-graphic-showing-hardware-and-software-__44861-300x300.jpeg)
 
 ### Software Requirements
 
@@ -243,4 +243,4 @@ Yes. OpenEMR has upgrade packages and documentation available.
 
 Installing OpenEMR on Windows is a practical way to gain full control over your practice management system. From patient scheduling to billing and secure record-keeping, OpenEMR has the features your clinic needs to run efficiently. With this guide, you’ve learned every step—from downloading the software to securing the final setup.
 
-[Click here](https://calendly.com/qiaben/openemr) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://calendly.com/qiaben/openemr) ![](/img/uploads/2024/04/1.jpg)

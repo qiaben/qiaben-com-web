@@ -9,13 +9,13 @@ authors: [qiaben]
 
 Managing the financial side of patient care is as essential as managing the clinical side in today's competitive healthcare space. In fact, [**Revenue Cycle Managemen**](https://qiaben.com/contact-us/)t (RCM) is an area of necessary focus by healthcare practices that are trying to keep their business financially viable and efficient while providing the best care possible to patients. From the patient scheduling an appointment to payment collection and everything in between, every interaction needs to be optimized and compliant. That is where the OpenEMR and Qiaben integration can transform a practice's operations. Together, they create an effective and affordable solution to create a speedy and compliant billing, a more efficient cash flow and greater efficiency to reduce administrative effort.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14941-768x439.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14941-768x439.jpeg)
 
 ### Comprehending the Healthcare Revenue Cycle
 
 Revenue Cycle Management is the process a healthcare provider uses to manage the entire financial cycle, tracking patient care episodes from registration and appointment scheduling to final payment of a balance. The healthcare revenue cycle consists of many moving parts including insurance verification, charge capture, coding, claim submission, denial management, and patient collections. A tiny blunder in any of the stages could mean delays in payments or complete claim denial in the future. With a system already burdened by regulation and staffing challenges, the last thing a provider wants is to deal with disentangled platforms or manual billing systems. This is why the need for a solid and thorough integrated system is needed.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14942-768x439.jpeg)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14942-768x439.jpeg)
 
 ### The Importance of Electronic Medical Records and Optimizing Revenue
 
@@ -29,7 +29,7 @@ An Electronic Medical Record, or EMR is much more than just a container of patie
 
 OpenEMR is a terrific product, and logical practice management and electronic health records are valuable when appropriate support is added. Through implementation and customization, training, and revenue cycle services, Qiaben helps a health provider realize the value of OpenEMR. Qiaben collaborates with the provider to ensure the OpenEMR system is configured correctly for the practice’s specialty, workflow, and billing. Most importantly, Qiaben's billing specialists handle the complete revenue cycle for making claims—from coding/[**ICD-10 coding**](https://www.cdc.gov/nchs/icd/icd10cm.htm) to dispatch and follow-up on denials. It is what makes the use of of OpenEMR more specific and individualized for the user's intended revenue cycle objectives.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14943-768x439.png)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14943-768x439.png)
 
 ### Addressing Denials Before They Occur
 
@@ -49,7 +49,7 @@ Practices are typically focused on either the front-end tasks (patient intake), 
 
 A big problem with many commercial EMRs is the prescribed workflows that simply don't work the way the practice works. OpenEMR, in comparison, is built for flexibility. With Qiaben's support, practices can construct workflows that offer convenience in the clinical and billing aspects of the practice. For instance, a dental clinic may have complex fee schedules and required CDT codes, while a mental health practice may have to use session notes that utilize billing codes. Qiaben offers customized capabilities within OpenEMR, such that "the EMR fits the practice" instead of vice-versa. Customizing an EMR reduces frustration among staff and improves productivity across departments.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14944-768x439.png)
+![Open EMR](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14944-768x439.png)
 
 ### Improving Staff Training and Support
 
@@ -65,7 +65,7 @@ Insurance payer policies and government regulations are always changing. In an e
 
 In the evolving era of healthcare, practitioners can ill afford to be held back by obsolete protocols or inefficient monitoring of work processes that reduce their revenue. OpenEMR gives clinics a flexible, comprehensive technology platform for all their billing and RCM needs, while Qiaben provides the practical, hands-on RCM service. The partnership of OpenEMR and Qiaben brings clinics the best of both worlds, while keeping the practice compliant, expediting claims, and enhancing efficiency in billing. Whether a solo provider or large multispecialty group, enhancing revenue cycle management with this dynamic partnership is not just smart—it’s necessary, and now is the perfect time to improve your billing and collections practices—with OpenEMR and Qiaben the way forward is clear.
 
-![Open EMR](https://qiaben.com/wp-content/uploads/2025/03/freepik__winter-setting-openemr-and-qiaben-logos-projected-__14945-768x439.png)
+![Open EMR](/img/uploads/2025/03/freepik__winter-setting-openemr-and-qiaben-logos-projected-__14945-768x439.png)
 
 ### Frequently Asked Questions
 

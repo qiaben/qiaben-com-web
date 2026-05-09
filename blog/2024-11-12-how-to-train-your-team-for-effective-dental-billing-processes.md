@@ -14,7 +14,7 @@ Dental billing is no longer a clerical task—it is today a critical function wi
 
 This in-depth guide covers methods, equipment, and best practices you can use to train your employees for the best dental billing practices. From one-site practices to growing DSOs (dental support organizations), the right training will enable you to reduce denials, streamline workflows, and realize more collections.
 
-![team dental billing](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-13-300x300.jpg)
+![team dental billing](/img/uploads/2024/11/Untitled-design-13-300x300.jpg)
 
 ## Why Dental Billing Training Is Essential
 
@@ -36,7 +36,7 @@ Training ensures that employees can:
 - Communicate effectively to patients about their bill.
 - Plain and simple: properly trained billing staff keeps your practice financially healthy and your patients happy.
 
-![team dental billing](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-14-300x300.jpg) [Click here](https://qiaben.com/contact/)
+![team dental billing](/img/uploads/2024/11/Untitled-design-14-300x300.jpg) [Click here](https://qiaben.com/contact/)
 
 ## The Must-Have Training Topics Every Dental Billing Team Needs to Know 
 
@@ -209,4 +209,4 @@ By tackling the most important billing areas, through the use of numerous types 
 
 We at Qiaben Health can help you create billing systems that work—from software integration to staff training and KPI tracking. If you're ready to take billing performance to the next level, we can guide you through it step by step.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

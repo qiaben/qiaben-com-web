@@ -9,7 +9,7 @@ Healthcare is in the middle of a massive digital transformation, and at the fore
 
 ## What is an EHR system?
 
-![EHR](https://qiaben.com/wp-content/uploads/2025/09/ChatGPTImageSep29202502_17_54P-1024x683.jpeg)
+![EHR](/img/uploads/2025/09/ChatGPTImageSep29202502_17_54P-1024x683.jpeg)
 
 An Electronic Health Record ([EHR](https://qiaben.com/qiaben-health-ehr-2/)) system is a digital version of a patient's clinical record. EHRs are not written on paper like paper records since they are stored in a form that can be accessed by [various healthcare organizations and users](https://qiaben.com/top-8-best-ehr-companies-for-small-practices-in-2024/).
 
@@ -27,7 +27,7 @@ An EHR is not an electronic file cabinet; it's a dynamic system that makes smart
 
 ## EHR vs. EMR: Myths Busted
 
-![EHR Beginner](https://qiaben.com/wp-content/uploads/2025/09/ChatGPTImageSep29202502_14_35P-1024x683.jpeg)
+![EHR Beginner](/img/uploads/2025/09/ChatGPTImageSep29202502_14_35P-1024x683.jpeg)
 
 The most common source of confusion is between Electronic Health Records (EHRs) and Electronic Medical Records (EMRs). Though used interchangeably, they are [different](https://qiaben.com/qiaben-health-ehr/?utm_source=chatgpt.com).
 
@@ -85,7 +85,7 @@ To maximize benefit and avoid headache, health care providers must practice best
 4. [Engage Patients](https://qiaben.com/free-ehr-software-for-mental-health-providers-how-to-choose-the-right-one-for-your-practice/): Start patient engagement with portals and improving their own care.
 5. Enable Interoperability: Select those systems that interoperate with other vendors in order to ensure coordinated care.
 
-![ehr](https://qiaben.com/wp-content/uploads/2025/09/ChatGPTImageSep29202508_44_48P-1024x683.jpeg)
+![ehr](/img/uploads/2025/09/ChatGPTImageSep29202508_44_48P-1024x683.jpeg)
 
 ## The Future of EHR Systems
 

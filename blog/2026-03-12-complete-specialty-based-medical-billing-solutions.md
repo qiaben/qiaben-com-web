@@ -11,7 +11,7 @@ In this environment, every [medical specialties](https://qiaben.com/specialties-
 
 This is why Complete Specialty-Based Medical Billing Solutions have become essential for healthcare organizations. Many professional billing companies now provide customized services designed specifically for different medical specialties. Organizations such as Qiaben Health Care offer specialized billing solutions that help healthcare providers manage their revenue cycle efficiently
 
-![Medical specialties medical billing and coding process with insurance claim approval, ICD-10 and CPT codes](https://qiaben.com/wp-content/uploads/2026/03/Healthcare-billing-and-medical-professionals-1024x683.png)
+![Medical specialties medical billing and coding process with insurance claim approval, ICD-10 and CPT codes](/img/uploads/2026/03/Healthcare-billing-and-medical-professionals-1024x683.png)
 
 ### What is Medical Specialties Billing?
 
@@ -23,7 +23,7 @@ For example,
 
 Because each department performs different procedures and treatments, they use different medical codes, documentation formats, and insurance guidelines. As a result, a single billing approach cannot effectively support all departments. Each medical specialty requires a dedicated billing process designed according to its unique requirements.
 
-![Medical billing process connecting cardiology, neurology, orthopedics, pediatrics, emergency medicine and general surgery with CPT coding, faster approvals and proper payment.](https://qiaben.com/wp-content/uploads/2026/03/Gemini_Generated_Image_n5wh8un5wh8un5wh-1024x682.png)
+![Medical billing process connecting cardiology, neurology, orthopedics, pediatrics, emergency medicine and general surgery with CPT coding, faster approvals and proper payment.](/img/uploads/2026/03/Gemini_Generated_Image_n5wh8un5wh8un5wh-1024x682.png)
 
 ### Unique Billing Requirements in Medical Specialties
 

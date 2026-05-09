@@ -7,7 +7,7 @@ tags:
 authors: [qiaben]
 ---
 
-![Preventive codes](https://qiaben.com/wp-content/uploads/2024/12/preventive-codes-3-768x432.jpg)
+![Preventive codes](/img/uploads/2024/12/preventive-codes-3-768x432.jpg)
 
 Preventive consideration is significant to keeping up with ideal dental health, and understanding dental billing codes is vital to guaranteeing a smooth billing process. The D1000-D1999 code range in dental billing covers preventive administrations that assist with distinguishing dental issues early and keep up with by and large oral health. This blog will give an outline of these codes and how dental practices can utilize them to really smooth out their billing processes.
 
@@ -59,7 +59,7 @@ D1500 - Space maintainers and other protection gadgets
 - D1516 - Space Maintainer (bilateral, maxillary)
 - D1517 - Space Maintainer (bilateral, mandibular)
 
-![Preventive codes](https://qiaben.com/wp-content/uploads/2024/12/preventive-codes-1-768x432.jpg)
+![Preventive codes](/img/uploads/2024/12/preventive-codes-1-768x432.jpg)
 
 ### **Significance of Right Coding for Preventive Administrations:**
 

@@ -10,7 +10,7 @@ authors: [qiaben]
 
 The Current Dental Terminology (CDT) codes are a universal language that connects dental practices and insurance providers. It is developed by the American Dental Association (ADA). [CDT codes](https://qiaben.com/the-importance-of-cdt-codes-in-dental-billing-why-accurate-coding-matters/) are important for precise documentation for dental processes, making sure reimbursement and reducing claim denials.
 
-![Top 10 Types of CDT Codes and How They Streamline Dental Billing:](https://qiaben.com/wp-content/uploads/2024/11/Untitled-design-25-768x768.jpg)
+![Top 10 Types of CDT Codes and How They Streamline Dental Billing:](/img/uploads/2024/11/Untitled-design-25-768x768.jpg)
 
 ### **What are CDT codes?**
 

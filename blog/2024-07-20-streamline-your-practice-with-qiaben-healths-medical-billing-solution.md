@@ -29,7 +29,7 @@ Billing errors can be costly and time-consuming to correct. Qiaben Health's **[m
 
 Navigating the complex landscape of healthcare regulations can be challenging. Qiaben Health stays up-to-date with the latest regulatory changes, ensuring that your practice remains compliant. This reduces the risk of fines and legal issues.
 
-![](https://qiaben.com/wp-content/uploads/2024/07/66623.jpg)
+![](/img/uploads/2024/07/66623.jpg)
 
 #### Features of Qiaben Health's Medical Billing Solution
 

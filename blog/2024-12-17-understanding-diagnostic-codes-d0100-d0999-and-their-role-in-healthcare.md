@@ -8,7 +8,7 @@ tags:
 authors: [qiaben]
 ---
 
-![Diagnostic codes](https://qiaben.com/wp-content/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg)
+![Diagnostic codes](/img/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg)
 
 In the healthcare field, precise coding plays a major role in billing and maintaining patient documentation and care. Many coding systems are used all over the world; the International Coding of Disease (ICD) is important. Diagnostic codes influence the oral cavity and applicable designs. The ICD-10 CM assumes a significant part for healthcare suppliers. The insurance agency and patients are totally consolidated and comprehend the ailments, treatment plans, and charging processes. At Qiaben Health, understanding and definitively applying the diagnostic codes is critical to guarantee top-notch care, diminish messes with, and smooth out the healthcare process.
 
@@ -64,7 +64,7 @@ Exact coding guarantees are consistent with medical care guidelines, like those 
 
 ### The Job of Analytic Codes in Oral Wellbeing at Qiaben Healthcare:
 
-![Diagnostic codes](https://qiaben.com/wp-content/uploads/2024/12/diagnostic-codes-1-2-768x432.jpg)
+![Diagnostic codes](/img/uploads/2024/12/diagnostic-codes-1-2-768x432.jpg)
 
 At Qiaben Health Arrangements, we perceive the significance of keeping up with oral wellbeing and the association it needs to generally speak prosperity. Numerous fundamental sicknesses, including coronary illness and diabetes, are connected to unfortunate oral health. By executing precise symptomatic coding, Qiaben Health guarantees that oral medical issues are appropriately distinguished and treated sooner rather than later. 
 

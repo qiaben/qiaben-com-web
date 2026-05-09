@@ -11,7 +11,7 @@ The [**Medical Billing**](https://qiaben.com/medical-billing-service/) Problem o
 The medicine of today … Running a good clinic is not only good care. Billing has turned into a time-consuming, convoluted aspect of the modern office, encompassing everything from filing claims and fighting denials to staying on the right side of regulations and getting the right payments. That all too often means stretched staff, lost revenue opportunities and admin fatigue, especially for small to mid-size practices.  
 That’s where Qiaben’s experience with billing in [**OpenEMR**](https://qiaben.com/what-is-openemr-benefits-features-setup-guide-for-healthcare-practices/) comes in handy. We have more than 20 years of experience in EMRs and billing interfaces If you’re looking for a good OpenEMR billing service, look no further than Qiaben – the perfect solution for your billing needs: a stable, reliable and secure billing service for your practice, infinitely customizable, infinitely expandable!
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__77137-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__77137-768x439.png)
 
 ### Why OpenEMR?
 
@@ -81,7 +81,7 @@ Revenue by provider or procedure
 Turnaround time for reimbursement  
 These metrics provide clinic managers with the information necessary to make sound decisions and close gaps on time.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-07-29-at-12.49.51_819063a5-768x768.jpg)
+![open EMR](/img/uploads/2025/04/WhatsApp-Image-2025-07-29-at-12.49.51_819063a5-768x768.jpg)
 
 ### How Qiaben Stacks Up to Other Medical Billing Solutions
 
@@ -109,7 +109,7 @@ Dental Practice in Texas used custom dental billing templates, real-time prompts
 
 With Qiaben's multi-location dashboard and specialty E&M templates, the chain optimized billing from 8 branches, saving more than 50 hours of admin time every month.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__52852-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__52852-768x439.png)
 
 ### Certified Expertise You Can Trust
 
@@ -139,7 +139,7 @@ Want to run billing in-house? We’ll customize and train your team.
 
 Each plan includes **free setup consultation**, and you can switch plans anytime based on growth.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__52851-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__52851-768x439.png)
 
 ### Getting Started is Simple
 

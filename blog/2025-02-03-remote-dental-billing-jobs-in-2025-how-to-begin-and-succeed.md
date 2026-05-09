@@ -186,7 +186,7 @@ Specialized jobs like surgical coding or DSO coordination can make $50–$70K/y
 - Consulting, freelance billing, or implementation work.
 - Training or customer success positions with PMS vendors
 
-![Remote dental billing jobs](https://qiaben.com/wp-content/uploads/2025/02/remote-dental-billing-jobs-1-300x169.png) [Click here](https://qiaben.com/contact/)
+![Remote dental billing jobs](/img/uploads/2025/02/remote-dental-billing-jobs-1-300x169.png) [Click here](https://qiaben.com/contact/)
 
 ## 9\. Hitting the Ground Running Strategies  
 

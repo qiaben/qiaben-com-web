@@ -152,6 +152,6 @@ Yes and can be customized to meet dentistry needs like treatment plans reminders
 
 Dependent on size and feature integration number Qiaben has reasonably priced packages depending on your clinic size and complexity
 
-![Female Dental Doctor](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![Female Dental Doctor](/img/uploads/2024/04/1.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.

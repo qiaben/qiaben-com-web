@@ -69,7 +69,7 @@ Outsourcing your billing allows you to leverage the latest [**AI Medical Billing
 
 Using **AI Medical Billing** services also means fewer delays, as the system can quickly flag any issues and resolve them before they turn into problems. This advanced tech ensures that your practice remains at the forefront of efficiency and innovation.
 
-![5 Benefits of outsourcing medical and dental services](https://qiaben.com/wp-content/uploads/2024/08/INGOUDE-CLINIC-15-1024x553.png)
+![5 Benefits of outsourcing medical and dental services](/img/uploads/2024/08/INGOUDE-CLINIC-15-1024x553.png)
 
 ## 4.
 

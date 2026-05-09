@@ -5,7 +5,7 @@ date: 2026-02-11
 authors: [qiaben]
 ---
 
-![Infographic titled ‘Free EHR – Real ROI’ showing a central security shield connected to icons for clinical workflows, billing and revenue capture, primary care clinics, scheduling, cloud access, and compliance, highlighting efficiency benefits for small medical practices.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-10-2026-09_46_10-PM.png)
+![Infographic titled ‘Free EHR – Real ROI’ showing a central security shield connected to icons for clinical workflows, billing and revenue capture, primary care clinics, scheduling, cloud access, and compliance, highlighting efficiency benefits for small medical practices.](/img/uploads/2026/02/ChatGPT-Image-Feb-10-2026-09_46_10-PM.png)
 
 If you use OpenEMR (or are weighing it), hosting matters. It’s not glamorous, but it’s the thing that keeps charting quick, patient portals working, claims flowing, and your staff from spending half the day firefighting. Many vendors advertise managed plans around **OpenEMR hosting $99**, but what does a managed plan actually buy you? And is it the right move for your practice?
 

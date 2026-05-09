@@ -9,7 +9,7 @@ In today’s fast-evolving healthcare industry, managing revenue efficiently is 
 
 By verifying patient insurance details before treatment, healthcare organizations can significantly reduce errors and ensure a smooth billing process. This not only improves operational efficiency but also enhances patient satisfaction.
 
-![\*\*Alt Text:\*\* Insurance Verification Services infographic showing how accurate patient data, eligibility checks, and pre-authorization help reduce claim denials, improve billing accuracy, and enhance healthcare revenue cycle management.](https://qiaben.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-18-at-4.19.30-PM-1-1024x616.jpeg)
+![\*\*Alt Text:\*\* Insurance Verification Services infographic showing how accurate patient data, eligibility checks, and pre-authorization help reduce claim denials, improve billing accuracy, and enhance healthcare revenue cycle management.](/img/uploads/2026/03/WhatsApp-Image-2026-03-18-at-4.19.30-PM-1-1024x616.jpeg)
 
 ### Insurance Verification Services in Modern Healthcare
 

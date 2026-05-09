@@ -5,7 +5,7 @@ date: 2024-08-30
 authors: [qiaben]
 ---
 
-![](https://qiaben.com/wp-content/uploads/2024/08/The-Role-of-Medical-Billing-in-Improving-Patient-Care-1024x512.jpg)
+![](/img/uploads/2024/08/The-Role-of-Medical-Billing-in-Improving-Patient-Care-1024x512.jpg)
 
 ##  The Significance of Billing in Managing Patients Health
 

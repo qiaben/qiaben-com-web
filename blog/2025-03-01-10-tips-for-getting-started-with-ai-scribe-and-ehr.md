@@ -59,7 +59,7 @@ AI scripting software has difficulty interpreting statements of ambiguous conten
 - Use medical terminology instead of colloquial expressions because AI has difficulty in understanding informal language. The patient experienced angina pectoris lasting five minutes, according to his reports.
 - You should create a specialized glossary containing medical terms from different specialties, such as "CHF exacerbation," for heart medicine professionals to maintain consistent team terminology.
 
-![web image of sunoh.ai](https://qiaben.com/wp-content/uploads/2025/03/Sunoh-ai.webp)
+![web image of sunoh.ai](/img/uploads/2025/03/Sunoh-ai.webp)
 
 ### 4.Human-AI Collaboration
 
@@ -160,4 +160,4 @@ AI-[EHR](https://qiaben.com/how-ehr-enhances-decision-making-for-healthcare-prof
 - Future tools will use voice plus facial expressions together with gestures to spot non-verbal signs when analyzing patient interactions (for example, patient anxiety).
 - The healthcare tool AMIE, developed by Google, will enable AI scribes to extend their services to the global regions that currently lack specialist physicians.
 
-[Click here](https://calendly.com/qiaben/openemr) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://calendly.com/qiaben/openemr) ![](/img/uploads/2024/04/1.jpg)

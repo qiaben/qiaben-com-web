@@ -32,7 +32,7 @@ Additionally, one increasingly popular feature is the incorporation of **OpenEMR
 
 ### Step-by-Step Guide to EMR Migration
 
-![EMR to open EMR](https://qiaben.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-06-23-at-16.55.29_09f43be3-200x300.jpg)
+![EMR to open EMR](/img/uploads/2025/03/WhatsApp-Image-2025-06-23-at-16.55.29_09f43be3-200x300.jpg)
 
 ### Step 1: Review Your Current EMR
 
@@ -173,7 +173,7 @@ A three-clinic pediatric practice left a commercial EMR due to high fees. They w
 
 Within the first month, the clinic reported better system performance and lower operating costs.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__97189-300x300.jpeg)
+![](/img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__97189-300x300.jpeg)
 
 ### How Qiaben Helps with OpenEMR Migration
 
@@ -216,4 +216,4 @@ Yes. You can use OpenEMR feature images and videos in training materials, docume
 
 Switching EMRs doesn’t have to be stressful. With proper planning, you can move smoothly to [**OpenEMR**](https://qiaben.com/exploring-openemrs-core-features-what-you-need-to-know/). The software offers flexibility, cost savings, and custom features that most commercial EMRs cannot match.
 
-![open EMR installation](https://qiaben.com/wp-content/uploads/2025/04/700px-Qiaben_Health_Open_EMR-4-1-300x300.png) ![Female Dental Doctor](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![open EMR installation](/img/uploads/2025/04/700px-Qiaben_Health_Open_EMR-4-1-300x300.png) ![Female Dental Doctor](/img/uploads/2024/04/1.jpg)

@@ -160,4 +160,4 @@ For patients, understanding these codes translates to fewer surprises on your bi
 
 **Pro Tip:** If your dental practice experiences denied claims or delayed billing, outsourcing your billing to experts can make a significant impact.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

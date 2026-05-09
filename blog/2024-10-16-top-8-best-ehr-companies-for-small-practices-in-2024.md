@@ -32,7 +32,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **What Makes It Suitable for the Small Practices**: Qiaben is such an EHR that focuses on taking care of the small healthcare and dental practices. It is what differentiates Qiaben, as it has both medical and [dental billing,](https://qiaben.com/wp-admin/post.php?post=2650&action=edit) which makes it easy for providers to want to do all the functions on one platform. The EHR software is cloud-based, easy to use, and easy to adapt to a variety of operations, as the providers are able to keep records, do billing, and also interact with the patients easily.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/04/QIABEN-2.png)
+![best-ehr-software](/img/uploads/2024/04/QIABEN-2.png)
 
 ### **2\. Kareo Clinical**
 
@@ -42,7 +42,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Apposite Reason:** Kareo is developed keeping the primary care requirements of small practices since it offers a clinical-billing-engagement all-in-one software. User-friendliness, low cost, and adjustable design have helped it remain one of the choices of EHR systems among small health providers.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download.png)
+![best-ehr-software](/img/uploads/2024/10/download.png)
 
 ### **3\. DrChrono**
 
@@ -50,7 +50,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Why It’s Ideal for Small Practices**: DrChrono is particularly famous for its mobile-clinics capability, allowing small practices to attend to patient records, billing, and scheduling, all from any device. It also incorporates telemedicine-related functionality, which is important for small practices that practice remotely. The optionality of the workflows allows the practitioners to adjust the system more to suit them.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-1-150x150.png)
+![best-ehr-software](/img/uploads/2024/10/download-1-150x150.png)
 
 ### **4.SimplePractice**
 
@@ -60,7 +60,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Why It’s Ideal for Small Practices**: SimplePractice is used mostly by mental health professionals, counselors, and therapists due to its telehealth functions and user-friendliness. This software targets smaller teams and individual practitioners who can work on requests looking for scheduling, secure communication with clients, and efficient billing management, all important on the side of running the therapy practice effectively.
 
-![best0ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-2.png)
+![best0ehr-software](/img/uploads/2024/10/download-2.png)
 
 ### **5\. AdvancedMD**
 
@@ -70,7 +70,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Why It’s Ideal for Small Practices**: The good thing about AdvancedMD is that it has an EHR system that is scalable, enabling practices to expand without outgrowing the software at any point in time. Its rich feature base, complete with patient engagement capabilities and revenue cycle management, makes it a good fit for practices that desire such features while allowing their practices to grow in the long haul.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-3.png)
+![best-ehr-software](/img/uploads/2024/10/download-3.png)
 
 ### **6\. Practice Fusion**
 
@@ -80,7 +80,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Why it’s Ideal for Small Practices:** One of the most budget-friendly EHR solutions is Practice Fusion. The around-the-hive EHR provides a free tier that suits very small practices with limited finances. It has a low price option but still has features such as e-prescription, charting, and patient management.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-4.png)
+![best-ehr-software](/img/uploads/2024/10/download-4.png)
 
 ### **7\. athenahealth**
 
@@ -90,7 +90,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 **Why It’s Ideal for Small Practices Closer**: A majority of the practice's ancillary activities can be performed using Athenahealth's services, based on the fact that practices do not have to employ a lot of staff. Designed as a cloud-sourced solution, this facility proves most beneficial in terms of operational management and revenue cycle **management with a twist of telehealth.**
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-5.png)
+![best-ehr-software](/img/uploads/2024/10/download-5.png)
 
 ### **8\. NextGen Healthcare**
 
@@ -100,7 +100,7 @@ In this article, we present the top 8 best EHR companies suitable for small prac
 
 Why it’s Ideal for Small Practices: Affordable, priced EHR solutions with the customization capabilities for small practices are what NextGen offers. The platform is more accommodating, with all sorts of integration into telehealth, making it easier to run a busy practice and still ensure quality care to patients.
 
-![best-ehr-software](https://qiaben.com/wp-content/uploads/2024/10/download-6.png)
+![best-ehr-software](/img/uploads/2024/10/download-6.png)
 
 ## How to Select the Most Appropriate EHR System for Your Small Practice
 

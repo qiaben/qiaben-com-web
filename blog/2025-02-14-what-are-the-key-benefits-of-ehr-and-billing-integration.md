@@ -39,7 +39,7 @@ Immediate access to full patient records is critical to healthcare professionals
 
 Becoming a part of billing systems, EHR empowers healthcare practitioners with the proper tools to make informed decisions. With real-time data at their fingertips, they can enhance patient care and money management. This results in improved outcomes for both patients and healthcare practices.
 
-[Click here](https://calendly.com/qiaben/openemr) ![Web mage of Trends in EHR & Billing Integration](https://qiaben.com/wp-content/uploads/2025/02/Trends-in-EHR-Billing-Integration.webp)
+[Click here](https://calendly.com/qiaben/openemr) ![Web mage of Trends in EHR & Billing Integration](/img/uploads/2025/02/Trends-in-EHR-Billing-Integration.webp)
 
 ## Future Trends in EHR and Billing Integration
 
@@ -65,4 +65,4 @@ The implementation of [EHR](https://blog.curemd.com/ehr-and-billing/) within med
 
 For healthcare organizations, the implementation of integrated systems can make operations more streamlined while providing patients with the best possible care. This method enhances financial stability, fosters stronger patient relationships, and helps to create a healthier community as a whole.
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

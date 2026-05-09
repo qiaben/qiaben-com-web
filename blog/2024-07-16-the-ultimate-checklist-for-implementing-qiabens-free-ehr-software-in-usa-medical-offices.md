@@ -63,7 +63,7 @@ Although Qiaben’s EHR software is free, there may be additional costs associat
 
 Identify any hidden expenses that might arise during the implementation process, such as temporary productivity losses or additional support services. Planning for these hidden expenses will prevent unexpected financial burdens and ensure a successful EHR implementation.
 
- [![](https://qiaben.com/wp-content/uploads/2024/04/0a727ee0-fd48-4a39-8969-928a3a8563b8.webp)](https://qiaben.com/contact/)
+ [![](/img/uploads/2024/04/0a727ee0-fd48-4a39-8969-928a3a8563b8.webp)](https://qiaben.com/contact/)
 
 #### Implementation Planning
 

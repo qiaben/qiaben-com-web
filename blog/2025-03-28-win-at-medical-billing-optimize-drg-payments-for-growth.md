@@ -11,7 +11,7 @@ tags:
 authors: [qiaben]
 ---
 
-![DRG based payments](https://qiaben.com/wp-content/uploads/2025/03/Small-business-marketing-ideas-1-768x768.jpg)
+![DRG based payments](/img/uploads/2025/03/Small-business-marketing-ideas-1-768x768.jpg)
 
 ### Introduction
 
@@ -41,7 +41,7 @@ How Do DRGs Impact Reimbursement?
 
 Since hospitals must work within these fixed rates, accurate coding and proper documentation are essential for maximizing reimbursements.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/5569556_2919616-1024x1024.jpg)
+![](/img/uploads/2025/03/5569556_2919616-1024x1024.jpg)
 
 ### Challenges in DRG-Based Billing
 
@@ -121,7 +121,7 @@ Advanced analytics tools can help track DRG payment trends and improve financial
 
 3.Enhancing coding and billing efficiency through AI-driven insights.
 
-![drg based payment](https://qiaben.com/wp-content/uploads/2025/03/wire-transfer-young-man-using-his-smartphone-laptop-banking-transaction-some-payments-1024x683.jpg)
+![drg based payment](/img/uploads/2025/03/wire-transfer-young-man-using-his-smartphone-laptop-banking-transaction-some-payments-1024x683.jpg)
 
 ### Benefits of Optimizing DRG-Based Billing
 
@@ -142,4 +142,4 @@ Partnering with top-tier medical billing services can further enhance efficiency
 
  Need expert guidance in medical billing? Connect with the best medical billing services today and take control of your DRG reimbursements!
 
-![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![](/img/uploads/2024/04/1.jpg)

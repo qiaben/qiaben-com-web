@@ -47,7 +47,7 @@ Another thing that stands out with [Cigna Dental](https://www.cigna.com/individ
 
 As for [Humana](https://www.humana.com/dental-insurance) trumpeting about its constant improvement of loyalty with Loyalty Plus, the benefits increase with duration of enrollment, which means stay longer and get better coverage. For instance, in the third year, the plan is able to provide up to $1500 for major work such as root canals and extractions. This insurance plan is known as the Loyalty Plus, and there are no waiting periods for basic or major services, and the premium is in check as regards such plans. Humana also covers a variety of services that are called preventive, thereby widening this plan suitable for either an individual or a family who is seeking complete care along with loyalty rewards.
 
-![dental-insurance-comapanie](https://qiaben.com/wp-content/uploads/2024/10/Untitled-design-1-1024x576.jpg)
+![dental-insurance-comapanie](/img/uploads/2024/10/Untitled-design-1-1024x576.jpg)
 
 At Qiaben HCS, we offer comprehensive [dental billing](https://qiaben.com/dental-billing-service/) services that handle every aspect of the billing cycle. From patient registration and insurance verification to claim submission and follow-up, our professionals ensure that your billing process is efficient and error-free. We focus on maximizing your reimbursement rates and minimizing denials, allowing your dental practice to thrive.
 

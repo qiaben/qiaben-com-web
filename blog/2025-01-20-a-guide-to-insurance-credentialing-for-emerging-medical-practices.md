@@ -7,7 +7,7 @@ tags:
 authors: [qiaben]
 ---
 
-![](https://qiaben.com/wp-content/uploads/2025/01/qtq80-nLABTv-1024x683.jpeg)
+![](/img/uploads/2025/01/qtq80-nLABTv-1024x683.jpeg)
 
 Starting a new medical practice is an exciting venture, but it comes with its fair share of challenges—especially when it comes to navigating the complex world of insurance verification. Have you ever wondered how to ensure your practice is set up to accept insurance seamlessly? Or why insurance credentialing and verification play such a vital role in building trust with patients and insurance providers alike?
 
@@ -60,7 +60,7 @@ By understanding the basics of insurance credentialing, you’re already taking 
 
 Getting ready for the insurance credentialing process can feel overwhelming, but with the right preparation, you can set your medical practice up for success. Think of this step as building the foundation for a house—you need the right materials, a solid plan, and attention to detail. But what exactly do you need to prepare? Let’s break it down.
 
-![](https://qiaben.com/wp-content/uploads/2025/01/qtq80-KKTurI-1024x703.jpeg)
+![](/img/uploads/2025/01/qtq80-KKTurI-1024x703.jpeg)
 
 #### 1.Gather Your Essential Documentation
 
@@ -119,7 +119,7 @@ Accuracy is everything at this stage. Even minor errors or missing information c
 
 After your qualifications are verified, the next step is submitting your application to insurance panels. This is the formal process of requesting to become an in-network provider for insurance companies. Being part of an insurance panel allows you to serve a broader patient base while ensuring timely reimbursement for your services.
 
-![](https://qiaben.com/wp-content/uploads/2025/01/qtq80-kLt1xz-1024x683.jpeg)
+![](/img/uploads/2025/01/qtq80-kLt1xz-1024x683.jpeg)
 
 ##### Steps to Successfully Submit Applications:
 

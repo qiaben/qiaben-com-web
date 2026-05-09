@@ -13,13 +13,13 @@ What is Dental billing ?
 
 Dental billing is the process of submitting and following up on claims for payment of dental services provided to patients. Preparation and submission of claims to insurance companies, government programs, or directly to the patients, followed by follow-up of the status of those claims to ascertain payment, are all included here. The process of dental billing may require complex coding and documentation. The dental practices have to be very well aware of insurance plans, government programs, and billing regulations for receiving accurate and timely payment for their services. The ultimate goal of dental billing is to assure the practice's revenue while complying with all applicable laws and regulations.
 
-![dental billing question](https://qiaben.com/wp-content/uploads/2025/09/download-45-1024x576.webp)
+![dental billing question](/img/uploads/2025/09/download-45-1024x576.webp)
 
 ’Suppose  A patient visits your clinic for a dental filling on tooth #14. You complete your job and The procedure is coded as D2392. Your office submits a claim to the patient’s dental insurance company with the correct CDT code and documentation. Then insurance company reviews the claim and pays $120 toward the procedure. And The remaining balance of $40  is billed directly send to the patient. Once the patient pays $40, the billing for that procedure is fully completed.’
 
 Now Might understand Why need to know Terminology then lets deep dive into actual topic 
 
-![](https://qiaben.com/wp-content/uploads/2025/10/download-63-1024x576.webp)
+![](/img/uploads/2025/10/download-63-1024x576.webp)
 
 ## 
 

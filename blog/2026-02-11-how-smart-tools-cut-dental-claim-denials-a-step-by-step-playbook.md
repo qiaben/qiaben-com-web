@@ -5,7 +5,7 @@ date: 2026-02-11
 authors: [qiaben]
 ---
 
-![“Infographic titled ‘How Smart Tools Cut Dental Claim Denials’ showing a large pile of denied dental claims on the left and a circular smart workflow graphic on the right highlighting pre-submission scrubs, reduced rework (33%), faster appeals, and smart chart prompts to prevent and fix claim denials.”](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_35_42-PM.png)
+![“Infographic titled ‘How Smart Tools Cut Dental Claim Denials’ showing a large pile of denied dental claims on the left and a circular smart workflow graphic on the right highlighting pre-submission scrubs, reduced rework (33%), faster appeals, and smart chart prompts to prevent and fix claim denials.”](/img/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_35_42-PM.png)
 
 If you manage a dental practice or run the billing team, this is for you. It’s a practical playbook  written in plain language  that shows how modern tools stop routine claim denials before they happen, speed up payments, and free your team from endless rework. Download the denial prevention checklist at the end to run a pilot in one provider’s schedule this week.
 

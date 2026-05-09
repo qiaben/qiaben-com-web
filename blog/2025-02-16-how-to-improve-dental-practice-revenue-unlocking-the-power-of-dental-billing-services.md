@@ -89,7 +89,7 @@ There will be new codes for:
 
 Tip: AI programs sometimes update codes and cross out outdated entries before submitting. 
 
-![How to Improve Dental Practice Revenue: Unlocking the Power of Dental Billing Services](https://qiaben.com/wp-content/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png)
+![How to Improve Dental Practice Revenue: Unlocking the Power of Dental Billing Services](/img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png)
 
 ### RCM Analytics: Data-Driven Decision-making for Driving Revenue 
 

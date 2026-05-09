@@ -17,7 +17,7 @@ authors: [qiaben]
 - Collecting and validating the important information about the patient's insurance coverage.
 - The health care services provide eligibility for reimbursement.
 
-![medical billing insurance](https://qiaben.com/wp-content/uploads/2024/10/Blue-and-White-Modern-Health-Insurance-Instagram-Post-768x768.jpg)
+![medical billing insurance](/img/uploads/2024/10/Blue-and-White-Modern-Health-Insurance-Instagram-Post-768x768.jpg)
 
 The confirmation cycle commonly incorporates:
 
@@ -93,7 +93,7 @@ A medical billing protection check assumes an urgent part in the income pattern 
 
        By verifying insurance before administrations are delivered, suppliers can limit the gamble of uncollectible records because of neglected patient adjustments, in this manner paying off generally bad debt.
 
-![Medical billing insurance](https://qiaben.com/wp-content/uploads/2024/10/Brown-White-Health-Insurance-Instagram-Post-768x768.jpg)
+![Medical billing insurance](/img/uploads/2024/10/Brown-White-Health-Insurance-Instagram-Post-768x768.jpg)
 
 ### Conclusion:
 

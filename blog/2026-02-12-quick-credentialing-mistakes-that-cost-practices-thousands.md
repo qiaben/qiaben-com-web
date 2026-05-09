@@ -7,7 +7,7 @@ authors: [qiaben]
 
 Credentialing feels like paperwork until it becomes a revenue problem. One small oversight  a missing signature, an outdated license number, or a failed recredentialing reminder  can turn clean claims into denials, push revenue into aging AR, and eat up staff hours fixing avoidable errors. Below are the most common **credentialing mistakes**, why they happen now, and the practical fixes that actually work in today’s market.
 
-![Infographic titled “Quick Credentialing Mistakes That Cost Practices Thousands” showing a comparison between “Denials & Lost Revenue” with red denial papers and broken chain graphics, and “Secured Revenue & Efficiency” with a rising bar chart, coins, and gears. It lists three mistakes: seeing insured patients before credentialing is active, inconsistent provider data across systems, and missing or expired documents such as licenses, board certifications, and DEA.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-19-2026-11_18_34-PM.png)
+![Infographic titled “Quick Credentialing Mistakes That Cost Practices Thousands” showing a comparison between “Denials & Lost Revenue” with red denial papers and broken chain graphics, and “Secured Revenue & Efficiency” with a rising bar chart, coins, and gears. It lists three mistakes: seeing insured patients before credentialing is active, inconsistent provider data across systems, and missing or expired documents such as licenses, board certifications, and DEA.](/img/uploads/2026/02/ChatGPT-Image-Feb-19-2026-11_18_34-PM.png)
 
 ## 1) Seeing insured patients before credentialing is active
 

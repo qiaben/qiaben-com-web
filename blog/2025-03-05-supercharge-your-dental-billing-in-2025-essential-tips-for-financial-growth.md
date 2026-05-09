@@ -15,7 +15,7 @@ authors: [qiaben]
 
 Regardless of whether you're a biller, office manager, or dentist, this book provides you with current, realistic guidance on how to establish your career in billing and expand your bottom line.
 
-![Supercharge Your Dental Billing in 2025: Essential Tips for Financial Growth](https://qiaben.com/wp-content/uploads/2025/03/supercharge-1-300x169.png)
+![Supercharge Your Dental Billing in 2025: Essential Tips for Financial Growth](/img/uploads/2025/03/supercharge-1-300x169.png)
 
 ### 1\. Meeting 2025's New Challenges  
 

@@ -15,7 +15,7 @@ The changes to E/M coding are significant and will affect healthcare providers, 
 - Better patient care: The changes to E/M coding provide more specific codes for patient conditions, which will enable better treatment and care.
 
   
- ![](https://qiaben.com/wp-content/uploads/2024/08/a_electronic_health_record_data_in_a_medical_office_with_us_nurses_practitioners_reviewing_on_big_screen_with_qiaben_com_the_light_is_bright_and_the_mood_is_happy-1-1024x1024.jpeg)
+ ![](/img/uploads/2024/08/a_electronic_health_record_data_in_a_medical_office_with_us_nurses_practitioners_reviewing_on_big_screen_with_qiaben_com_the_light_is_bright_and_the_mood_is_happy-1-1024x1024.jpeg)
 
 Challenges of E/M Coding Changes:
 

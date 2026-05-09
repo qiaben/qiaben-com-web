@@ -235,4 +235,4 @@ Technical support from us guarantees your OpenEMR system is optimized for its be
 
 Your clinic can have access to a complete set of tools for effective, secure, and flexible patient care through OpenEMR. Right from the installation stage to day-to-day usage, the system offers unparalleled flexibility. The open EMR options available are ideal for clinics that need to manage everything but do not want to be committed to expensive proprietary systems.
 
-[Click here](https://calendly.com/qiaben/openemr) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://calendly.com/qiaben/openemr) ![](/img/uploads/2024/04/1.jpg)

@@ -16,7 +16,7 @@ authors: [qiaben]
     
 - Through advanced digital healthcare platforms and customized solutions, Qiaben helps healthcare organizations improve patient record management, operational efficiency, and overall healthcare service delivery.
 
-![Patient Record Management using EHR and EMR systems to improve healthcare workflow and data security](https://qiaben.com/wp-content/uploads/2026/03/Gemini_Generated_Image_msyadvmsyadvmsya-1-1024x559.png)
+![Patient Record Management using EHR and EMR systems to improve healthcare workflow and data security](/img/uploads/2026/03/Gemini_Generated_Image_msyadvmsyadvmsya-1-1024x559.png)
 
 ### UNDERSTANDING EHR AND EMR :
 

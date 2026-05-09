@@ -8,7 +8,7 @@ tags:
 authors: [qiaben]
 ---
 
-![Periodontic billing](https://qiaben.com/wp-content/uploads/2025/01/Periodontic-billing-3-768x432.png)
+![Periodontic billing](/img/uploads/2025/01/Periodontic-billing-3-768x432.png)
 
 Periodontics, a particular part of dentistry zeroing in on the designs supporting the teeth, frequently includes complex methodology. Precise billing and coding are basic to guarantee that dental practices are repaid effectively while keeping up with consistency. In this blog, we dig into the complexities of D4000-D4999 codes the normalized set of codes that address different periodontic systems.  
 
@@ -38,7 +38,7 @@ Model: D4260 - Rigid medical procedure, including fold section and conclusion, p
 Support codes are utilized for follow-up care post-treatment, for example, periodontal support visits.  
 Model: D4910 - Periodontal upkeep  
 
-![periodontic billing](https://qiaben.com/wp-content/uploads/2025/01/Periodontic-billing-768x432.png)
+![periodontic billing](/img/uploads/2025/01/Periodontic-billing-768x432.png)
 
 #### Key **Bits of Knowledge for Viable Periodontic Billing**
 

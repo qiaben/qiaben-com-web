@@ -12,8 +12,8 @@ const status: Array<{ label: string; desc: string; state: 'done' | 'next' | 'pen
   { label: 'About / Contact / Privacy', desc: 'Corporate pages stubbed; contact form via Calendly + email.', state: 'done' },
   { label: 'Blog import', desc: '178 posts auto-converted from WP export to /blog/<slug>; slugs match WP exactly.', state: 'done' },
   { label: 'Cloudflare redirect map', desc: '178-row CSV ready (cloudflare-redirects.csv) — WP root URLs → /blog/<slug>.', state: 'done' },
+  { label: 'Media migration', desc: '236 referenced images extracted from 1.7 GB GoDaddy uploads (22 MB on disk); 278 paths rewritten across 130 posts.', state: 'done' },
   { label: 'Real WP content into service stubs', desc: 'Replace stub copy with real qiaben.com page content (next).', state: 'next' },
-  { label: 'Media migration', desc: 'wp-content/uploads (926 attachments) downloaded and rewritten in posts.', state: 'pending' },
   { label: 'Cutover', desc: 'CNAME flip + apply Cloudflare bulk redirects + retire WP.', state: 'pending' },
 ];
 

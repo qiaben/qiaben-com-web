@@ -5,7 +5,7 @@ date: 2026-02-20
 authors: [qiaben]
 ---
 
-![Feature image showing a dental revenue cycle management (RCM) dashboard with charts, graphs, and five key KPIs—clean claim rate, AR days, net collection rate, denial rate, and patient collections—highlighted with icons, a magnifying glass, and an upward revenue trend to illustrate how to read RCM performance metrics.](https://qiaben.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-20-2026-09_57_01-PM-1024x683.png)
+![Feature image showing a dental revenue cycle management (RCM) dashboard with charts, graphs, and five key KPIs—clean claim rate, AR days, net collection rate, denial rate, and patient collections—highlighted with icons, a magnifying glass, and an upward revenue trend to illustrate how to read RCM performance metrics.](/img/uploads/2026/02/ChatGPT-Image-Feb-20-2026-09_57_01-PM-1024x683.png)
 
 # How to Read Your RCM Dashboard and Understand the KPIs That Matter
 

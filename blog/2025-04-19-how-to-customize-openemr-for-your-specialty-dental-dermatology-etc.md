@@ -9,7 +9,7 @@ authors: [qiaben]
 
 One of the most flexible EMR systems available, [**OpenEMR**](https://qiaben.com/what-is-openemr-benefits-features-setup-guide-for-healthcare-practices/) is in use at clinics around the world. What makes it even better? You can tailor it to your particular specialty — whether you are running a dental practice, a dermatology clinic or a pediatric center. In this guide, we’re going to show you how you can customize OpenEMR so that it really suits your own individual lifestyles.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13824-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13824-768x439.png)
 
 ### Why Bother Customizing OpenEMR?
 
@@ -19,7 +19,7 @@ The documentation is more prompt and accurate.
 It takes away stress — and can be more accurate.  
 Patients receive better care because your system fits the way you work.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13819-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13819-768x439.png)
 
 ### What You Can Customize in OpenEMRre
 
@@ -44,7 +44,7 @@ Create Appointment types for your clinic.
 Auto-load billing codes  
 Set reminders or alerts according to your specialty
 
-![](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13820-768x439.png)
+![](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13820-768x439.png)
 
 ### How to Customize OpenEMR (Step-by-Step)
 
@@ -67,7 +67,7 @@ Leverage Clinical Decision Rules as prompts for routine rechecks or alerts, such
 
 Update your billing sheets and templates with the correct CPT and ICD-10 codes. That means your billing adds up, and you’re strip-free.
 
-![open EMR](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13821-768x439.png)
+![open EMR](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13821-768x439.png)
 
 ### Real-Life Examples
 
@@ -89,7 +89,7 @@ Update your billing sheets and templates with the correct CPT and ICD-10 codes. 
 - Vaccine history and alerts
 - Templates for developmental checkups
 
-![](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13822-768x439.png)
+![](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13822-768x439.png)
 
 ### Other Specialties (OB-GYN, Cardiology, etc.)
 
@@ -113,7 +113,7 @@ Update your billing sheets and templates with the correct CPT and ICD-10 codes. 
 
 [**OpenEMR**](https://qiaben.com/openemr-support-maintenance/) afforded is not just a ledger system— it’s an open workbench to do what you need in practice. With these mods, you’ll work faster, bill smarter and give better care.
 
-![](https://qiaben.com/wp-content/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13823-768x439.png)
+![](/img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13823-768x439.png)
 
 ### Frequently Asked Questions
 

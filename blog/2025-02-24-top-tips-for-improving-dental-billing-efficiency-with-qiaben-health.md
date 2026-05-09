@@ -157,7 +157,7 @@ Automated or not, your staff needs to be aware of how contemporary dental billin
 
 Tip: Qiaben Health provides on-demand staff training and monthly update briefings to all clients.
 
-![TOP TIPS FOR IMPROVING DENTAL BILLING EFFICIENCY WITH QIABEN HEALTH](https://qiaben.com/wp-content/uploads/2025/02/top-tips-for-improve-dental-billing-300x169.png)
+![TOP TIPS FOR IMPROVING DENTAL BILLING EFFICIENCY WITH QIABEN HEALTH](/img/uploads/2025/02/top-tips-for-improve-dental-billing-300x169.png)
 
 Case Study: How Practice Collected $180K More in 6 Months
 

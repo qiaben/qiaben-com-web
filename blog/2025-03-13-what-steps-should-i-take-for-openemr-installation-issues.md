@@ -11,7 +11,7 @@ Installation of OpenEMR may be a welcome idea for the improvement of medical pra
 
 This guidebook helps fix the most frequent OpenEMR installation problems with step-by-step solutions. If you are having trouble with OpenEMR installation, follow this process to troubleshoot efficiently and prevent more issues in the future.
 
-![open EMR installation](https://qiaben.com/wp-content/uploads/2025/03/OpenEMR-installation-1024x674-1-768x506.png)
+![open EMR installation](/img/uploads/2025/03/OpenEMR-installation-1024x674-1-768x506.png)
 
 ### Knowing the Role of a Proper OpenEMR Installation
 
@@ -19,7 +19,7 @@ This guidebook helps fix the most frequent OpenEMR installation problems with st
 
 It is preferable to know how things will go wrong instead of attempting to correct any errors afterwards. Server incompatibility, permission setting, and missing dependencies are the most common causes for installations gone wrong. Let us discuss them one at a time.
 
-![open EMR installation](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-digital-hospital-dashboard-displaying-openemr-fe__79344-300x300.jpeg)
+![open EMR installation](/img/uploads/2025/03/freepik__a-digital-hospital-dashboard-displaying-openemr-fe__79344-300x300.jpeg)
 
 ### Standard OpenEMR Installation Issues
 
@@ -83,7 +83,7 @@ Your server is correctly sending HTTP to HTTPS
 
 Your browser is properly accepting the certificate
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-splitscreen-of-a-computer-showing-various-openem__79345-300x300.jpeg)
+![](/img/uploads/2025/03/freepik__a-splitscreen-of-a-computer-showing-various-openem__79345-300x300.jpeg)
 
 ### Pre-Installation Checklist
 
@@ -213,7 +213,7 @@ Fixing Specific OpenEMR Problems
 
 **Solution:** This could be a .htaccess setup or be missing a PHP module. Review error logs and disable .htaccess temporarily to test.
 
-![open EMR installation](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-checklist-document-overlay-on-a-computer-screen-__79346-300x300.jpeg)
+![open EMR installation](/img/uploads/2025/03/freepik__a-checklist-document-overlay-on-a-computer-screen-__79346-300x300.jpeg)
 
 ### Best Practices After Installation
 
@@ -239,7 +239,7 @@ Monitor server CPU, disk utilization, and memory consumption. Utilize tools such
 
 Buggy software exposes your system to security attacks. Update OpenEMM, PHP, and the operating system.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-secured-openemr-interface-on-a-monitor-with-shie__79347-300x300.jpeg)
+![](/img/uploads/2025/03/freepik__a-secured-openemr-interface-on-a-monitor-with-shie__79347-300x300.jpeg)
 
 ### When to Call in a Pro
 
@@ -275,10 +275,10 @@ Custom plugin development and integrations
 
 Initial OpenEMR installation or even resolving a failed installation, Qiaben's got it covered with confidence.
 
-![](https://qiaben.com/wp-content/uploads/2025/03/freepik__a-branded-qiaben-support-team-assisting-clients-vi__79348-300x300.jpeg)
+![](/img/uploads/2025/03/freepik__a-branded-qiaben-support-team-assisting-clients-vi__79348-300x300.jpeg)
 
 ### Last Thoughts
 
 [**OpenEMR**](https://qiaben.com/exploring-openemrs-core-features-what-you-need-to-know/) is a fantastic software, if correctly installed. The installation issues are the rule, particularly among the newbies or the less technologically inclined clinics. Fortunately, most of them are easy to fix with the right knowledge and good sense.
 
-![open EMR installation](https://qiaben.com/wp-content/uploads/2025/04/700px-Qiaben_Health_Open_EMR-4-1-300x300.png) ![](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+![open EMR installation](/img/uploads/2025/04/700px-Qiaben_Health_Open_EMR-4-1-300x300.png) ![](/img/uploads/2024/04/1.jpg)

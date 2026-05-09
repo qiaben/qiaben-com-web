@@ -5,7 +5,7 @@ date: 2025-02-21
 authors: [qiaben]
 ---
 
-![Web image of EHR integration](https://qiaben.com/wp-content/uploads/2025/02/EHR-integration-1024x537.webp)
+![Web image of EHR integration](/img/uploads/2025/02/EHR-integration-1024x537.webp)
 
 ### Introduction
 
@@ -98,4 +98,4 @@ For best results, hospitals must train their staff properly and ensure the dashb
 
 As technology continues to advance, tools like EHR dashboards will become even more important. Clinics and hospitals that adopt them early will stay ahead in delivering high-quality healthcare.
 
-[Click here](https://calendly.com/qiaben/openemr) ![Female Dental Doctor](https://qiaben.com/wp-content/uploads/2024/04/1.jpg)
+[Click here](https://calendly.com/qiaben/openemr) ![Female Dental Doctor](/img/uploads/2024/04/1.jpg)
