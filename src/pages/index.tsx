@@ -10,10 +10,11 @@ const status: Array<{ label: string; desc: string; state: 'done' | 'next' | 'pen
   { label: 'Service pages', desc: '12 services stubbed: medical / dental billing, RCM, scribe, ambulance, credentialing, coding, IV, patient billing, well care, audit shield.', state: 'done' },
   { label: 'Specialties + EHR/EMR', desc: '50-specialty grid + EHR/EMR overview live.', state: 'done' },
   { label: 'About / Contact / Privacy', desc: 'Corporate pages stubbed; contact form via Calendly + email.', state: 'done' },
-  { label: 'Real WP content into stubs', desc: 'Replace stub copy with real qiaben.com page content (next session).', state: 'next' },
-  { label: 'Blog import', desc: '~150 posts auto-converted from WordPress export, slugs preserved.', state: 'pending' },
-  { label: 'Media migration', desc: 'wp-content/uploads downloaded and rewritten in posts.', state: 'pending' },
-  { label: 'Cutover', desc: 'CNAME flip + Cloudflare redirect rules for any URL drift.', state: 'pending' },
+  { label: 'Blog import', desc: '178 posts auto-converted from WP export to /blog/<slug>; slugs match WP exactly.', state: 'done' },
+  { label: 'Cloudflare redirect map', desc: '178-row CSV ready (cloudflare-redirects.csv) — WP root URLs → /blog/<slug>.', state: 'done' },
+  { label: 'Real WP content into service stubs', desc: 'Replace stub copy with real qiaben.com page content (next).', state: 'next' },
+  { label: 'Media migration', desc: 'wp-content/uploads (926 attachments) downloaded and rewritten in posts.', state: 'pending' },
+  { label: 'Cutover', desc: 'CNAME flip + apply Cloudflare bulk redirects + retire WP.', state: 'pending' },
 ];
 
 export default function Home(): ReactNode {
