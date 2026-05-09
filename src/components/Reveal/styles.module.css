@@ -1,0 +1,36 @@
+.reveal {
+  opacity: 0;
+  transition:
+    opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+
+.v_up {
+  transform: translateY(28px);
+}
+
+.v_fade {
+  /* opacity only */
+}
+
+.v_left {
+  transform: translateX(-28px);
+}
+
+.v_right {
+  transform: translateX(28px);
+}
+
+.visible {
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}

@@ -5,20 +5,29 @@ description: "EHR or EMR — Which One Fits You Best?"
 
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
+import Reveal from '@site/src/components/Reveal';
 
-<MarketingHero
-  eyebrow="EHR / EMR"
-  title="EHR and EMR Systems for Modern Practices"
-  subtitle="EHR or EMR — Which One Fits You Best?"
-/>
+<Reveal variant="fade">
+  <MarketingHero
+    eyebrow="EHR / EMR"
+    title="EHR and EMR Systems for Modern Practices"
+    subtitle="EHR or EMR — Which One Fits You Best?"
+  />
+</Reveal>
 
 <div className="qb-mdxBody">
+
+<Reveal delay={0}>
 
 ## Find the Right Digital Health Solution for Your Practice
 
 EHR or EMR — Which One Fits You Best?
 
 At Qiaben Healthcare Solutions, we empower healthcare providers with intelligent, secure, and efficient digital systems. Whether you need a complete Electronic Health Record (EHR) platform or a flexible Electronic Medical Record (EMR) system, we offer the right solution to match your goals.
+
+</Reveal>
+
+<Reveal delay={40}>
 
 ## 💡 Understanding the Difference
 
@@ -29,6 +38,10 @@ A comprehensive, connected platform that stores and shares patient information a
 ### EMR (Electronic Medical Record)
 
 A digital version of a patient's chart within a single clinic or practice. Perfect for small to mid-sized providers focused on internal record management and efficiency.
+
+</Reveal>
+
+<Reveal delay={80}>
 
 ## Choose Your Platform
 
@@ -68,6 +81,10 @@ For healthcare providers who value flexibility and control, OpenEMR is a globall
 
 [👉 Discover OpenEMR](https://qiaben.com/open-emr/)
 
+</Reveal>
+
+<Reveal delay={120}>
+
 ## Why Choose Qiaben
 
 ### 🛠️ End-to-End Implementation
@@ -101,6 +118,10 @@ Our experts can help you choose between Ciyex EHR and OpenEMR based on your goal
 
 [Talk to 0ur Team](https://calendly.com/qiaben/15-minutes-meeting/)
 
+</Reveal>
+
 </div>
 
-<MarketingCTA />
+<Reveal>
+  <MarketingCTA />
+</Reveal>

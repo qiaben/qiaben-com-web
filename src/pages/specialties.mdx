@@ -5,14 +5,19 @@ description: "Revenue Cycle Excellence — Tailored for Every Specialty"
 
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
+import Reveal from '@site/src/components/Reveal';
 
-<MarketingHero
-  eyebrow="Specialties"
-  title="Specialities"
-  subtitle="Revenue Cycle Excellence — Tailored for Every Specialty"
-/>
+<Reveal variant="fade">
+  <MarketingHero
+    eyebrow="Specialties"
+    title="Specialities"
+    subtitle="Revenue Cycle Excellence — Tailored for Every Specialty"
+  />
+</Reveal>
 
 <div className="qb-mdxBody">
+
+<Reveal delay={0}>
 
 ## Qiaben Healthcare Specialties
 
@@ -23,6 +28,10 @@ Revenue Cycle Excellence — Tailored for Every Specialty
 Every specialty has its own billing challenges — from complex coding rules to payer-specific documentation requirements.
 
 At Qiaben, we bring deep domain expertise, AI-enabled workflows, and EHR-integrated billing systems to ensure accuracy, compliance, and faster reimbursements for 50+ medical and dental specialties. Our team of certified coders and billing professionals understand the nuances of each field — so your focus stays on patient care, while we handle your revenue cycle end-to-end.
+
+</Reveal>
+
+<Reveal delay={40}>
 
 ## Medical Specialties We Support
 
@@ -152,6 +161,10 @@ Qiaben provides complete RCM solutions — including charge entry, coding, claim
 
 😁
 
+</Reveal>
+
+<Reveal delay={80}>
+
 ## Dental Specialties We Serve
 
 Our dental billing experts manage everything from insurance verification to CDT coding and claim follow-ups — delivering transparent reporting and improved cash flow for dental professionals.
@@ -206,6 +219,10 @@ We ensure faster reimbursements, fewer rejections, and complete transparency thr
 
 💡
 
+</Reveal>
+
+<Reveal delay={120}>
+
 ## Why Dental Practices Choose Qiaben
 
 ✅
@@ -244,6 +261,10 @@ Certified dental billing specialists who understand your practice
 
 Detailed analytics on collections, aging reports, and practice performance
 
+</Reveal>
+
 </div>
 
-<MarketingCTA />
+<Reveal>
+  <MarketingCTA />
+</Reveal>

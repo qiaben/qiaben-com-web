@@ -5,18 +5,27 @@ description: "Streamline your medical billing and practice management with our c
 
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
+import Reveal from '@site/src/components/Reveal';
 
-<MarketingHero
-  eyebrow="Practice management"
-  title="Professional Practice Management Services"
-  subtitle="Streamline your medical billing and practice management with our comprehensive solutions."
-/>
+<Reveal variant="fade">
+  <MarketingHero
+    eyebrow="Practice management"
+    title="Professional Practice Management Services"
+    subtitle="Streamline your medical billing and practice management with our comprehensive solutions."
+  />
+</Reveal>
 
 <div className="qb-mdxBody">
+
+<Reveal delay={0}>
 
 #### Managing Practice & Billing Has Never Been Easier
 
 ###### END-TO-END SERVICES
+
+</Reveal>
+
+<Reveal delay={40}>
 
 ## We'll Handle Your Practice Management And Billing Needs
 
@@ -106,8 +115,16 @@ Structured medical documentation enhancing patient care and communication.
 
 [Learn More](https://qiaben.com/soap-notes/) ![Female Dental Doctor](/img/uploads/2024/04/1.jpg)
 
+</Reveal>
+
+<Reveal delay={80}>
+
 ## Transform Your Practice
+
+</Reveal>
 
 </div>
 
-<MarketingCTA />
+<Reveal>
+  <MarketingCTA />
+</Reveal>
