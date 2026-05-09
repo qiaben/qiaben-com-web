@@ -357,6 +357,24 @@ export default function Home(): ReactNode {
           </div>
         </section>
 
+        {/* NEWSLETTER (Klaviyo) */}
+        <Reveal>
+          <section className={styles.newsletter}>
+            <div className={styles.newsletterInner}>
+              <p className={styles.sectionEyebrow}>Stay updated</p>
+              <h2 className={styles.newsletterTitle}>
+                Healthcare RCM insights, straight to your inbox
+              </h2>
+              <p className={styles.newsletterDesc}>
+                Practical tips on billing, denials, and revenue cycle. No spam.
+              </p>
+              <div className={styles.klaviyoSlot}>
+                <div className="klaviyo-form-RWF3QX"></div>
+              </div>
+            </div>
+          </section>
+        </Reveal>
+
         {/* CLOSING CTA */}
         <Reveal>
           <section className={styles.closing}>

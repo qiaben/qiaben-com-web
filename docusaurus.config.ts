@@ -4,6 +4,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // Staging mode: when DEPLOY_ENV !== 'production', publish at qiaben.github.io/qiaben-com-web/
 const isProd = process.env.DEPLOY_ENV === 'production';
+// Klaviyo onsite script company_id. Set via env var or repo variable at deploy time.
+// Leave empty until provided — embed divs render but stay empty without the loader.
+const KLAVIYO_COMPANY_ID = process.env.KLAVIYO_COMPANY_ID || '';
 
 const config: Config = {
   title: 'Qiaben Health',
@@ -57,6 +60,19 @@ const config: Config = {
         })(window,document,'script','dataLayer','GTM-P59P9PBR');
       `,
     },
+    // Klaviyo onsite script — loads only if KLAVIYO_COMPANY_ID is set at build time.
+    // Without it, klaviyo-form-* divs stay empty (the loader isn't present to populate them).
+    ...(KLAVIYO_COMPANY_ID
+      ? [
+          {
+            tagName: 'script',
+            attributes: {
+              async: 'true',
+              src: `https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=${KLAVIYO_COMPANY_ID}`,
+            } as Record<string, string>,
+          },
+        ]
+      : []),
   ],
 
   i18n: {

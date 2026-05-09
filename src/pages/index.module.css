@@ -627,6 +627,40 @@
   margin: 0;
 }
 
+/* ---------- NEWSLETTER (Klaviyo) ---------- */
+.newsletter {
+  padding: 60px 24px 70px;
+  background: var(--qb-bg);
+  border-top: 1px solid var(--qb-border);
+}
+
+.newsletterInner {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.newsletterTitle {
+  font-size: clamp(1.4rem, 2.4vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+  color: var(--qb-text);
+}
+
+.newsletterDesc {
+  color: var(--qb-text-soft);
+  font-size: 1.02rem;
+  margin: 0 0 24px;
+  line-height: 1.5;
+}
+
+.klaviyoSlot {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 80px;
+}
+
 /* ---------- CLOSING CTA ---------- */
 .closing {
   padding: 80px 24px;

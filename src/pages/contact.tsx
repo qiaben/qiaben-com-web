@@ -26,6 +26,15 @@ export default function Contact(): ReactNode {
         </section>
 
         <section className={styles.section}>
+          <div style={{ maxWidth: 720, margin: '0 auto 48px' }}>
+            <p style={{ textAlign: 'center', fontSize: '0.78rem', fontWeight: 600, letterSpacing: '0.06em', textTransform: 'uppercase', color: 'var(--qb-primary-dark)', margin: '0 0 8px' }}>
+              Send us a message
+            </p>
+            <h2 style={{ textAlign: 'center', fontSize: 'clamp(1.4rem, 2.4vw, 1.9rem)', fontWeight: 700, letterSpacing: '-0.02em', margin: '0 0 18px' }}>
+              Tell us about your practice
+            </h2>
+            <div className="klaviyo-form-RWF3QX"></div>
+          </div>
           <div className={styles.grid}>
             <div className={styles.card}>
               <div className={styles.cardLabel}>Email</div>
