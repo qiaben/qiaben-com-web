@@ -1,0 +1,195 @@
+/* Qiaben homepage placeholder — matches the live qiaben.com hero copy. */
+
+.page {
+  background: var(--qb-bg);
+  color: var(--qb-text);
+}
+
+.banner {
+  background: linear-gradient(90deg, #fef3c7 0%, #fde68a 100%);
+  color: #78350f;
+  padding: 10px 16px;
+  font-size: 0.86rem;
+  text-align: center;
+  border-bottom: 1px solid #fcd34d;
+}
+
+.banner strong {
+  font-weight: 600;
+}
+
+.banner a {
+  color: #78350f;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* HERO */
+.hero {
+  padding: 100px 24px 80px;
+  text-align: center;
+  background:
+    radial-gradient(at 30% 20%, rgba(15, 169, 188, 0.08), transparent 55%),
+    radial-gradient(at 70% 80%, rgba(15, 169, 188, 0.05), transparent 55%),
+    var(--qb-bg);
+}
+
+.heroEyebrow {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 980px;
+  background: var(--qb-bg-tint);
+  color: var(--qb-primary-dark);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.heroTitle {
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  margin: 0 auto 18px;
+  max-width: 22ch;
+  color: var(--qb-text);
+}
+
+.heroAccent {
+  color: var(--qb-primary);
+}
+
+.heroSubtitle {
+  font-size: clamp(1.05rem, 1.6vw, 1.25rem);
+  color: var(--qb-text-soft);
+  max-width: 60ch;
+  margin: 0 auto 32px;
+  line-height: 1.5;
+}
+
+.ctaRow {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ctaPrimary {
+  background: var(--qb-primary);
+  color: #ffffff;
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.ctaPrimary:hover {
+  background: var(--qb-primary-dark);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ctaSecondary {
+  background: transparent;
+  color: var(--qb-text);
+  border: 1px solid var(--qb-border);
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.ctaSecondary:hover {
+  border-color: var(--qb-primary);
+  color: var(--qb-primary);
+  text-decoration: none;
+}
+
+/* Status section: what's been migrated so far */
+.statusSection {
+  padding: 60px 24px;
+  background: var(--qb-bg-soft);
+}
+
+.statusInner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.statusEyebrow {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--qb-text-soft);
+  margin: 0 0 8px;
+}
+
+.statusTitle {
+  font-size: clamp(1.4rem, 2.4vw, 1.8rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 18px;
+  color: var(--qb-text);
+}
+
+.statusGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 700px) {
+  .statusGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.statusItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--qb-bg);
+  border: 1px solid var(--qb-border);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.statusDot {
+  flex-shrink: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-top: 6px;
+}
+
+.dotDone {
+  background: var(--qb-success);
+}
+
+.dotNext {
+  background: var(--qb-primary);
+}
+
+.dotPending {
+  background: #cbd5e1;
+}
+
+.statusLabel {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--qb-text);
+  display: block;
+}
+
+.statusDesc {
+  font-size: 0.82rem;
+  color: var(--qb-text-soft);
+  margin: 2px 0 0;
+}

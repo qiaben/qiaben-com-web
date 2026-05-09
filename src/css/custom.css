@@ -1,0 +1,203 @@
+/* Qiaben Health — healthcare-professional theme matching qiaben.com palette. */
+
+:root {
+  /* Brand */
+  --ifm-color-primary: #0fa9bc;
+  --ifm-color-primary-dark: #0c98a9;
+  --ifm-color-primary-darker: #0a8d9d;
+  --ifm-color-primary-darkest: #087482;
+  --ifm-color-primary-light: #14b8cc;
+  --ifm-color-primary-lighter: #2bbfd1;
+  --ifm-color-primary-lightest: #5fcfde;
+
+  /* Type */
+  --ifm-font-family-base:
+    -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text',
+    'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --ifm-heading-font-family: var(--ifm-font-family-base);
+  --ifm-heading-font-weight: 600;
+  --ifm-font-weight-bold: 600;
+  --ifm-heading-color: #0f172a;
+
+  /* Surfaces */
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #0a1628;
+  --ifm-footer-color: #94a3b8;
+  --ifm-footer-link-color: #cbd5e1;
+  --ifm-footer-title-color: #f1f5f9;
+
+  /* Text */
+  --ifm-color-content: #0f172a;
+  --ifm-color-content-secondary: #475569;
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-link-hover-color: var(--ifm-color-primary-darker);
+  --ifm-link-decoration: none;
+  --ifm-link-hover-decoration: underline;
+
+  /* Navbar */
+  --ifm-navbar-height: 72px;
+  --ifm-navbar-padding-vertical: 0;
+  --ifm-navbar-link-color: #0f172a;
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
+
+  /* Buttons */
+  --ifm-global-radius: 8px;
+  --ifm-button-border-radius: 8px;
+
+  /* Qiaben tokens */
+  --qb-primary: #0fa9bc;
+  --qb-primary-dark: #0c98a9;
+  --qb-dark: #0a1628;
+  --qb-dark-soft: #1e293b;
+  --qb-text: #0f172a;
+  --qb-text-soft: #475569;
+  --qb-bg: #ffffff;
+  --qb-bg-soft: #f1f5f9;
+  --qb-bg-tint: #ecfeff;
+  --qb-border: #e2e8f0;
+  --qb-warn: #f59e0b;
+  --qb-success: #10b981;
+}
+
+html,
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid var(--qb-border);
+  box-shadow: none;
+}
+
+.navbar__title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  color: var(--qb-text);
+}
+
+.navbar__link {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--qb-text);
+  transition: color 0.15s ease;
+}
+
+.navbar__link:hover {
+  color: var(--qb-primary);
+  text-decoration: none;
+}
+
+.navbar__logo {
+  height: 40px;
+  width: auto;
+}
+
+.navbar__logo img {
+  height: 40px;
+  width: auto;
+}
+
+/* Free-consultation CTA in navbar */
+.navbar-cta {
+  background: var(--qb-primary);
+  color: #ffffff !important;
+  padding: 8px 16px !important;
+  border-radius: 8px;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+  margin-left: 6px;
+}
+
+.navbar-cta:hover {
+  background: var(--qb-primary-dark);
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+/* Buttons */
+.button {
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  border: none;
+}
+
+.button--primary {
+  background: var(--qb-primary);
+  color: #ffffff;
+}
+
+.button--primary:hover {
+  background: var(--qb-primary-dark);
+  color: #ffffff;
+}
+
+.button--secondary {
+  background: transparent;
+  color: var(--qb-primary);
+  border: 1px solid var(--qb-border);
+}
+
+/* Footer */
+.footer {
+  padding: 56px 0 24px;
+  font-size: 0.86rem;
+}
+
+.footer__title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ifm-footer-title-color);
+  margin-bottom: 14px;
+}
+
+.footer__link-item {
+  font-size: 0.86rem;
+  color: var(--ifm-footer-link-color);
+  opacity: 0.92;
+}
+
+.footer__link-item:hover {
+  opacity: 1;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer__copyright {
+  color: var(--ifm-footer-color);
+  font-size: 0.78rem;
+  border-top: 1px solid #1e293b;
+  padding-top: 24px;
+  margin-top: 28px;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+}
+
+/* Top utility bar (above navbar) — used on real qiaben.com */
+.qb-topbar {
+  background: var(--qb-dark);
+  color: #cbd5e1;
+  font-size: 0.8rem;
+  padding: 8px 0;
+}
+
+.qb-topbar a {
+  color: #cbd5e1;
+  text-decoration: none;
+}
+
+.qb-topbar a:hover {
+  color: var(--qb-primary);
+}
