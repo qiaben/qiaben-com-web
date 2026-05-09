@@ -26,6 +26,39 @@ const config: Config = {
     format: 'detect',
   },
 
+  // Mirror analytics from live qiaben.com (WP).
+  headTags: [
+    // Facebook Pixel
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '829763808937153');
+        fbq('track', 'PageView');
+      `,
+    },
+    // Second GTM container (the primary one is wired via the googleTagManager preset option).
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P59P9PBR');
+      `,
+    },
+  ],
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -58,6 +91,20 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        // Primary GTM container (mirrors what's on qiaben.com).
+        googleTagManager: {
+          containerId: 'GTM-PJJZ78Q3',
+        },
+        // GA4 + Google Ads + GA4 server-side — multiple gtag IDs in one config.
+        gtag: {
+          trackingID: [
+            'G-M2TQG7MBXB',
+            'G-DEQLSJEEPP',
+            'GT-KTRJXSJ4',
+            'AW-11217555008',
+          ],
+          anonymizeIP: false,
         },
       } satisfies Preset.Options,
     ],
