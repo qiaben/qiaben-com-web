@@ -1,36 +1,50 @@
 .reveal {
-  opacity: 0;
-  transition:
-    opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
-    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
-  will-change: opacity, transform;
+  /* Always rendered, fully opaque from CSS perspective when animation finishes.
+     animation-fill-mode: both ensures the from-state applies before delay
+     and the to-state persists after. */
+  animation-duration: 700ms;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+  animation-fill-mode: both;
 }
 
 .v_up {
-  transform: translateY(28px);
+  animation-name: reveal-up;
 }
 
 .v_fade {
-  /* opacity only */
+  animation-name: reveal-fade;
 }
 
 .v_left {
-  transform: translateX(-28px);
+  animation-name: reveal-left;
 }
 
 .v_right {
-  transform: translateX(28px);
+  animation-name: reveal-right;
 }
 
-.visible {
-  opacity: 1;
-  transform: translate(0, 0);
+@keyframes reveal-up {
+  from { opacity: 0; transform: translateY(28px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes reveal-fade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes reveal-left {
+  from { opacity: 0; transform: translateX(-28px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes reveal-right {
+  from { opacity: 0; transform: translateX(28px); }
+  to   { opacity: 1; transform: translateX(0); }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .reveal {
-    opacity: 1 !important;
-    transform: none !important;
-    transition: none !important;
+    animation: none !important;
   }
 }
