@@ -1,0 +1,47 @@
+.section {
+  padding: 60px 24px 100px;
+  background: var(--qb-bg);
+}
+
+.grid {
+  max-width: 880px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  padding: 18px 22px;
+  border: 1px solid var(--qb-border);
+  border-radius: 12px;
+  background: var(--qb-bg);
+}
+
+.cardLabel {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--qb-text-soft);
+  margin-bottom: 6px;
+}
+
+.cardValue {
+  font-size: 0.98rem;
+  color: var(--qb-text);
+  line-height: 1.5;
+  text-decoration: none;
+  display: block;
+}
+
+a.cardValue:hover {
+  color: var(--qb-primary);
+  text-decoration: underline;
+}
