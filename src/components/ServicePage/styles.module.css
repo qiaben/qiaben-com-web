@@ -8,7 +8,7 @@
   padding: 80px 24px 60px;
   text-align: center;
   background:
-    radial-gradient(at 30% 20%, rgba(15, 169, 188, 0.08), transparent 55%),
+    radial-gradient(at 30% 20%, rgba(0, 135, 99, 0.08), transparent 55%),
     var(--qb-bg);
   border-bottom: 1px solid var(--qb-border);
 }

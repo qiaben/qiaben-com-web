@@ -120,7 +120,7 @@ const config: Config = {
       id: 'qb_topbar',
       content:
         '📞 <a href="tel:+18448742236" style="color:#ffffff;text-decoration:none">(844) 874-2236</a> &nbsp;·&nbsp; ✉️ <a href="mailto:info@qiaben.com" style="color:#ffffff;text-decoration:none">info@qiaben.com</a> &nbsp;·&nbsp; 🕐 Mon–Sat 8AM–5PM',
-      backgroundColor: '#0a1628',
+      backgroundColor: '#000000',
       textColor: '#ffffff',
       isCloseable: false,
     },

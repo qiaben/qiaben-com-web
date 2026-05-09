@@ -9,8 +9,8 @@
 .hero {
   padding: 60px 24px 64px;
   background:
-    radial-gradient(at 80% 30%, rgba(15, 169, 188, 0.10), transparent 55%),
-    radial-gradient(at 10% 90%, rgba(15, 169, 188, 0.06), transparent 50%),
+    radial-gradient(at 80% 30%, rgba(0, 135, 99, 0.10), transparent 55%),
+    radial-gradient(at 10% 90%, rgba(0, 135, 99, 0.06), transparent 50%),
     var(--qb-bg);
   border-bottom: 1px solid var(--qb-border);
 }
@@ -261,7 +261,7 @@
 .serviceCard:hover {
   border-color: var(--qb-primary);
   transform: translateY(-2px);
-  box-shadow: 0 12px 28px -16px rgba(15, 169, 188, 0.35);
+  box-shadow: 0 12px 28px -16px rgba(0, 135, 99, 0.35);
   text-decoration: none;
   color: var(--qb-text);
 }
@@ -511,7 +511,7 @@
 /* ---------- RESULTS ---------- */
 .results {
   padding: 80px 24px;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #0c98a9 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
   color: #ffffff;
 }
 

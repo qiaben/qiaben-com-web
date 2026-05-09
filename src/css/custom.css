@@ -1,14 +1,14 @@
 /* Qiaben Health — healthcare-professional theme matching qiaben.com palette. */
 
 :root {
-  /* Brand */
-  --ifm-color-primary: #0fa9bc;
-  --ifm-color-primary-dark: #0c98a9;
-  --ifm-color-primary-darker: #0a8d9d;
-  --ifm-color-primary-darkest: #087482;
-  --ifm-color-primary-light: #14b8cc;
-  --ifm-color-primary-lighter: #2bbfd1;
-  --ifm-color-primary-lightest: #5fcfde;
+  /* Brand — sampled from live qiaben.com (rgb(0,135,99) for CTAs, rgb(3,92,67) for darker accents) */
+  --ifm-color-primary: #008763;
+  --ifm-color-primary-dark: #006b4f;
+  --ifm-color-primary-darker: #035c43;
+  --ifm-color-primary-darkest: #024333;
+  --ifm-color-primary-light: #009b71;
+  --ifm-color-primary-lighter: #0bb380;
+  --ifm-color-primary-lightest: #2cc599;
 
   /* Type */
   --ifm-font-family-base:
@@ -45,19 +45,19 @@
   --ifm-global-radius: 8px;
   --ifm-button-border-radius: 8px;
 
-  /* Qiaben tokens */
-  --qb-primary: #0fa9bc;
-  --qb-primary-dark: #0c98a9;
-  --qb-dark: #0a1628;
-  --qb-dark-soft: #1e293b;
+  /* Qiaben tokens (brand emerald #008763) */
+  --qb-primary: #008763;
+  --qb-primary-dark: #035c43;
+  --qb-dark: #000000;
+  --qb-dark-soft: #1f2937;
   --qb-text: #0f172a;
   --qb-text-soft: #475569;
   --qb-bg: #ffffff;
   --qb-bg-soft: #f1f5f9;
-  --qb-bg-tint: #ecfeff;
+  --qb-bg-tint: #ecfdf5;
   --qb-border: #e2e8f0;
   --qb-warn: #f59e0b;
-  --qb-success: #10b981;
+  --qb-success: #008763;
 }
 
 html,
