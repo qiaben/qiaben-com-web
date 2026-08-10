@@ -1,0 +1,305 @@
+/* !important overrides guard against Infima's global .navbar rule
+   (display:flex; height:72px; padding:...) — this element also carries
+   the "navbar" class so Docusaurus's useTOCHighlight can find it via
+   document.querySelector('.navbar').clientHeight, but must keep our own layout. */
+.header {
+  display: block !important;
+  height: auto !important;
+  padding: 0 !important;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: #ffffff;
+  border-bottom: 1px solid var(--qb-border);
+  box-shadow: none;
+}
+
+.mainRow {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: stretch;
+  box-sizing: border-box;
+}
+
+/* ---------- LOGO ---------- */
+.logoCol {
+  display: flex;
+  align-items: center;
+  padding: 16px 32px;
+  min-width: 0;
+}
+
+.logo {
+  height: 74px;
+  width: auto;
+  max-width: 100%;
+}
+
+/* ---------- MIDDLE (utility row + nav row, stacked) ---------- */
+.middleCol {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+  padding: 18px 16px;
+}
+
+.topRow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 32px;
+  row-gap: 8px;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+  min-width: 0;
+}
+
+.utilityItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--qb-text-soft);
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: color 0.15s ease;
+}
+
+.utilityItem:hover {
+  color: var(--qb-primary);
+  text-decoration: none;
+}
+
+.utilityItem svg {
+  color: var(--qb-primary);
+  flex-shrink: 0;
+}
+
+.navCol {
+  display: flex;
+  align-items: center;
+  gap: 34px;
+  row-gap: 8px;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.navLink {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: none;
+  padding: 4px 0;
+  font-size: 1.02rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--qb-text);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.navLink::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4px;
+  height: 2px;
+  background: var(--qb-primary);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.22s ease;
+}
+
+.navLink:hover {
+  color: var(--qb-primary);
+  text-decoration: none;
+}
+
+.navLink:hover::after {
+  transform: scaleX(1);
+}
+
+.caret {
+  transition: transform 0.2s ease;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown:hover .caret {
+  transform: rotate(180deg);
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: calc(100% + 14px);
+  left: 0;
+  min-width: 300px;
+  background: #ffffff;
+  border: 1px solid var(--qb-border);
+  border-radius: 12px;
+  box-shadow: 0 24px 48px -20px rgba(15, 23, 42, 0.28);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-8px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  z-index: 10;
+}
+
+.dropdownMenuOpen {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdownLink {
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--qb-text);
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.dropdownLink:hover {
+  background: var(--qb-dark-soft);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ---------- CTA BUTTON ---------- */
+.ctaCol {
+  align-self: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 28px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background: var(--qb-primary);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.86rem;
+  text-decoration: none;
+  transition: background 0.2s ease;
+  white-space: nowrap;
+}
+
+.ctaCol:hover {
+  background: var(--qb-primary-dark);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ---------- MOBILE BURGER ---------- */
+.burger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+  margin: 0 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.burger span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--qb-text);
+  border-radius: 2px;
+}
+
+@media (max-width: 996px) {
+  .mainRow {
+    grid-template-columns: auto minmax(0, 1fr) auto auto;
+  }
+
+  .topRow {
+    display: none;
+  }
+
+  .middleCol {
+    padding: 0;
+  }
+
+  .navCol {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    background: #ffffff;
+    border-bottom: 1px solid var(--qb-border);
+    box-shadow: 0 20px 40px -24px rgba(15, 23, 42, 0.3);
+    padding: 8px 24px 16px;
+  }
+
+  .navColOpen {
+    display: flex;
+  }
+
+  .navLink {
+    width: 100%;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--qb-border);
+  }
+
+  .navLink::after {
+    display: none;
+  }
+
+  .dropdown {
+    width: 100%;
+  }
+
+  .dropdownMenu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding: 0 0 0 14px;
+    transform: none;
+    display: none;
+  }
+
+  .dropdown:hover .dropdownMenu,
+  .dropdownMenuOpen {
+    display: flex;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .burger {
+    display: flex;
+  }
+
+  .logo {
+    height: 52px;
+  }
+
+  .ctaCol {
+    margin-right: 12px;
+    padding: 10px 16px;
+    font-size: 0.86rem;
+  }
+}

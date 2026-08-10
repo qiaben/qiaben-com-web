@@ -1,7 +1,6 @@
 import type { ReactNode } from 'react';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
-
-const CALENDLY = 'https://calendly.com/qiaben/15-minutes-meeting';
 
 export type MarketingHeroProps = {
   eyebrow: string;
@@ -24,12 +23,12 @@ export default function MarketingHero({
       {subtitle ? <p className={styles.subtitle}>{subtitle}</p> : null}
       {!noCta && (
         <div className={styles.ctaRow}>
-          <a className={styles.ctaPrimary} href={CALENDLY} target="_blank" rel="noopener noreferrer">
+          <Link className={styles.ctaPrimary} to="/book-an-appointment">
             Free consultation
-          </a>
-          <a className={styles.ctaSecondary} href="/contact">
+          </Link>
+          <Link className={styles.ctaSecondary} to="/contact">
             Contact us
-          </a>
+          </Link>
         </div>
       )}
     </section>

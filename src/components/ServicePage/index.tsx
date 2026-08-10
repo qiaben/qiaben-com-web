@@ -1,8 +1,7 @@
 import type { ReactNode } from 'react';
 import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
-
-const CALENDLY = 'https://calendly.com/qiaben/15-minutes-meeting';
 
 export type Feature = {
   icon?: string;
@@ -66,12 +65,12 @@ export default function ServicePage(props: ServicePageProps): ReactNode {
           <h1 className={styles.title}>{title}</h1>
           <p className={styles.subtitle}>{subtitle}</p>
           <div className={styles.ctaRow}>
-            <a className={styles.ctaPrimary} href={CALENDLY} target="_blank" rel="noopener noreferrer">
+            <Link className={styles.ctaPrimary} to="/book-an-appointment">
               Free consultation
-            </a>
-            <a className={styles.ctaSecondary} href="/contact">
+            </Link>
+            <Link className={styles.ctaSecondary} to="/contact">
               Contact us
-            </a>
+            </Link>
           </div>
         </section>
 
@@ -106,12 +105,12 @@ export default function ServicePage(props: ServicePageProps): ReactNode {
           <h2 className={styles.ctaBandTitle}>{ctaTitle}</h2>
           <p className={styles.ctaBandDesc}>{ctaDesc}</p>
           <div className={`${styles.ctaRow} ${styles.ctaBandRow}`}>
-            <a className={styles.ctaPrimary} href={CALENDLY} target="_blank" rel="noopener noreferrer">
+            <Link className={styles.ctaPrimary} to="/book-an-appointment">
               Free consultation
-            </a>
-            <a className={styles.ctaSecondary} href="/contact">
+            </Link>
+            <Link className={styles.ctaSecondary} to="/contact">
               Contact us
-            </a>
+            </Link>
           </div>
         </section>
       </div>

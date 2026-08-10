@@ -1,0 +1,119 @@
+.root {
+  position: relative;
+  width: 100%;
+}
+
+/* ---------- COLLAPSED (trigger + phone input, one bordered row) ---------- */
+.collapsedRow {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--qb-border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.trigger {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  align-self: stretch;
+  padding: 12px 10px;
+  background: var(--qb-bg-soft);
+  border: none;
+  border-right: 1px solid var(--qb-border);
+  cursor: pointer;
+  font-size: 0.92rem;
+  color: var(--qb-text);
+  flex-shrink: 0;
+}
+
+.dial {
+  font-weight: 600;
+}
+
+.flagImg {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  border-radius: 2px;
+  flex-shrink: 0;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
+}
+
+.collapsedRow :global(input) {
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+/* ---------- OPEN (full-width search + list, replaces the row) ---------- */
+.searchPanel {
+  border: 1px solid var(--qb-primary);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px var(--qb-bg-tint);
+  overflow: hidden;
+}
+
+.searchRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+}
+
+.searchRow input {
+  flex: 1;
+  border: none !important;
+  outline: none;
+  font-size: 0.92rem;
+  color: var(--qb-text);
+  background: transparent;
+  padding: 0 !important;
+}
+
+.searchRow svg {
+  color: var(--qb-text-soft);
+  flex-shrink: 0;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 6px;
+  max-height: 280px;
+  overflow-y: auto;
+  border-top: 1px solid var(--qb-border);
+}
+
+.option {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border: none;
+  background: none;
+  border-radius: 6px;
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--qb-text);
+  cursor: pointer;
+}
+
+.option:hover {
+  background: var(--qb-bg-soft);
+}
+
+.optionDial {
+  margin-left: auto;
+  color: var(--qb-text-soft);
+  font-size: 0.82rem;
+}
+
+.empty {
+  padding: 14px;
+  font-size: 0.86rem;
+  color: var(--qb-text-soft);
+  text-align: center;
+}

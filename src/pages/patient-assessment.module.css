@@ -1,0 +1,296 @@
+.page {
+  background: var(--qb-bg);
+  color: var(--qb-text);
+}
+
+.eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--qb-primary-dark);
+  margin: 0 0 10px;
+}
+
+.sectionInner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.sectionInnerNarrow {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: clamp(1.7rem, 3vw, 2.3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+  margin: 0 0 14px;
+}
+
+/* ---------- TITLE BAR ---------- */
+.titleBar {
+  padding: 56px 24px;
+  background: var(--qb-bg-soft);
+  border-bottom: 1px solid var(--qb-border);
+}
+
+.titleBar h1 {
+  max-width: 1120px;
+  margin: 0 auto;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+}
+
+/* ---------- INTRO ---------- */
+.intro {
+  padding: 64px 24px;
+  background: var(--qb-bg);
+}
+
+.introInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 48px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .introInner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.introLead {
+  font-size: 1.02rem;
+  color: var(--qb-text-soft);
+  line-height: 1.7;
+  margin: 0 0 28px;
+}
+
+.introImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  display: block;
+  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.3);
+}
+
+/* ---------- WHY CHOOSE US ---------- */
+.whySection {
+  position: relative;
+  padding: 72px 24px;
+  background: #f4f4f4;
+  overflow: hidden;
+}
+
+.whyBg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(1) brightness(2.1) contrast(0.85);
+  opacity: 0.4;
+  z-index: 0;
+}
+
+.whySection::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.55);
+  z-index: 1;
+}
+
+.whyGlowLeft,
+.whyGlowRight {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0) 70%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.whyGlowLeft {
+  top: -80px;
+  left: 6%;
+}
+
+.whyGlowRight {
+  bottom: -140px;
+  right: 8%;
+}
+
+.whySection .sectionInner {
+  position: relative;
+  z-index: 2;
+}
+
+.whyTitle {
+  font-size: clamp(1.5rem, 2.6vw, 2rem);
+  font-weight: 800;
+  color: #0a0f1a;
+  text-align: center;
+  margin: 0 0 48px;
+}
+
+.whyGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+@media (max-width: 800px) {
+  .whyGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.whyCard {
+  position: relative;
+  background: #ffffff;
+  border-radius: 4px;
+  padding: 40px 32px;
+  box-shadow: 0 20px 45px -28px rgba(15, 23, 42, 0.45);
+}
+
+.whyCard h3 {
+  color: #0a0f1a;
+}
+
+.whyIcon {
+  color: var(--qb-primary-dark);
+  margin-bottom: 20px;
+}
+
+.whyTag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--qb-text-soft);
+  margin: 0 0 10px;
+}
+
+.whyCard h3 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--qb-text);
+  margin: 0 0 14px;
+}
+
+.whyDesc {
+  font-size: 0.94rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- FAQ ---------- */
+.faqSection {
+  padding: 72px 24px;
+  background: var(--qb-bg);
+}
+
+.faqSection .sectionTitle {
+  margin-bottom: 32px;
+}
+
+.faqList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.faqItem {
+  background: var(--qb-bg-soft);
+  border-radius: 10px;
+  padding: 18px 22px;
+}
+
+.faqQ {
+  font-weight: 700;
+  color: var(--qb-text);
+  margin: 0 0 10px;
+}
+
+.faqA {
+  color: var(--qb-text-soft);
+  font-size: 0.94rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* ---------- BLOGS & RESOURCES ---------- */
+.blogSection {
+  padding: 72px 24px;
+  background: var(--qb-bg-soft);
+}
+
+.blogGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+@media (max-width: 900px) {
+  .blogGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.blogCard {
+  display: block;
+  background: var(--qb-primary);
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: 0 20px 40px -28px rgba(0, 135, 99, 0.5);
+  transition: transform 0.2s ease;
+}
+
+.blogCard:hover {
+  transform: translateY(-4px);
+  text-decoration: none;
+}
+
+.blogCard img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  display: block;
+}
+
+.blogCardBody {
+  padding: 18px 20px 22px;
+}
+
+.blogCardBody h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 8px;
+  line-height: 1.35;
+}
+
+.blogCardBody p {
+  font-size: 0.86rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.5;
+  margin: 0 0 12px;
+}
+
+.blogCardBody span {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #ffffff;
+}
