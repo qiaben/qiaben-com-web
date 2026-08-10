@@ -1,0 +1,482 @@
+.page {
+  background: var(--qb-bg);
+  color: var(--qb-text);
+}
+
+/* ---------- INTRO + BOOKING ---------- */
+.intro {
+  padding: 72px 24px;
+  background: var(--qb-bg);
+}
+
+.introInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 48px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .introInner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.introTitle {
+  font-size: clamp(2rem, 3.6vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 20px;
+  color: var(--qb-text);
+}
+
+.introLead {
+  font-size: 1.05rem;
+  color: var(--qb-text-soft);
+  line-height: 1.65;
+  margin: 0 0 40px;
+}
+
+.sectionSubtitle {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin: 0 0 22px;
+  color: var(--qb-text);
+}
+
+.featureGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 700px) {
+  .featureGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.featureCard {
+  background: var(--qb-bg);
+  border: 1px solid var(--qb-border);
+  border-radius: 14px;
+  padding: 24px 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-3px);
+  border-color: var(--qb-primary);
+  box-shadow: 0 16px 32px -20px rgba(0, 135, 99, 0.4);
+}
+
+.featureIcon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: var(--qb-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  margin-bottom: 14px;
+}
+
+.featureCard h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 8px;
+  color: var(--qb-text);
+}
+
+.featureCard p {
+  font-size: 0.9rem;
+  color: var(--qb-text-soft);
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* ---------- HOW IT WORKS ---------- */
+.howItWorks {
+  position: relative;
+  padding: 80px 24px;
+  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  isolation: isolate;
+  overflow: hidden;
+}
+
+.howItWorks::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.14) 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+  z-index: 0;
+}
+
+.howItWorksInner {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.eyebrow {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #f5c518;
+  margin: 0 0 12px;
+}
+
+.howItWorksTitle {
+  font-size: clamp(1.8rem, 3vw, 2.3rem);
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 32px;
+}
+
+.howItWorksList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.howItWorksList li {
+  font-size: 1.02rem;
+  color: rgba(255, 255, 255, 0.92);
+  line-height: 1.55;
+  padding-left: 26px;
+  position: relative;
+}
+
+.howItWorksList li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #f5c518;
+}
+
+.howItWorksList strong {
+  color: #ffffff;
+}
+
+/* ---------- WHO CAN BENEFIT ---------- */
+.benefit {
+  padding: 80px 24px 0;
+  background: var(--qb-bg);
+}
+
+.benefitInner {
+  max-width: 1120px;
+  margin: 0 auto 56px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 40px;
+  align-items: center;
+}
+
+@media (max-width: 700px) {
+  .benefitInner {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+}
+
+.benefitList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.benefitList li {
+  font-weight: 700;
+  font-size: 1.02rem;
+  color: var(--qb-text);
+  padding-left: 24px;
+  position: relative;
+}
+
+.benefitList li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--qb-primary);
+}
+
+.benefitTitle {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 800;
+  margin: 0;
+  color: var(--qb-text);
+  white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+  .benefitTitle {
+    white-space: normal;
+  }
+}
+
+.whyInner {
+  max-width: 1120px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+
+.eyebrowDark {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #f0b400;
+  margin: 0 0 16px;
+}
+
+.whyLead {
+  max-width: 70ch;
+  margin: 0 auto;
+  font-size: 1.02rem;
+  color: var(--qb-text-soft);
+  line-height: 1.65;
+}
+
+.whyLead strong {
+  color: var(--qb-text);
+}
+
+/* ---------- PRICING ---------- */
+.pricingGrid {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  align-items: stretch;
+}
+
+@media (max-width: 900px) {
+  .pricingGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .pricingGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.planCard {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--qb-bg-soft);
+  border: 1px solid var(--qb-border);
+  border-radius: 16px;
+  padding: 28px 24px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.planCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -24px rgba(15, 23, 42, 0.3);
+}
+
+.planCardPopular {
+  background: linear-gradient(160deg, var(--qb-primary) 0%, #035c43 100%);
+  border-color: transparent;
+  color: #ffffff;
+  transform: scale(1.03);
+}
+
+.planCardPopular:hover {
+  transform: scale(1.03) translateY(-4px);
+}
+
+.planBadge {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #f5c518;
+  color: #1f2937;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 6px 14px;
+  border-radius: 999px;
+}
+
+.planName {
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin: 8px 0 6px;
+}
+
+.planCardPopular .planName {
+  color: #ffffff;
+}
+
+.planRange {
+  font-size: 0.86rem;
+  color: var(--qb-text-soft);
+  margin: 0 0 18px;
+}
+
+.planCardPopular .planRange {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.planRate {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--qb-primary);
+  margin: 0 0 20px;
+}
+
+.planCardPopular .planRate {
+  color: #f5c518;
+}
+
+.planRate span {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--qb-text-soft);
+  margin-left: 4px;
+}
+
+.planCardPopular .planRate span {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.planFeatures {
+  list-style: none;
+  margin: 0 0 24px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+.planFeatures li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.88rem;
+  color: var(--qb-text-soft);
+}
+
+.planFeatures li svg {
+  color: var(--qb-primary);
+  flex-shrink: 0;
+}
+
+.planCardPopular .planFeatures li {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.planCardPopular .planFeatures li svg {
+  color: #f5c518;
+}
+
+.planCta {
+  display: block;
+  text-align: center;
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--qb-primary);
+  color: var(--qb-primary);
+  font-weight: 700;
+  font-size: 0.92rem;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.planCta:hover {
+  background: var(--qb-primary);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.planCardPopular .planCta {
+  background: #f5c518;
+  border-color: #f5c518;
+  color: #1f2937;
+}
+
+.planCardPopular .planCta:hover {
+  background: #e0b100;
+  color: #1f2937;
+}
+
+/* ---------- CLOSING ---------- */
+.closing {
+  padding: 80px 24px;
+  background: var(--qb-bg-soft);
+}
+
+.closingInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 48px;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  .closingInner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.closingImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  display: block;
+  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.35);
+}
+
+.closingTitle {
+  font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 0 0 32px;
+  color: var(--qb-text);
+}
+
+/* ---------- BRAND BAND ---------- */
+.brandBand {
+  padding: 40px 24px;
+  text-align: center;
+  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+}
+
+.brandBandLogo {
+  height: 56px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}

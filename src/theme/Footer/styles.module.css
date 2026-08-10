@@ -1,0 +1,154 @@
+.footer {
+  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  color: rgba(255, 255, 255, 0.92);
+  padding: 56px 24px 20px;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.brand {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.logo {
+  height: 44px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr 1.2fr;
+  gap: 32px;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.title {
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 16px;
+}
+
+.address,
+.hours,
+.contactLine {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin: 0 0 6px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.contactLine a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+}
+
+.contactLine a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.socials {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.socials a {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.14);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease;
+}
+
+.socials a:hover {
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list li {
+  margin-bottom: 10px;
+}
+
+.list a {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+}
+
+.list a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.newsletterDesc {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 0 0 16px;
+}
+
+.newsletterForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.newsletterForm input {
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: none;
+  font-size: 0.92rem;
+  color: var(--qb-text);
+}
+
+.newsletterForm button {
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: none;
+  background: #f5c518;
+  color: #1f2937;
+  font-weight: 700;
+  font-size: 0.94rem;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.newsletterForm button:hover {
+  background: #e0b100;
+}
+
+.bottom {
+  margin-top: 44px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: center;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.75);
+}

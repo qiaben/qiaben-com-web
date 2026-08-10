@@ -1,7 +1,6 @@
 import type { ReactNode } from 'react';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
-
-const CALENDLY = 'https://calendly.com/qiaben/15-minutes-meeting';
 
 export type MarketingCTAProps = {
   title?: string;
@@ -17,12 +16,12 @@ export default function MarketingCTA({
       <h2 className={styles.title}>{title}</h2>
       <p className={styles.desc}>{desc}</p>
       <div className={styles.row}>
-        <a className={styles.ctaPrimary} href={CALENDLY} target="_blank" rel="noopener noreferrer">
+        <Link className={styles.ctaPrimary} to="/book-an-appointment">
           Free consultation
-        </a>
-        <a className={styles.ctaSecondary} href="/contact">
+        </Link>
+        <Link className={styles.ctaSecondary} to="/contact">
           Contact us
-        </a>
+        </Link>
       </div>
     </section>
   );

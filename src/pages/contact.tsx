@@ -1,9 +1,8 @@
 import type { ReactNode } from 'react';
 import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
 import componentStyles from '@site/src/components/ServicePage/styles.module.css';
 import styles from './contact.module.css';
-
-const CALENDLY = 'https://calendly.com/qiaben/15-minutes-meeting';
 
 export default function Contact(): ReactNode {
   return (
@@ -19,9 +18,9 @@ export default function Contact(): ReactNode {
             you, or reach us by email or phone.
           </p>
           <div className={componentStyles.ctaRow}>
-            <a className={componentStyles.ctaPrimary} href={CALENDLY} target="_blank" rel="noopener noreferrer">
+            <Link className={componentStyles.ctaPrimary} to="/book-an-appointment">
               Book a free consultation
-            </a>
+            </Link>
           </div>
         </section>
 

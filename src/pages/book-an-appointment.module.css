@@ -1,0 +1,25 @@
+.page {
+  background: var(--qb-bg);
+}
+
+.titleBar {
+  padding: 56px 24px 40px;
+  background: var(--qb-bg-soft);
+  border-bottom: 1px solid var(--qb-border);
+  text-align: center;
+}
+
+.titleBar h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  color: var(--qb-text);
+  margin: 0;
+}
+
+.widgetSection {
+  max-width: 900px;
+  margin: 48px auto 80px;
+  padding: 0 24px;
+}
