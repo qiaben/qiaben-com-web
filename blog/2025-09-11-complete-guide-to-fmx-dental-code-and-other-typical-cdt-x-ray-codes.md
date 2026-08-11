@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/1.jpg
 slug: complete-guide-to-fmx-dental-code-and-other-typical-cdt-x-ray-codes
 title: "Complete Guide to FMX Dental Code and Other Typical CDT X-Ray"
 date: 2025-09-11

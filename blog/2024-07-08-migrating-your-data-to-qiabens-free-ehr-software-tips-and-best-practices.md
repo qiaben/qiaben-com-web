@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/financial-advisor-couple-wearing-face-masks-while-talking-office-1024x683.jpg
 slug: migrating-your-data-to-qiabens-free-ehr-software-tips-and-best-practices
 title: "Migrating Your Data to Qiaben’s Free EHR Software: Tips and Best Practices"
 date: 2024-07-08

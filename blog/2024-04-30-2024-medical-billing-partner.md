@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__77137-1024x585.png
 slug: 2024-medical-billing-partner
 title: "Find the Best Medical Billing Partner in 2024"
 date: 2024-04-30

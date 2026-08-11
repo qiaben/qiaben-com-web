@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/Screenshot-11-1024x517.png
 slug: understanding-dental-billing-and-claims-management
 title: "Understanding Dental Billing and Claims Management"
 date: 2025-12-07

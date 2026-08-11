@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/StockCake-Corporate-Team-Meeting_1742290238-1024x574.jpg
 slug: medical-billing-business-how-to-get-started-the-right-way
 title: "Medical Billing Business: How to Get Started the Right Way"
 date: 2025-03-18

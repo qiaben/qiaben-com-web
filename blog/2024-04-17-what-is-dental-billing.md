@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: what-is-dental-billing
 title: "Dental Billing: A Complete Guide for Dental Practices"
 date: 2024-04-17

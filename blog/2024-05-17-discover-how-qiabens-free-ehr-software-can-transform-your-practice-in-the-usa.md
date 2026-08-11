@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/front-view-working-covid-concept-1024x1024.jpg
 slug: discover-how-qiabens-free-ehr-software-can-transform-your-practice-in-the-usa
 title: "Transform Your Practice with Qiaben Free EHR in USA"
 date: 2024-05-17

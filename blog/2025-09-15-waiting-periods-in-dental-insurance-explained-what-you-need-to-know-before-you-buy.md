@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Untitled-design-1-1024x576.jpg
 slug: waiting-periods-in-dental-insurance-explained-what-you-need-to-know-before-you-buy
 title: "Waiting Periods in Dental Insurance : What You Need to Know Before You Buy"
 date: 2025-09-15

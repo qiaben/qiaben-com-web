@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/03/WhatsApp-Image-2026-03-17-at-9.42.50-AM-1024x683.jpeg
 slug: quality-healthcare-services-with-advanced-technology
 title: "Quality Healthcare Services with Advanced Technology:"
 date: 2026-03-17

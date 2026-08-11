@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/Periodontic-billing-3-768x432.png
 slug: mastering-periodontic-billing-key-insights-on-d4000-d4999-codes
 title: "Periodontic Billing Made Easy: Understanding D4000–D4999 Codes"
 date: 2025-01-18

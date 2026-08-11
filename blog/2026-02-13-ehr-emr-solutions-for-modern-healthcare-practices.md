@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg
 slug: ehr-emr-solutions-for-modern-healthcare-practices
 title: "EHR &amp; EMR Solutions for Modern Healthcare Practices"
 date: 2026-02-13

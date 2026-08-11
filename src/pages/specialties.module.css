@@ -1,0 +1,208 @@
+.page {
+  background: var(--qb-bg);
+  color: var(--qb-text);
+}
+
+.sectionInner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+  margin: 0 0 14px;
+}
+
+.sectionLead {
+  font-size: 1rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  max-width: 760px;
+}
+
+/* ---------- HERO ---------- */
+.hero {
+  position: relative;
+  padding: 96px 24px;
+  overflow: hidden;
+}
+
+.heroBg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(0, 135, 99, 0.82), rgba(3, 92, 67, 0.9));
+}
+
+.heroInner {
+  position: relative;
+  max-width: 980px;
+  margin: 0 auto;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 14px;
+  color: #ffffff;
+}
+
+.heroSubtitle {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0 0 40px;
+}
+
+.heroHeadline {
+  font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+  font-weight: 800;
+  margin: 0 0 24px;
+  color: #ffffff;
+}
+
+.heroLead {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.92);
+  margin: 0 0 16px;
+}
+
+/* ---------- SECTION ---------- */
+.section {
+  padding: 72px 24px;
+}
+
+/* ---------- SPECIALTY GRID ---------- */
+.specialtyGrid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 1100px) {
+  .specialtyGrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .specialtyGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.specialtyCard {
+  display: block;
+  background: var(--qb-bg-tint);
+  border-radius: 14px;
+  padding: 24px 16px;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+a.specialtyCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 32px -22px rgba(0, 135, 99, 0.45);
+  text-decoration: none;
+}
+
+.specialtyIcon {
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.specialtyCard h3 {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--qb-text);
+  margin: 0;
+  line-height: 1.35;
+}
+
+/* ---------- DENTAL BANNER ---------- */
+.dentalBanner {
+  margin-top: 32px;
+  background: var(--qb-bg-tint);
+  border-radius: 14px;
+  padding: 24px 28px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  justify-content: center;
+  text-align: center;
+}
+
+.dentalBanner span {
+  font-size: 1.4rem;
+}
+
+.dentalBanner p {
+  margin: 0;
+  color: var(--qb-primary-dark);
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+/* ---------- WHY DENTAL PRACTICES ---------- */
+.whySection {
+  padding: 72px 24px;
+  background: var(--qb-bg-soft);
+}
+
+.whyGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 40px;
+}
+
+@media (max-width: 900px) {
+  .whyGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.whyCard {
+  background: var(--qb-bg);
+  border-radius: 16px;
+  padding: 28px 24px;
+  box-shadow: 0 20px 45px -32px rgba(15, 23, 42, 0.3);
+}
+
+.whyIcon {
+  display: inline-block;
+  font-size: 1.6rem;
+  background: var(--qb-bg-tint);
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 16px;
+}
+
+.whyCard h3 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--qb-text);
+  margin: 0 0 10px;
+}
+
+.whyCard p {
+  font-size: 0.9rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  margin: 0;
+}

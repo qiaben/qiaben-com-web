@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/woundcare-image.webp
 slug: top-wound-care-billing-metrics-every-physician-should-know
 title: "Top Wound Care Billing Metrics Every Physician Should Know"
 date: 2025-01-24

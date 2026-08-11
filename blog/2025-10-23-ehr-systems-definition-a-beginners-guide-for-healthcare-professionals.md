@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/09/ChatGPTImageSep29202502_17_54P-1024x683.jpeg
 slug: ehr-systems-definition-a-beginners-guide-for-healthcare-professionals
 title: "EHR Healthcare Systems : A Beginner's Guide for Professionals"
 date: 2025-10-23

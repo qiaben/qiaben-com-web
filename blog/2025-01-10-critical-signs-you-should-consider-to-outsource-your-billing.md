@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/qtq80-7mLcnz-1024x684.jpeg
 slug: critical-signs-you-should-consider-to-outsource-your-billing
 title: "Critical Signs You Should Consider to Outsource Your Billing"
 date: 2025-01-10

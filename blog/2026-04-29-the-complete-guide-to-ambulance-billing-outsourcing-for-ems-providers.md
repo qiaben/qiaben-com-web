@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-15-1024x553.png
 slug: the-complete-guide-to-ambulance-billing-outsourcing-for-ems-providers
 title: "The Complete Guide to Ambulance Billing Outsourcing for EMS Providers"
 date: 2026-04-29

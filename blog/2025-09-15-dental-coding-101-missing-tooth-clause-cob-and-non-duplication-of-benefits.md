@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-15-1024x553.png
 slug: dental-coding-101-missing-tooth-clause-cob-and-non-duplication-of-benefits
 title: "Dental Coding 101: Missing Tooth Clause, COB, and Non-Duplication of Benefits"
 date: 2025-09-15

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/09/AI-integration-1-edited.jpg
 slug: ai-integration-on-medical-and-dental-billing
 title: "AI integration on Medical and Dental Billing"
 date: 2024-10-03

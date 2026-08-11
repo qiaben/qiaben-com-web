@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: do-icd-10-codes-for-dental-billing-been-updated-in-2024
 title: "Do ICD-10 Codes for Dental Billing Been Updated in 2024?"
 date: 2024-05-15

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-1024x1024.png
 slug: the-future-of-healthcare-billing-trends-to-watch
 title: "Emerging Trends in the Future of Healthcare Billing"
 date: 2024-08-16

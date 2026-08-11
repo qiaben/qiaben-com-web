@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/analyzing-business-chart-1024x683.jpg
 slug: ensuring-accuracy-in-medical-billing-processes
 title: "Ensuring Accuracy in Medical Billing Processes"
 date: 2024-05-28

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/HIPAA-Proof-Your-Practice-Privacy-Security-Compliance-Simplified-2-768x432.png
 slug: hipaa-proof-your-practice-privacy-security-compliance-simplified
 title: "HIPAA-Proof Your Practice: Privacy, Security & Compliance Simplified"
 date: 2025-03-27

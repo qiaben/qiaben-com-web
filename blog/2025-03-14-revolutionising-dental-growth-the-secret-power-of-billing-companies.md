@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/revolutionising-dental-1-768x432.png
 slug: revolutionising-dental-growth-the-secret-power-of-billing-companies
 title: "Revolutionising Dental Growth: The Secret Power of Billing Companies"
 date: 2025-03-14

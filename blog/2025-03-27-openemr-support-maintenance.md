@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__57437-300x300.jpeg
 slug: openemr-support-maintenance
 title: "OpenEMR Maintenance: Secure, Compliant, Reliable"
 date: 2025-03-27

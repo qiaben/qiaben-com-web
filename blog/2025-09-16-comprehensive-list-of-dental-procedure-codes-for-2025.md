@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: comprehensive-list-of-dental-procedure-codes-for-2025
 title: "Comprehensive List of Dental Procedure Codes for 2025"
 date: 2025-09-16

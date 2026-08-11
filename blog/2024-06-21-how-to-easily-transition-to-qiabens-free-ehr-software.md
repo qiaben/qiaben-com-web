@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/front-view-working-covid-concept-1024x1024.jpg
 slug: how-to-easily-transition-to-qiabens-free-ehr-software
 title: "How to Easily Transition to Qiaben’s Free EHR Software"
 date: 2024-06-21

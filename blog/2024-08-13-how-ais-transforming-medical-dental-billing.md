@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: how-ais-transforming-medical-dental-billing
 title: "How AI's Transforming Medical &amp; Dental Billing"
 date: 2024-08-13

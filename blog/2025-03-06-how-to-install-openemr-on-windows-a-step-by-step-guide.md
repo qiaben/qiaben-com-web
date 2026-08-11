@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/OpenEMR-installation-1024x674-2-768x506.png
 slug: how-to-install-openemr-on-windows-a-step-by-step-guide
 title: "How to Install OpenEMR on Windows: A Step-by-Step Guide"
 date: 2025-03-06

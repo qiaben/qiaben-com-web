@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/dental-image-3.jpg
 slug: revolution-of-dental-billing-top-trends-for-modern-practices
 title: "Revolution of Dental Billing: Top Trends for Modern Practices\""
 date: 2024-10-25

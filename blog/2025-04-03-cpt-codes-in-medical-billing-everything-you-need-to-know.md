@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/CPT-1-1024x576.jpg
 slug: cpt-codes-in-medical-billing-everything-you-need-to-know
 title: "CPT Codes in Medical Billing: Everything You Need to Know"
 date: 2025-04-03

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/0a727ee0-fd48-4a39-8969-928a3a8563b8.webp
 slug: how-ehr-software-is-revolutionizing-medical-practice-the-ultimate-guide-to-electronic-health-records
 title: "How EHR Software Is Revolutionizing Medical Practice?"
 date: 2025-10-23

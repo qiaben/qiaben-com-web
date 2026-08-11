@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/The-Role-of-Medical-Billing-in-Improving-Patient-Care-1024x512.jpg
 slug: the-role-of-medical-billing-in-improving-patient-care
 title: "The Role of Medical Billing in Improving Patient Care"
 date: 2024-08-30

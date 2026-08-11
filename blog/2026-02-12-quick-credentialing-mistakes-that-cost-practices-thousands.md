@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-19-2026-11_18_34-PM.png
 slug: quick-credentialing-mistakes-that-cost-practices-thousands
 title: "Quick Credentialing Mistakes That Cost Practices Thousands"
 date: 2026-02-12

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/Gemini_Generated_Image_dl87m0dl87m0dl87.png
 slug: how-intelligent-billing-analytics-identify-patterns-that-leak-revenue
 title: "How Intelligent Billing Analytics Identify Patterns That Leak Revenue"
 date: 2026-02-25

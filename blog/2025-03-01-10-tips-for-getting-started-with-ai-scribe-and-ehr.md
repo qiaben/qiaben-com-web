@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/Sunoh-ai.webp
 slug: 10-tips-for-getting-started-with-ai-scribe-and-ehr
 title: "10 Tips for Getting Started with AI Scribe and EHR"
 date: 2025-03-01

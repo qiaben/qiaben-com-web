@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/01/Gemini_Generated_Image_8qjdil8qjdil8qjd.png
 slug: hidden-benefits-of-outsourcing-in-dental-billing-a-human-guide-for-practices-and-patients
 title: "Hidden Benefits of Outsourcing in Dental Billing  A Human Guide for Practices and Patients"
 date: 2026-01-06

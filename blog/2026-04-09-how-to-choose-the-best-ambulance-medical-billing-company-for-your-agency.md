@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-12-1024x553.png
 slug: how-to-choose-the-best-ambulance-medical-billing-company-for-your-agency
 title: "How to Choose the Best Ambulance Medical Billing Company for Your Agency"
 date: 2026-04-09

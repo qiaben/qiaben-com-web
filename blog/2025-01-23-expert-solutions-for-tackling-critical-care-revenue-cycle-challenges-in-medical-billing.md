@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/criticaalcarebill.jpg
 slug: expert-solutions-for-tackling-critical-care-revenue-cycle-challenges-in-medical-billing
 title: "Expert Billing challenge Solutions for Critical Care in Medical Bill"
 date: 2025-01-23

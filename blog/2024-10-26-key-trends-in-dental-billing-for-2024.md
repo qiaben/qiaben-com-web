@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/dental-image-3.jpg
 slug: key-trends-in-dental-billing-for-2024
 title: "Key Trends in Dental Billing for 2024:"
 date: 2024-10-26

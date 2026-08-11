@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/dental-image-3.jpg
 slug: understanding-dental-billing-trends-in-dental-practices-insights-from-the-usa-in-2024
 title: "Understanding Dental Billing Trends in Dental Practices: Insights from the USA in 2024"
 date: 2024-06-04

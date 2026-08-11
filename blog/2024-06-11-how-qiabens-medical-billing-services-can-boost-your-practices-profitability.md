@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png
 slug: how-qiabens-medical-billing-services-can-boost-your-practices-profitability
 title: "How Qiaben's Medical Billing Services Can Boost Your Practice's Profitability"
 date: 2024-06-11

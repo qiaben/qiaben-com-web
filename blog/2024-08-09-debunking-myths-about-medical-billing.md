@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/Untitled-design-24-1024x737.png
 slug: debunking-myths-about-medical-billing
 title: "Debunking Myths About Medical Billing"
 date: 2024-08-09

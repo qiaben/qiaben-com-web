@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/front-view-working-covid-concept-1024x1024.jpg
 slug: how-does-effective-revenue-cycle-management-impact-cash-flow
 title: "Common Challenges with Free EHR Software and How Qiaben Health Solves Them."
 date: 2024-07-01

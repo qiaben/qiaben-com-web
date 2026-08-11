@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/young-female-patient-with-open-mouth-examining-dental-inspection-dentist-office-1024x683.jpg
 slug: best-practices-for-dental-insurance-verification-in-2025
 title: "Dental Insurance Verification Made Easy: A Step-by-Step Guide"
 date: 2025-03-17

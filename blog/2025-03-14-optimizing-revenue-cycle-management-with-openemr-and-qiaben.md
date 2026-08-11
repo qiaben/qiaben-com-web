@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14941-768x439.jpeg
 slug: optimizing-revenue-cycle-management-with-openemr-and-qiaben
 title: "Optimizing Revenue Cycle Management with OpenEMR and Qiaben"
 date: 2025-03-14

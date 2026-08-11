@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/dental-insurance-form-toothache-oral-mouth-teeth-concept-768x699.jpg
 slug: outsource-dental-billing-save-time-and-increase-reimbursements
 title: "Outsource Dental Billing: Save Time and Increase Reimbursements"
 date: 2025-09-22

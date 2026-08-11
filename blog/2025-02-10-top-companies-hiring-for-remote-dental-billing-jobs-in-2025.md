@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/hiring-db-jobs-300x169.png
 slug: top-companies-hiring-for-remote-dental-billing-jobs-in-2025
 title: "Best Remote Dental Billing Companies Offering Career Growth in 2025"
 date: 2025-02-10

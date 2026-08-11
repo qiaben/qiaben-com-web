@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/Small-business-marketing-ideas-1-768x768.jpg
 slug: win-at-medical-billing-optimize-drg-payments-for-growth
 title: "Win at Medical Billing: Optimize DRG Payments for Growth"
 date: 2025-03-28

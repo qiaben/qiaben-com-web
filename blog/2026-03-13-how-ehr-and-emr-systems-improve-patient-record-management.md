@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/03/Gemini_Generated_Image_msyadvmsyadvmsya-1-1024x559.png
 slug: how-ehr-and-emr-systems-improve-patient-record-management
 title: "How EHR and EMR Systems Improve Patient Record Management"
 date: 2026-03-13

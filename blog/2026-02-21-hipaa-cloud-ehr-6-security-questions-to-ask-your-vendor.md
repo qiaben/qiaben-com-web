@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-21-2026-09_25_47-PM.png
 slug: hipaa-cloud-ehr-6-security-questions-to-ask-your-vendor
 title: "HIPAA & Cloud EHR: 6 Security Questions to Ask Your Vendor"
 date: 2026-02-21

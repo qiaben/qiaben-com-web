@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg
 slug: understanding-diagnostic-codes-d0100-d0999-and-their-role-in-healthcare
 title: "Understanding Diagnostic Codes (D0100-D0999) and Their Role in Healthcare:"
 date: 2024-12-17

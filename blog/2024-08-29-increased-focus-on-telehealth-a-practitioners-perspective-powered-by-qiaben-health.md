@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-1024x1024.png
 slug: increased-focus-on-telehealth-a-practitioners-perspective-powered-by-qiaben-health
 title: "Remote Healthcare Revolution: Practitioner Insights | Qiaben Health"
 date: 2024-08-29

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/Screenshot-11-1024x517.png
 slug: top-dental-billing-companies-ultimate
 title: "Top Dental Billing &amp; Insurance Claims Providers (2025)"
 date: 2025-02-27

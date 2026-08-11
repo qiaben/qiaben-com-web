@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png
 slug: top-dental-accounting-services-for-stress-free-practice-management
 title: "Top Dental Accounting Services for Stress-Free Practice Management"
 date: 2025-09-20

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__34584-300x300.jpeg
 slug: transform-your-medical-practice-with-qiabens-openemr-billing-expertise
 title: "Transform Your Medical Practice with Qiaben’s OpenEMR Billing Expertise"
 date: 2025-03-14

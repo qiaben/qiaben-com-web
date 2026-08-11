@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/download-1-1024x585.webp
 slug: faqs-about-qiabens-free-ehr-software-what-us-healthcare-providers-need-to-know
 title: "FAQs About Qiaben’s Free EHR Software: What US Healthcare Providers Need to Know"
 date: 2024-06-24

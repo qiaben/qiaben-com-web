@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/young-female-patient-with-open-mouth-examining-dental-inspection-dentist-office-1024x683.jpg
 slug: why-your-practice-needs-dental-insurance-verification-services
 title: "Why Your Practice Needs Dental Insurance Verification Services"
 date: 2025-09-18

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/diagnostic-codes-1-1-768x432.jpg
 slug: revolutionizing-healthcare-the-role-of-electronic-health-records-ehr-in-modern-medicine
 title: "Revolutionizing Healthcare: The Role of Electronic Health Records (EHR) in Modern Medicine"
 date: 2024-12-28

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/handle-dental-patient-billing-768x432.png
 slug: how-to-handle-a-dental-patient-who-has-a-problem-with-their-bill
 title: "How to Handle a Dental Patient for Billing Issue"
 date: 2025-02-22

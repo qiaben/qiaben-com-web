@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/endodontic-coding-768x432.png
 slug: streamlining-dental-billing-insights-into-endodontic-codes-d3000-d3999
 title: "Endodontic Billing Made Simple: Guide to D3000–D3999 Codes"
 date: 2025-01-10

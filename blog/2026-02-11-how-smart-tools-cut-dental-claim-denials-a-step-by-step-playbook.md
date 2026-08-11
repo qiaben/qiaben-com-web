@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-11-2026-09_35_42-PM.png
 slug: how-smart-tools-cut-dental-claim-denials-a-step-by-step-playbook
 title: "How Smart Tools Cut Dental Claim Denials  A Step-by-Step Playbook"
 date: 2026-02-11

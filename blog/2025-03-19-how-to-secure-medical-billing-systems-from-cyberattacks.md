@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/html-css-collage-concept-with-hacker-1024x683.jpg
 slug: how-to-secure-medical-billing-systems-from-cyberattacks
 title: "How to Secure Medical Billing Systems from Cyberattacks"
 date: 2025-03-19

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/effictive-billing-1.jpg
 slug: effective-dental-billing-practice
 title: "Effective Dental Billing Practice"
 date: 2024-10-26

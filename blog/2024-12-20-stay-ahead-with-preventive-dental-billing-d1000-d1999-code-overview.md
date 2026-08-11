@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/preventive-codes-3-768x432.jpg
 slug: stay-ahead-with-preventive-dental-billing-d1000-d1999-code-overview
 title: "Stay Ahead with Preventive Dental Billing: D1000-D1999 Code Overview"
 date: 2024-12-20

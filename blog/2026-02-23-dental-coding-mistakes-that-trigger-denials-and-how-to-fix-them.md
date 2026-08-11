@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-23-2026-09_53_40-PM.png
 slug: dental-coding-mistakes-that-trigger-denials-and-how-to-fix-them
 title: "Dental Coding Mistakes That Trigger Denials and How to Fix Them"
 date: 2026-02-23

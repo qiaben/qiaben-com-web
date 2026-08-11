@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/top-tips-for-improve-dental-billing-300x169.png
 slug: top-tips-for-improving-dental-billing-efficiency-with-qiaben-health
 title: "TOP TIPS FOR IMPROVING DENTAL BILLING EFFICIENCY WITH QIABEN HEALTH"
 date: 2025-02-24

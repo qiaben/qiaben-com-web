@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-29-768x768.jpg
 slug: cms-1500-2-part-used-in-healthcare-practices
 title: "CMS-1500 2-Part Used in Healthcare Practices"
 date: 2024-06-10

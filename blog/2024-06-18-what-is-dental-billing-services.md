@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png
 slug: what-is-dental-billing-services
 title: "What Is Dental Billing Services?"
 date: 2024-06-18

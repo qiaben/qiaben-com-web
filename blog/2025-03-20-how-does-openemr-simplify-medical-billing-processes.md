@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__winter-setting-openemr-and-qiaben-logos-projected-__14945-1024x585.png
 slug: how-does-openemr-simplify-medical-billing-processes
 title: "OpenEMR: Smarter Medical Billing Made Simple"
 date: 2025-03-20

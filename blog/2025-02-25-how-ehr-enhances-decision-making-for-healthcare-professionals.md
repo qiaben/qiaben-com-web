@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-build-an-EHR-system-02-e1740478777671-768x571.webp
 slug: how-ehr-enhances-decision-making-for-healthcare-professionals
 title: "How EHR Enhances Decision-Making for Healthcare Professionals"
 date: 2025-02-25

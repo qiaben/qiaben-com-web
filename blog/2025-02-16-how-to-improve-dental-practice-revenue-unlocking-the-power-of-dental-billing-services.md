@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png
 slug: how-to-improve-dental-practice-revenue-unlocking-the-power-of-dental-billing-services
 title: "how to Boost Dental Practice Revenue with Billing Services"
 date: 2025-02-16

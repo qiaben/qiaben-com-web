@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/qtq80-ws913p-1024x678.jpeg
 slug: the-2025-reimbursement-shift-preparing-your-practice-for-physician-payment-changes
 title: "The 2025 Reimbursement Shift: Preparing Your Practice for Physician Payment Changes"
 date: 2024-12-28

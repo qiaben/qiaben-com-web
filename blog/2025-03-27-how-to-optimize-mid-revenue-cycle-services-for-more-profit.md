@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/analyzing-business-chart-1024x683.jpg
 slug: how-to-optimize-mid-revenue-cycle-services-for-more-profit
 title: "How to Optimize Mid Revenue Cycle Services for More Profit"
 date: 2025-03-27

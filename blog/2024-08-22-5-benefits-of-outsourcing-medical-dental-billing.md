@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-15-1024x553.png
 slug: 5-benefits-of-outsourcing-medical-dental-billing
 title: "5 Benefits of Outsourcing Medical &amp; Dental Billing"
 date: 2024-08-22

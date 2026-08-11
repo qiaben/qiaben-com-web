@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/EHR-integration-1024x537.webp
 slug: 5-key-benefits-of-using-an-ehr-dashboard-in-healthcare
 title: "Five Key Benefits of EHR Dashboards for Quality Healthcare"
 date: 2025-02-21

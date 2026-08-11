@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-3-768x768.jpg
 slug: mastering-the-dental-billing-process-for-optimal-efficiency
 title: "Mastering the Dental Billing Process for Optimal Efficiency"
 date: 2024-11-01

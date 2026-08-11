@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: root-tip-extraction-code-other-oral-surgery-billing-codes
 title: "Root Tip Extraction Code &amp; Other Oral Surgery Billing Codes"
 date: 2025-09-16

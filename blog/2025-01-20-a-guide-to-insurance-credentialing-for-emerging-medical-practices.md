@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/qtq80-nLABTv-1024x683.jpeg
 slug: a-guide-to-insurance-credentialing-for-emerging-medical-practices
 title: "A Guide to Insurance Credentialing for Emerging Medical Practices"
 date: 2025-01-20

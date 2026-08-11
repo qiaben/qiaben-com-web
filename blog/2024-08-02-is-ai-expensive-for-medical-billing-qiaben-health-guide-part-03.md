@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-6-1024x553.png
 slug: is-ai-expensive-for-medical-billing-qiaben-health-guide-part-03
 title: "Is AI expensive for medical billing? Qiaben Health Guide Part-03"
 date: 2024-08-02

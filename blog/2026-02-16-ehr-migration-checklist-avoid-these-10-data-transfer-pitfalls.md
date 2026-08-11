@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-16-2026-09_02_05-PM.png
 slug: ehr-migration-checklist-avoid-these-10-data-transfer-pitfalls
 title: "EHR Migration Checklist: Avoid These 10 Data Transfer Pitfalls"
 date: 2026-02-16

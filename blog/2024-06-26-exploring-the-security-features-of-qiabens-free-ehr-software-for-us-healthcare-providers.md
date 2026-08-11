@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/download-1-1024x585.webp
 slug: exploring-the-security-features-of-qiabens-free-ehr-software-for-us-healthcare-providers
 title: "Exploring the Security Features of Qiaben’s Free EHR Software for US Healthcare Providers."
 date: 2024-06-26

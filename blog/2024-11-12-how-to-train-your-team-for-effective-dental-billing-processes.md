@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-13-300x300.jpg
 slug: how-to-train-your-team-for-effective-dental-billing-processes
 title: "How to Train Your Team for Effective Dental Billing Processes:"
 date: 2024-11-12

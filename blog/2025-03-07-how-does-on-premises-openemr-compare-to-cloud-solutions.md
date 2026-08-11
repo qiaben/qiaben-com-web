@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/OpenEMR-1024x535-1-300x157.webp
 slug: how-does-on-premises-openemr-compare-to-cloud-solutions
 title: "How Does On-Premises OpenEMR Compare to Cloud Solutions?"
 date: 2025-03-07
