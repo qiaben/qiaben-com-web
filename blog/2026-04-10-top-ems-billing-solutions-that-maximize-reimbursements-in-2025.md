@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/criticaalcarebill.jpg
 slug: top-ems-billing-solutions-that-maximize-reimbursements-in-2025
 title: "Top EMS Billing Solutions That Maximize Reimbursements in 2025"
 date: 2026-04-10

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/WhatsApp-Image-2025-06-23-at-16.55.29_09f43be3-200x300.jpg
 slug: how-to-migrate-from-another-emr-to-openemr
 title: "How to Migrate from Another EMR to OpenEMR"
 date: 2025-03-20

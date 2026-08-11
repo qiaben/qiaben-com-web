@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/AI-Driven-breakthrough-2-768x432.png
 slug: ai-driven-breakthrough-transforming-your-dental-practice-for-unstoppable-growth
 title: "AI-Driven Breakthrough: Transforming Your Dental Practice for Unstoppable Growth"
 date: 2025-03-07

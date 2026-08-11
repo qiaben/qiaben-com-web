@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/patient-payment-image.webp
 slug: how-effective-ems-claims-management-reduces-denials-and-boosts-cash-flow
 title: "How Effective EMS Claims Management Reduces Denials and Boosts Cash Flow"
 date: 2026-04-24

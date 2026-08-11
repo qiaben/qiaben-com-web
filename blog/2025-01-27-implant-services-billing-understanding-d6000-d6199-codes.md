@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/implant-services-1-768x432.png
 slug: implant-services-billing-understanding-d6000-d6199-codes
 title: "Implant Services Billing: Understanding D6000-D6199 Codes"
 date: 2025-01-27

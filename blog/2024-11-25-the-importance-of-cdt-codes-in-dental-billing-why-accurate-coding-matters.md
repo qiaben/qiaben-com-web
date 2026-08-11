@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-29-768x768.jpg
 slug: the-importance-of-cdt-codes-in-dental-billing-why-accurate-coding-matters
 title: "Essential Role of CDT Codes in Dental Billing: Accuracy Matters"
 date: 2024-11-25

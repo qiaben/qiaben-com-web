@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/Trends-in-EHR-Billing-Integration.webp
 slug: what-are-the-key-benefits-of-ehr-and-billing-integration
 title: "What Are the Key Benefits of EHR and Billing Integration?"
 date: 2025-02-14

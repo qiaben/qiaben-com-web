@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/07/66623.jpg
 slug: streamline-your-practice-with-expert-medical-billing-in-the-usa
 title: "Streamline Your Practice with Expert Medical Billing in the USA"
 date: 2024-05-21

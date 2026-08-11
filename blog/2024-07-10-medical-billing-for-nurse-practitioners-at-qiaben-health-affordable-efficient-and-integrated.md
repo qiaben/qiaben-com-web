@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/analyzing-business-chart-1024x683.jpg
 slug: medical-billing-for-nurse-practitioners-at-qiaben-health-affordable-efficient-and-integrated
 title: "Medical Billing for Nurse Practitioners at Qiaben Health: Affordable, Efficient, and Integrated"
 date: 2024-07-10

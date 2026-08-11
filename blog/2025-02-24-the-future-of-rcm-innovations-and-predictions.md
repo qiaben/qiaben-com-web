@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/RCM.jpg
 slug: the-future-of-rcm-innovations-and-predictions
 title: "The Future of RCM: Top Innovations, Trends & Predictions"
 date: 2025-02-24

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__99948.jpeg
 slug: fall-proof-your-dental-billing-simple-tip-for-maximum-payout
 title: "Fall-Proof Your Dental Billing: Simple Tip good Payout"
 date: 2025-09-10

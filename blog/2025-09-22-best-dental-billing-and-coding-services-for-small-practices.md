@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/How-to-Improve-Dental-Practice-Revenue-Unlocking-the-Power-of-Dental-Billing-Services--300x169.png
 slug: best-dental-billing-and-coding-services-for-small-practices
 title: "Best Dental Billing and Coding Services for Small Practices"
 date: 2025-09-22

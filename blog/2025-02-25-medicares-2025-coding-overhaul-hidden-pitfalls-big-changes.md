@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/medical-coding-service-image-3.jpg
 slug: medicares-2025-coding-overhaul-hidden-pitfalls-big-changes
 title: "Medicare’s 2025 Coding Overhaul: Hidden Pitfalls &amp; Big Changes"
 date: 2025-02-25

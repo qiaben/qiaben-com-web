@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/1.jpg
 slug: what-are-the-best-customizations-for-openemr-in-dentistry
 title: "What Are the Best Customizations for OpenEMR in Dentistry?"
 date: 2025-03-28

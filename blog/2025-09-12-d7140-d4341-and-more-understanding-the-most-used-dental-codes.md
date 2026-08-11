@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Untitled-design-1-1024x576.jpg
 slug: d7140-d4341-and-more-understanding-the-most-used-dental-codes
 title: "D7140 , D4341 & More: Understanding the Most Used Dental Codes"
 date: 2025-09-12

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/supercharge-1-300x169.png
 slug: supercharge-your-dental-billing-in-2025-essential-tips-for-financial-growth
 title: "Supercharge Your Dental Billing in 2025: Essential Tips for Financial Growth"
 date: 2025-03-05

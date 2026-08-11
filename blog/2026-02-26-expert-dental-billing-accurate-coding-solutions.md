@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/30ccf14ea5ecad8e4a1854f75a62e43d.jpg
 slug: expert-dental-billing-accurate-coding-solutions
 title: "Expert Dental Billing &amp; Accurate Coding Solutions:"
 date: 2026-02-26

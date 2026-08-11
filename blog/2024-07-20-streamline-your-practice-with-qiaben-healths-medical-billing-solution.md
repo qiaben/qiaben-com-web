@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/07/66623.jpg
 slug: streamline-your-practice-with-qiaben-healths-medical-billing-solution
 title: "Streamline Your Practice with Qiaben Health's Medical Billing Solution"
 date: 2024-07-20

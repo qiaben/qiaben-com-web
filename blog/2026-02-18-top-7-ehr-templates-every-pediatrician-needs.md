@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-18-2026-09_29_38-PM.png
 slug: top-7-ehr-templates-every-pediatrician-needs
 title: "Top 7 EHR Templates Every Pediatrician Needs"
 date: 2026-02-18

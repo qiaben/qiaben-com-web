@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/dental-insurance-form-toothache-oral-mouth-teeth-concept-768x699.jpg
 slug: unlocking-the-secrets-of-dental-billing-simplify-save-and-succeed
 title: "Unlocking the Secrets of Dental Billing: Simplify, Save, and Succeed"
 date: 2025-04-29

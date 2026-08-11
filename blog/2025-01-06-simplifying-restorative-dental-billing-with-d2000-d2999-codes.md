@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/restorative-coding-1-300x169.png
 slug: simplifying-restorative-dental-billing-with-d2000-d2999-codes
 title: "Restorative Dental Billing Made Easy with D2000–D2999 Codes"
 date: 2025-01-06

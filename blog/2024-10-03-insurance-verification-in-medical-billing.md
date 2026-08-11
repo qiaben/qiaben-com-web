@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Blue-and-White-Modern-Health-Insurance-Instagram-Post-768x768.jpg
 slug: insurance-verification-in-medical-billing
 title: "Insurance Verification in Medical Billing"
 date: 2024-10-03

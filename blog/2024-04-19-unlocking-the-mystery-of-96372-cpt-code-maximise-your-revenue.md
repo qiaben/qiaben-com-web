@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/StockCake-Compassionate-Medical-Care_1740123589-1024x585.webp
 slug: unlocking-the-mystery-of-96372-cpt-code-maximise-your-revenue
 title: "CPT 96372 Billing Tips: Unlock Hidden Profits"
 date: 2024-04-19

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/download-1-1024x585.webp
 slug: free-ehr-software-for-mental-health-providers-how-to-choose-the-right-one-for-your-practice
 title: "Free EHR Software for Mental Health Providers – How to Choose the Right One for Your Practice"
 date: 2024-10-22

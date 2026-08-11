@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/patient-payment-image.webp
 slug: smart-patient-payment-plans-for-better-cash-flow-care
 title: "Smart Patient Payment Plans for Better Cash Flow &amp; Care"
 date: 2025-02-10

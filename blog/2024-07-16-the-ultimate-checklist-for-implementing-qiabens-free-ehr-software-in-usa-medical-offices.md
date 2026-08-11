@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/0a727ee0-fd48-4a39-8969-928a3a8563b8.webp
 slug: the-ultimate-checklist-for-implementing-qiabens-free-ehr-software-in-usa-medical-offices
 title: "The Ultimate Checklist for Implementing Qiaben’s Free EHR Software in USA Medical Offices."
 date: 2024-07-16

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/OpenEMR-installation-1024x674-1-768x506.png
 slug: what-steps-should-i-take-for-openemr-installation-issues
 title: "What Steps Should I Take for OpenEMR Installation Issues?"
 date: 2025-03-13

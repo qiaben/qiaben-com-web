@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/12/medical-coding-service-images-1.avif
 slug: maximizing-revenue-the-impact-of-professional-medical-coding-services-on-healthcare-facilities
 title: "Maximizing Revenue: The Impact of Professional Medical Coding Services on Healthcare Facilities"
 date: 2024-12-04

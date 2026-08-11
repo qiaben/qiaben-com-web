@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-20-2026-09_57_01-PM-1024x683.png
 slug: how-to-read-your-rcm-dashboard-5-kpis-that-matter
 title: "How to Read Your RCM Dashboard: 5 KPIs That Matter"
 date: 2026-02-20

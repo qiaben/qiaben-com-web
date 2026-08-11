@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/07/Untitled-design-5-1024x553.png
 slug: how-does-ai-improve-billing-qiaben-health-guide-part-01
 title: "How does AI improve Medical Billing? - Qiaben Health Guide Part-01"
 date: 2024-07-27

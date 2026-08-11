@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/09/download-53-1024x576.webp
 slug: ehr-vs-emr-whats-the-difference-in-u-s-healthcare
 title: "EHR vs EMR: What's the Difference in U.S. Healthcare"
 date: 2025-09-25

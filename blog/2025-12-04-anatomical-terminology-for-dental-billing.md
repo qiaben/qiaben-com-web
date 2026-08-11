@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/09/download-45-1024x576.webp
 slug: anatomical-terminology-for-dental-billing
 title: "Anatomical Terminology for Dental Billing"
 date: 2025-12-04

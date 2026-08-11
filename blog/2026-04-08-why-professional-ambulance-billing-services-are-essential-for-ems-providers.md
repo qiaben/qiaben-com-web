@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-29-768x768.jpg
 slug: why-professional-ambulance-billing-services-are-essential-for-ems-providers
 title: "Why Professional Ambulance Billing Services Are Essential for EMS Providers"
 date: 2026-04-08

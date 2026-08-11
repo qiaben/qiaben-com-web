@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/hand-workplace-working-analysis-note-768x513.jpg
 slug: unlock-hidden-profits-how-revenue-cycle-analytics-boosts-rcm
 title: "Unlock Hidden Profits: How Revenue Cycle Analytics Boosts RCM"
 date: 2025-03-05

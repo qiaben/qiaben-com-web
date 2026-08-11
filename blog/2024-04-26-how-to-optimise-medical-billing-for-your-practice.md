@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/analyzing-business-chart-1024x683.jpg
 slug: how-to-optimise-medical-billing-for-your-practice
 title: "How to Optimise Medical Billing for Your Practice?"
 date: 2024-04-26

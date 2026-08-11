@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/medical-questionnaire-1024x683.jpg
 slug: empower-growth-with-trusted-physician-credentialing-service
 title: "Empower Growth with Trusted Physician Credentialing Service"
 date: 2025-04-28

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png
 slug: ambulance-billing-compliance-avoiding-audits-and-penalties-in-ems
 title: "Ambulance Billing Compliance: Avoiding Audits and Penalties in EMS"
 date: 2026-04-27

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Blue-and-White-Modern-Health-Insurance-Instagram-Post-768x768.jpg
 slug: the-foundation-of-gingiva-anatomy
 title: "The Foundation of Gingiva Anatomy"
 date: 2025-12-05

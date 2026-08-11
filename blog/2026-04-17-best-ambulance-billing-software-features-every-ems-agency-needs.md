@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/analyzing-business-chart-1024x683.jpg
 slug: best-ambulance-billing-software-features-every-ems-agency-needs
 title: "Best Ambulance Billing Software Features Every EMS Agency Needs"
 date: 2026-04-17

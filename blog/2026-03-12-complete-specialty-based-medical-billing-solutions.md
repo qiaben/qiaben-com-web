@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/03/Healthcare-billing-and-medical-professionals-1024x683.png
 slug: complete-specialty-based-medical-billing-solutions
 title: "COMPLETE SPECIALTY-BASED MEDICAL BILLING SOLUTIONS:"
 date: 2026-03-12

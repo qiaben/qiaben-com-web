@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/03/WhatsApp-Image-2026-03-18-at-4.19.30-PM-1-1024x616.jpeg
 slug: reduce-claim-denials-with-insurance-verification-services
 title: "Reduce Claim Denials with Insurance Verification Services"
 date: 2026-03-18

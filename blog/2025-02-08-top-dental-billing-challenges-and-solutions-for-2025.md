@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/dental-billing-challenges-1-300x169.png
 slug: top-dental-billing-challenges-and-solutions-for-2025
 title: "Top Dental Billing Challenges and Solutions for 2025"
 date: 2025-02-08

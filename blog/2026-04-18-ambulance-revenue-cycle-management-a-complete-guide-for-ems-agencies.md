@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__14941-768x439.jpeg
 slug: ambulance-revenue-cycle-management-a-complete-guide-for-ems-agencies
 title: "Ambulance Revenue Cycle Management: A Complete Guide for EMS Agencies"
 date: 2026-04-18

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/dental-image-3.jpg
 slug: ambulance-coding-and-billing-key-codes-and-best-practices-for-ems
 title: "Ambulance Coding and Billing: Key Codes and Best Practices for EMS"
 date: 2026-05-08

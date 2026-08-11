@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/programming-background-with-person-working-with-codes-computer-1-1-1024x683.jpg
 slug: cpt-codes-made-simple-boost-your-medical-billing-success
 title: "CPT Codes Made Simple: Boost Your Medical Billing Success"
 date: 2025-03-17

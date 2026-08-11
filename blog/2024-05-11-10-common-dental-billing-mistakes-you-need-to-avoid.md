@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/avoid-dental-billing-mistakes-300x169.png
 slug: 10-common-dental-billing-mistakes-you-need-to-avoid
 title: "10 Common Dental Billing Mistakes You Need to Avoid"
 date: 2024-05-11

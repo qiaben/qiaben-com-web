@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/flat-lay-tooth-made-sugar-blue-background-300x200.jpg
 slug: boost-your-bottom-line-little-known-secrets-to-dental-billing-profitability
 title: "Boost Your Bottom Line: Little-Known Secrets to Dental Billing Profitability"
 date: 2025-03-26

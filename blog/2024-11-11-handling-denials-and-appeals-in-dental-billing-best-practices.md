@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-10-768x768.jpg
 slug: handling-denials-and-appeals-in-dental-billing-best-practices
 title: "Handling Denials and Appeals in Dental Billing: Best Practices"
 date: 2024-11-11

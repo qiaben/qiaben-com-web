@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Remote-work-experience-solution-Instagram-post-768x768.jpg
 slug: the-role-of-ehr-in-telehealth-enhancing-remote-patient-management
 title: "The Role of EHR in Telehealth: Enhancing Remote Patient Management"
 date: 2024-11-08

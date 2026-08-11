@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/internal-med.avif
 slug: uncover-the-hidden-struggles-of-internal-medicine-billing
 title: "Uncover the Hidden Struggles of Internal Medicine Billing"
 date: 2025-02-13

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/avoid-dental-billing-mistakes-300x169.png
 slug: avoid-these-5-costly-dental-billing-mistakes-in-2025
 title: "Avoid These 5 Costly Dental Billing Mistakes in 2025"
 date: 2025-03-01

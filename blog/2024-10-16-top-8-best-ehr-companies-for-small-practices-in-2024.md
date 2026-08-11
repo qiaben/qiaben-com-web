@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/QIABEN-2.png
 slug: top-8-best-ehr-companies-for-small-practices-in-2024
 title: "Top 8 Best EHR Companies for Small Practices in 2024"
 date: 2024-10-16

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/1.jpg
 slug: how-dental-narratives-enhance-claim-approvals
 title: "Dental Narratives: A Complete Guide to Claim Approvals"
 date: 2025-09-23

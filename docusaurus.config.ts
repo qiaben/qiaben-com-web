@@ -96,8 +96,8 @@ const config: Config = {
           blogDescription:
             'Articles on medical billing, RCM, dental billing, EHR, and practice management.',
           blogSidebarTitle: 'Recent posts',
-          blogSidebarCount: 'ALL',
-          postsPerPage: 10,
+          blogSidebarCount: 5,
+          postsPerPage: 9,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,

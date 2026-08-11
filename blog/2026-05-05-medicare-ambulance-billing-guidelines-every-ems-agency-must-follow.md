@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/analyzing-business-chart-1024x683.jpg
 slug: medicare-ambulance-billing-guidelines-every-ems-agency-must-follow
 title: "Medicare Ambulance Billing Guidelines Every EMS Agency Must Follow"
 date: 2026-05-05

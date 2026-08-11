@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-8-1024x1024.png
 slug: 5-common-medical-billing-mistakes-how-to-avoid-them
 title: "5 Common Medical Billing Mistakes &amp; How to Avoid Them"
 date: 2025-02-26

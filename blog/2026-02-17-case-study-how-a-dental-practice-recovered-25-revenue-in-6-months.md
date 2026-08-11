@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_42_14-PM.png
 slug: case-study-how-a-dental-practice-recovered-25-revenue-in-6-months
 title: "Case Study: How a Dental Practice Recovered ~25% Revenue in 6 Months"
 date: 2026-02-17

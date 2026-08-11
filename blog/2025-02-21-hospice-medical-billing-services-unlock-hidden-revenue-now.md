@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/StockCake-Compassionate-Medical-Care_1740123589-1024x585.webp
 slug: hospice-medical-billing-services-unlock-hidden-revenue-now
 title: "Hospice Medical Billing Services: Unlock Hidden Revenue Now"
 date: 2025-02-21

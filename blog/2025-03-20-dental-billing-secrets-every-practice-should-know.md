@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/beautiful-dentist-working-dental-clinic-300x200.jpg
 slug: dental-billing-secrets-every-practice-should-know
 title: "Dental Billing Secrets Every Practice Should Know"
 date: 2025-03-20

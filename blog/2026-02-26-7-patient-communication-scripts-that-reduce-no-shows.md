@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-26-2026-10_10_23-PM-1024x683.png
 slug: 7-patient-communication-scripts-that-reduce-no-shows
 title: "7 Patient Communication Scripts That Reduce No-Shows"
 date: 2026-02-26

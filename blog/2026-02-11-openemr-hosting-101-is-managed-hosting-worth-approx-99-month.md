@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-10-2026-09_46_10-PM.png
 slug: openemr-hosting-101-is-managed-hosting-worth-approx-99-month
 title: "OpenEMR Hosting 101  Is Managed Hosting Worth approx. $99/month?"
 date: 2026-02-11

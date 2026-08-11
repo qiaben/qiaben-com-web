@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/remote-dental-billing-jobs-1-300x169.png
 slug: remote-dental-billing-jobs-in-2025-how-to-begin-and-succeed
 title: "Remote Dental Billing Jobs in 2025: How to Begin and Succeed"
 date: 2025-02-03

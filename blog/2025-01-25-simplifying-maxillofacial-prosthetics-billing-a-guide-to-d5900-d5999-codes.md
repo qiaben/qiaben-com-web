@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/maxi-facial-2-768x432.png
 slug: simplifying-maxillofacial-prosthetics-billing-a-guide-to-d5900-d5999-codes
 title: "Simplifying Maxillofacial Prosthetics Billing: A Guide to D5900-D5999 Codes"
 date: 2025-01-25

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Untitled-design-1-1024x576.jpg
 slug: finding-the-best-dental-insurance-in-the-usa-a-quick-overview-of-the-most-attractive-plans
 title: "Finding the Best Dental Insurance in the USA: A Quick Overview of the Most Attractive Plans"
 date: 2024-10-07

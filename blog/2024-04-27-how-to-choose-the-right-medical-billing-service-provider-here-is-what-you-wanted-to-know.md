@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/INGOUDE-CLINIC-12-1024x553.png
 slug: how-to-choose-the-right-medical-billing-service-provider-here-is-what-you-wanted-to-know
 title: "How to Choose the Right Medical Billing Service Provider? Here is  what you wanted to know."
 date: 2024-04-27

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-25-768x768.jpg
 slug: top-10-types-of-cdt-codes-and-how-they-streamline-dental-billing
 title: "Top 10 Types of CDT Codes and How They Streamline Dental Billing:"
 date: 2024-11-26

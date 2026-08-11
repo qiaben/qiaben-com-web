@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/CPT-1-1024x576.jpg
 slug: exploring-openemrs-core-features-what-you-need-to-know
 title: "Exploring OpenEMR’s Core Features: What You Need to Know 2025"
 date: 2025-04-19

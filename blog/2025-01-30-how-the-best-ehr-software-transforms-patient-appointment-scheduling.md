@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/patient-appointment.jpg
 slug: how-the-best-ehr-software-transforms-patient-appointment-scheduling
 title: "How the Best EHR Software Transforms Patient Appointment Scheduling"
 date: 2025-01-30

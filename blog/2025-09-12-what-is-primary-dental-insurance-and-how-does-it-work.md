@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Untitled-design-1-1024x576.jpg
 slug: what-is-primary-dental-insurance-and-how-does-it-work
 title: "What is Primary Dental Insurance and How It Works?"
 date: 2025-09-12

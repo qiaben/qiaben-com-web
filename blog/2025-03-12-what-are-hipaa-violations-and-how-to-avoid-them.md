@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/What-are-HIPAA-Violations-and-How-to-Avoid-Them-768x432.png
 slug: what-are-hipaa-violations-and-how-to-avoid-them
 title: "What are HIPAA Violations and How to Avoid Them"
 date: 2025-03-12

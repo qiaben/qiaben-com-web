@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/importance-of-outsourcing-dental-billing--768x432.png
 slug: importance-of-outsourcing-dental-billing
 title: "Importance of Outsourcing Dental Billing"
 date: 2025-02-16

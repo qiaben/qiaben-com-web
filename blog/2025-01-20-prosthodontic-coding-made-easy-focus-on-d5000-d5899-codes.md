@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/prosthodontics-1-768x432.png
 slug: prosthodontic-coding-made-easy-focus-on-d5000-d5899-codes
 title: "Prosthodontic Coding Made Easy: Focus on D5000-D5899 Codes"
 date: 2025-01-20

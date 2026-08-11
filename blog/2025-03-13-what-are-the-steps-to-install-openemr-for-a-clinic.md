@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/04/1.jpg
 slug: what-are-the-steps-to-install-openemr-for-a-clinic
 title: "What are the steps to install OpenEMR for a clinic?"
 date: 2025-03-13

@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/top-dental-billing-techniques-1-300x169.png
 slug: top-dental-billing-techniques-in-2025-maximizing-revenue-and-efficiency
 title: "Top Dental Billing Techniques in 2025: Maximizing Revenue and Efficiency"
 date: 2025-02-03

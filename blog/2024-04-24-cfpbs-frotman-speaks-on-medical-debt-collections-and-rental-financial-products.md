@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/criticaalcarebill.jpg
 slug: cfpbs-frotman-speaks-on-medical-debt-collections-and-rental-financial-products
 title: "CFPB Expert Advice: Medical Debt & Rental Finance"
 date: 2024-04-24

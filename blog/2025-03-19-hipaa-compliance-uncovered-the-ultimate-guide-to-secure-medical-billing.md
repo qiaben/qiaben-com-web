@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png
 slug: hipaa-compliance-uncovered-the-ultimate-guide-to-secure-medical-billing
 title: "HIPAA Compliance Uncovered: The Ultimate Guide to Secure Medical Billing"
 date: 2025-03-19

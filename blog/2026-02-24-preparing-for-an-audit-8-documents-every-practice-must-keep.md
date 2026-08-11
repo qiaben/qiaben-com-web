@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-24-2026-09_24_16-PM.png
 slug: preparing-for-an-audit-8-documents-every-practice-must-keep
 title: "Preparing for an Audit: 8 Documents Every Practice Must Keep"
 date: 2026-02-24

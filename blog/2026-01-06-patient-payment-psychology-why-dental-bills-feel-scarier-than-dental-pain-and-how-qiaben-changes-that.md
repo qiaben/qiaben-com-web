@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/01/pexels-photo-4971514-4971514-1024x683.jpg
 slug: patient-payment-psychology-why-dental-bills-feel-scarier-than-dental-pain-and-how-qiaben-changes-that
 title: "Patient Payment Psychology: Why Dental Bills Feel Scarier Than Dental Pain — and How Qiaben Changes That"
 date: 2026-01-06

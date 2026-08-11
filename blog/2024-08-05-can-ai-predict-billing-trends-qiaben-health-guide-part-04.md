@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/OFRI-1024x1024.png
 slug: can-ai-predict-billing-trends-qiaben-health-guide-part-04
 title: "Can AI predict billing trends? Qiaben Health Guide Part-04"
 date: 2024-08-05

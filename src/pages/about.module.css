@@ -1,0 +1,459 @@
+.page {
+  background: var(--qb-bg);
+  color: var(--qb-text);
+}
+
+.eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--qb-primary-dark);
+  margin: 0 0 10px;
+}
+
+.sectionInner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+  margin: 0 0 14px;
+}
+
+/* ---------- TITLE BAR ---------- */
+.titleBar {
+  padding: 56px 24px;
+  background: var(--qb-bg-soft);
+  border-bottom: 1px solid var(--qb-border);
+  text-align: center;
+}
+
+.titleBar h1 {
+  max-width: 900px;
+  margin: 0 auto 14px;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--qb-text);
+}
+
+.titleBar p {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--qb-text-soft);
+  margin: 0;
+}
+
+/* ---------- WHO WE ARE ---------- */
+.intro {
+  padding: 80px 24px;
+}
+
+.introInner {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 64px;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  .introInner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.introImageWrap {
+  position: relative;
+}
+
+.introDots {
+  position: absolute;
+  top: -24px;
+  left: -24px;
+  width: 130px;
+  height: 130px;
+  background-image: radial-gradient(var(--qb-primary) 2px, transparent 2px);
+  background-size: 16px 16px;
+  opacity: 0.4;
+  z-index: 0;
+}
+
+.introImageWrap img {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.35);
+}
+
+.introLead {
+  font-size: 1.02rem;
+  color: var(--qb-text-soft);
+  line-height: 1.7;
+  margin: 0 0 20px;
+}
+
+/* ---------- TEAM + STATS ---------- */
+.statsSection {
+  position: relative;
+  padding: 40px 24px 80px;
+  overflow: hidden;
+}
+
+.statsGlow {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 500px;
+  background: radial-gradient(circle, var(--qb-bg-tint) 0%, transparent 70%);
+  z-index: 0;
+}
+
+.statsInner {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1.3fr 1fr;
+  gap: 32px;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  .statsInner {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+
+.statsImage {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.statValue {
+  font-size: clamp(2.4rem, 5vw, 3.2rem);
+  font-weight: 800;
+  color: var(--qb-primary);
+  margin: 0;
+}
+
+.statTitle {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--qb-text);
+  margin: 8px 0 10px;
+}
+
+.statDesc {
+  font-size: 0.92rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- WHY CHOOSE US ---------- */
+.whySection {
+  position: relative;
+  padding: 72px 24px;
+  background: linear-gradient(160deg, var(--qb-primary), var(--qb-primary-dark));
+  text-align: center;
+  overflow: hidden;
+}
+
+.whySection::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.18) 1.5px, transparent 1.5px);
+  background-size: 20px 20px;
+  pointer-events: none;
+}
+
+.whySection .sectionInner {
+  position: relative;
+}
+
+.whyTitle {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 16px;
+}
+
+.whyLead {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+  max-width: 70ch;
+  margin: 0 auto 40px;
+}
+
+.whyGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 16px;
+}
+
+@media (max-width: 800px) {
+  .whyGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.whyCard {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 16px;
+  padding: 32px 26px;
+  text-align: left;
+  transition: transform 0.2s ease;
+}
+
+.whyCard:hover {
+  transform: translateY(-4px);
+}
+
+.whyIcon {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #f5c518;
+  color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.whyCard h3 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 10px;
+}
+
+.whyCard p {
+  font-size: 0.92rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- YOUR HEALTH, OUR PRIORITY ---------- */
+.prioritySection {
+  padding: 72px 24px;
+  background: var(--qb-bg-soft);
+}
+
+.priorityImageWrap {
+  text-align: center;
+  margin: 0 0 40px;
+}
+
+.priorityImageWrap img {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+}
+
+.priorityGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+@media (max-width: 700px) {
+  .priorityGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.priorityCard {
+  background: var(--qb-bg);
+  border-radius: 14px;
+  padding: 28px 24px;
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  box-shadow: 0 20px 45px -32px rgba(15, 23, 42, 0.3);
+}
+
+.priorityCard img {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+
+.priorityCard h3 {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--qb-text);
+  margin: 0 0 8px;
+}
+
+.priorityCard p {
+  font-size: 0.9rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- CTA BAND ---------- */
+.ctaBand {
+  padding: 72px 24px;
+  text-align: center;
+  background: linear-gradient(160deg, var(--qb-primary), var(--qb-primary-dark));
+}
+
+.ctaBand h2 {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 28px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ctaBand h2 span {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.ctaButton {
+  display: inline-block;
+  background: #ffffff;
+  color: var(--qb-primary-dark);
+  padding: 14px 32px;
+  border-radius: 999px;
+  font-weight: 800;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  transition: transform 0.2s ease;
+}
+
+.ctaButton:hover {
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: var(--qb-primary-dark);
+}
+
+/* ---------- SECURITY ---------- */
+.securitySection {
+  position: relative;
+  padding: 72px 24px;
+  background: linear-gradient(160deg, var(--qb-primary), var(--qb-primary-dark));
+  overflow: hidden;
+}
+
+.securityDots {
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.15) 1.5px, transparent 1.5px);
+  background-size: 20px 20px;
+  pointer-events: none;
+}
+
+.securitySection .sectionInner {
+  position: relative;
+}
+
+.securityTitle {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 800;
+  color: #ffffff;
+  text-align: center;
+  margin: 0 0 48px;
+}
+
+.securityGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+@media (max-width: 900px) {
+  .securityGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.securityCard {
+  background: #fdfaf3;
+  border: 1px solid #e8b93a;
+  border-radius: 4px;
+  padding: 32px 26px;
+}
+
+.securityIcon {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  background: var(--qb-primary);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.securityCard h3 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--qb-text);
+  margin: 0 0 12px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--qb-primary);
+  display: inline-block;
+}
+
+.securityCard p {
+  font-size: 0.9rem;
+  color: var(--qb-text-soft);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ---------- BOOK AN APPOINTMENT ---------- */
+.closing {
+  padding: 72px 24px;
+  background: var(--qb-bg);
+}
+
+.closingInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 56px;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  .closingInner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.closingImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  display: block;
+}

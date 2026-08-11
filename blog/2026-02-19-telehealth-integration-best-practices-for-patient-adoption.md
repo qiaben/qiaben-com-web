@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/02/ChatGPT-Image-Feb-20-2026-12_30_08-AM.png
 slug: telehealth-integration-best-practices-for-patient-adoption
 title: "Telehealth Integration: Best Practices for Patient Adoption"
 date: 2026-02-19

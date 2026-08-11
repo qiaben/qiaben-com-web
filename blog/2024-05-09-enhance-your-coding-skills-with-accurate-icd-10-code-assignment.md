@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/11/Untitled-design-29-768x768.jpg
 slug: enhance-your-coding-skills-with-accurate-icd-10-code-assignment
 title: "ICD-10 Essentials: Accuracy for Better Outcomes"
 date: 2024-05-09

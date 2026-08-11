@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/08/a_electronic_health_record_data_in_a_medical_office_with_us_nurses_practitioners_reviewing_on_big_screen_with_qiaben_com_the_light_is_bright_and_the_mood_is_happy-1-1024x1024.jpeg
 slug: changes-to-e-m-coding-a-practitioners-perspective-powered-by-qiaben-health
 title: "Changes to E/M Coding - A Practitioner's Perspective powered by Qiaben Health"
 date: 2024-08-24

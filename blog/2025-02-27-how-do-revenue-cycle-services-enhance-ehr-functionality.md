@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/02/Future-Trends-in-EHR-RCM-Integration.webp
 slug: how-do-revenue-cycle-services-enhance-ehr-functionality
 title: "How Do Revenue Cycle Services Enhance EHR Functionality?"
 date: 2025-02-27

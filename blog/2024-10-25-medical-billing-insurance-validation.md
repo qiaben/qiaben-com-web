@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/Blue-and-White-Modern-Health-Insurance-Instagram-Post-768x768.jpg
 slug: medical-billing-insurance-validation
 title: "Medical Billing : Importance of Insurance Verification"
 date: 2024-10-25

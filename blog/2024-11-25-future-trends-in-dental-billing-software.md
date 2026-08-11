@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2024/10/dental-image-3.jpg
 slug: future-trends-in-dental-billing-software
 title: "Top Future Trends in Dental Billing Software to watch"
 date: 2024-11-25

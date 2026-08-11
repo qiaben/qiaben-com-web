@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/modern-dentistry-1-300x169.png
 slug: the-role-of-dental-billing-services-in-modern-dentistry
 title: "THE ROLE OF DENTAL BILLING SERVICES IN MODERN DENTISTRY"
 date: 2025-03-01

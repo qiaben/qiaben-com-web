@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/01/claim-5.webp
 slug: medical-billing-made-easy-hassle-free-claim-submission-explained
 title: "Medical Billing Made Easy: Hassle-Free Claim Submission Explained"
 date: 2025-01-31

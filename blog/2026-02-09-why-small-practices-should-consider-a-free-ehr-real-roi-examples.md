@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2026/01/Copilot_20260127_115201-1024x683.png
 slug: why-small-practices-should-consider-a-free-ehr-real-roi-examples
 title: "Why Small Practices Should Consider a Free EHR Real ROI Examples"
 date: 2026-02-09

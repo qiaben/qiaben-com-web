@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/freepik__the-style-is-candid-image-photography-with-natural__71742-1024x585.png
 slug: openemr-security-compliance
 title: "OpenEMR Security and Compliance: A Complete Guide"
 date: 2025-03-27

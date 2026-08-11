@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/04/freepik__the-style-is-candid-image-photography-with-natural__13824-768x439.png
 slug: how-to-customize-openemr-for-your-specialty-dental-dermatology-etc
 title: "Specialty-Specific OpenEMR Customization Made Simple"
 date: 2025-04-19

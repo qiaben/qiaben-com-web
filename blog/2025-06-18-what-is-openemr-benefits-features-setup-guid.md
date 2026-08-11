@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/06/freepik__the-style-is-candid-image-photography-with-natural__14288-768x439.jpeg
 slug: what-is-openemr-benefits-features-setup-guid
 title: "Complete Guide to OpenEMR for Healthcare Practices"
 date: 2025-06-18

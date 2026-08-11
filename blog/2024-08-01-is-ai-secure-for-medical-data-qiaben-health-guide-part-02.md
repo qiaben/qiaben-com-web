@@ -1,4 +1,5 @@
 ---
+image: /img/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png
 slug: is-ai-secure-for-medical-data-qiaben-health-guide-part-02
 title: "Is AI secure for medical data? Qiaben Health Guide Part-02"
 date: 2024-08-01
