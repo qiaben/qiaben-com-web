@@ -10,12 +10,19 @@
   --ifm-color-primary-lighter: #0bb380;
   --ifm-color-primary-lightest: #2cc599;
 
-  /* Type */
-  --ifm-font-family-base:
-    -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text',
-    'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --ifm-heading-font-family: var(--ifm-font-family-base);
-  --ifm-heading-font-weight: 600;
+  /* Type — Plus Jakarta Sans for headings (distinctive, premium geometric feel),
+     Inter for body/UI text (excellent legibility at small sizes). Both loaded via
+     docusaurus.config headTags; system stack is the fallback if the network font
+     hasn't painted yet, so nothing ever renders invisible. */
+  --qb-font-body:
+    'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue',
+    Helvetica, Arial, sans-serif;
+  --qb-font-heading:
+    'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont,
+    'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --ifm-font-family-base: var(--qb-font-body);
+  --ifm-heading-font-family: var(--qb-font-heading);
+  --ifm-heading-font-weight: 700;
   --ifm-font-weight-bold: 600;
   --ifm-heading-color: #0f172a;
 
@@ -42,8 +49,8 @@
   --ifm-navbar-link-hover-color: var(--ifm-color-primary);
 
   /* Buttons */
-  --ifm-global-radius: 8px;
-  --ifm-button-border-radius: 8px;
+  --ifm-global-radius: 10px;
+  --ifm-button-border-radius: 10px;
 
   /* Qiaben tokens (brand emerald #008763) */
   --qb-primary: #008763;
@@ -58,12 +65,65 @@
   --qb-border: #e2e8f0;
   --qb-warn: #f59e0b;
   --qb-success: #008763;
+
+  /* Elevated palette — warm neutrals + a restrained gold accent for a more
+     premium feel, layered on top of the emerald brand rather than replacing it. */
+  --qb-navy: #0a1f1a;
+  --qb-bg-warm: #fbfaf7;
+  --qb-bg-cream: #f7f4ed;
+  --qb-gold: #c9a961;
+  --qb-gold-dark: #a8863f;
+  --qb-gold-tint: #faf6ea;
+
+  /* Elevation — soft, brand-tinted shadows instead of flat gray, for depth
+     that still reads as "healthcare-professional" rather than gaudy. */
+  --qb-shadow-sm: 0 2px 8px -2px rgba(15, 23, 42, 0.08);
+  --qb-shadow-md: 0 12px 28px -8px rgba(2, 20, 16, 0.16);
+  --qb-shadow-lg: 0 24px 48px -12px rgba(2, 20, 16, 0.22);
+  --qb-shadow-primary: 0 12px 28px -10px rgba(0, 135, 99, 0.35);
+
+  /* Motion */
+  --qb-ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --qb-transition: 0.2s var(--qb-ease);
 }
 
 html,
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: var(--qb-font-body);
+}
+
+/* Selection + scrollbar — small, consistent brand touches everywhere text is
+   selected or a panel scrolls, instead of the browser default. */
+::selection {
+  background: var(--qb-primary);
+  color: #ffffff;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 999px;
+  border: 2px solid #ffffff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--qb-primary);
+}
+
+/* Focus ring — visible for keyboard users, invisible for mouse users. */
+:focus-visible {
+  outline: 2px solid var(--qb-primary);
+  outline-offset: 2px;
 }
 
 /* Navbar */
@@ -73,6 +133,7 @@ body {
 }
 
 .navbar__title {
+  font-family: var(--qb-font-heading);
   font-weight: 700;
   font-size: 1.05rem;
   letter-spacing: -0.01em;
@@ -80,15 +141,32 @@ body {
 }
 
 .navbar__link {
+  position: relative;
   font-size: 0.92rem;
   font-weight: 500;
   color: var(--qb-text);
-  transition: color 0.15s ease;
+  transition: color var(--qb-transition);
 }
 
 .navbar__link:hover {
   color: var(--qb-primary);
   text-decoration: none;
+}
+
+.navbar__link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 100%;
+  bottom: 2px;
+  height: 2px;
+  background: var(--qb-primary);
+  border-radius: 999px;
+  transition: right var(--qb-transition);
+}
+
+.navbar__link:hover::after {
+  right: 0;
 }
 
 .navbar__logo {
@@ -110,20 +188,25 @@ body {
   font-weight: 600 !important;
   font-size: 0.9rem !important;
   margin-left: 6px;
+  transition: background var(--qb-transition), box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .navbar-cta:hover {
   background: var(--qb-primary-dark);
   color: #ffffff !important;
   text-decoration: none;
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
 }
 
 /* Buttons */
 .button {
-  border-radius: 8px;
+  border-radius: 10px;
   font-weight: 600;
   letter-spacing: -0.005em;
   border: none;
+  transition: background var(--qb-transition), color var(--qb-transition),
+    border-color var(--qb-transition), box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .button--primary {
@@ -134,12 +217,19 @@ body {
 .button--primary:hover {
   background: var(--qb-primary-dark);
   color: #ffffff;
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
 }
 
 .button--secondary {
   background: transparent;
   color: var(--qb-primary);
   border: 1px solid var(--qb-border);
+}
+
+.button--secondary:hover {
+  border-color: var(--qb-primary);
+  transform: translateY(-1px);
 }
 
 /* Footer */
@@ -161,6 +251,7 @@ body {
   font-size: 0.86rem;
   color: var(--ifm-footer-link-color);
   opacity: 0.92;
+  transition: opacity var(--qb-transition), color var(--qb-transition);
 }
 
 .footer__link-item:hover {
@@ -177,12 +268,43 @@ body {
   margin-top: 28px;
 }
 
-/* Headings */
+/* Headings — heading typeface everywhere, tightened tracking at display sizes. */
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--qb-font-heading);
   letter-spacing: -0.02em;
   color: var(--qb-text);
+}
+
+/* Links — subtle underline-grow on hover instead of the flat instant underline. */
+a {
+  transition: color var(--qb-transition);
+}
+
+/* Generic form controls used by bare <input>/<textarea>/<select> across pages
+   (e.g. footer newsletter, booking forms) get a consistent focus treatment. */
+input,
+textarea,
+select {
+  font-family: var(--qb-font-body);
+  transition: border-color var(--qb-transition), box-shadow var(--qb-transition);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: var(--qb-primary) !important;
+  box-shadow: 0 0 0 3px var(--qb-bg-tint);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--qb-border);
 }
 
 /* Marketing page body — wraps WP-imported MDX content */
@@ -253,10 +375,30 @@ h3 {
   border-radius: 12px;
   margin: 16px auto;
   display: block;
+  box-shadow: var(--qb-shadow-sm);
 }
 
 .qb-mdxBody a {
   color: var(--qb-primary);
+  text-underline-offset: 3px;
+}
+
+.qb-mdxBody a:hover {
+  color: var(--qb-primary-dark);
+  text-decoration: underline;
+}
+
+.qb-mdxBody blockquote {
+  margin: 20px 0;
+  padding: 4px 24px;
+  border-left: 3px solid var(--qb-gold);
+  background: var(--qb-gold-tint);
+  border-radius: 0 8px 8px 0;
+  color: var(--qb-text-soft);
+}
+
+.qb-mdxBody blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 /* Top utility bar (above navbar) — used on real qiaben.com */

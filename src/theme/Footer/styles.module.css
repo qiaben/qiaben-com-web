@@ -1,5 +1,7 @@
 .footer {
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background:
+    radial-gradient(at 10% 0%, rgba(255, 255, 255, 0.06), transparent 45%),
+    linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
   color: rgba(255, 255, 255, 0.92);
   padding: 56px 24px 20px;
 }
@@ -39,6 +41,7 @@
 }
 
 .title {
+  font-family: var(--qb-font-heading);
   font-size: 1.02rem;
   font-weight: 700;
   color: #ffffff;
@@ -73,17 +76,18 @@
 .socials a {
   width: 32px;
   height: 32px;
-  border-radius: 8px;
+  border-radius: 9px;
   background: rgba(255, 255, 255, 0.14);
   color: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.15s ease;
+  transition: background var(--qb-transition), transform var(--qb-transition);
 }
 
 .socials a:hover {
   background: rgba(255, 255, 255, 0.28);
+  transform: translateY(-2px);
 }
 
 .list {
@@ -130,18 +134,19 @@
 
 .newsletterForm button {
   padding: 12px 14px;
-  border-radius: 8px;
+  border-radius: 9px;
   border: none;
-  background: #f5c518;
+  background: linear-gradient(135deg, var(--qb-gold) 0%, var(--qb-gold-dark) 100%);
   color: #1f2937;
   font-weight: 700;
   font-size: 0.94rem;
   cursor: pointer;
-  transition: background 0.15s ease;
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .newsletterForm button:hover {
-  background: #e0b100;
+  box-shadow: 0 12px 24px -10px rgba(201, 169, 97, 0.6);
+  transform: translateY(-1px);
 }
 
 .bottom {

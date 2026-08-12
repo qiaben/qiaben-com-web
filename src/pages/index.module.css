@@ -27,6 +27,7 @@
 }
 
 .sectionTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.7rem, 3.2vw, 2.4rem);
   font-weight: 800;
   letter-spacing: -0.025em;
@@ -46,7 +47,7 @@
 .ctaPrimary,
 .ctaSecondary {
   padding: 14px 26px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-size: 0.98rem;
   font-weight: 700;
   text-decoration: none;
@@ -103,6 +104,7 @@
 }
 
 .heroTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(2.2rem, 4.5vw, 3.6rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -130,7 +132,7 @@
   background: #ffffff;
   border-radius: 16px;
   padding: 30px 28px;
-  box-shadow: 0 30px 60px -24px rgba(2, 20, 16, 0.4);
+  box-shadow: var(--qb-shadow-lg);
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -139,6 +141,7 @@
 }
 
 .bookingTitle {
+  font-family: var(--qb-font-heading);
   font-size: 1.35rem;
   font-weight: 800;
   color: var(--qb-text);
@@ -156,7 +159,7 @@
 .bookingCard input[type='tel'] {
   width: 100%;
   padding: 12px 14px;
-  border-radius: 8px;
+  border-radius: 9px;
   border: 1px solid var(--qb-border);
   font-size: 0.92rem;
   color: var(--qb-text);
@@ -191,7 +194,7 @@
   margin-top: 4px;
   padding: 15px 16px;
   border: none;
-  border-radius: 8px;
+  border-radius: 9px;
   background: var(--qb-primary);
   color: #ffffff;
   font-weight: 700;
@@ -267,7 +270,7 @@
   height: auto;
   border-radius: 18px;
   display: block;
-  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.35);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .whoWeAreStats {
@@ -285,6 +288,7 @@
 }
 
 .certTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.6rem, 2.6vw, 2rem);
   font-weight: 800;
   color: var(--qb-text);
@@ -364,7 +368,7 @@
 .serviceCard:hover {
   border-color: var(--qb-primary);
   transform: translateY(-3px);
-  box-shadow: 0 16px 32px -20px rgba(0, 135, 99, 0.4);
+  box-shadow: var(--qb-shadow-primary);
   text-decoration: none;
   color: var(--qb-text);
 }
@@ -479,7 +483,7 @@
 
 .specialty:hover {
   transform: translateY(-5px) scale(1.03);
-  box-shadow: 0 18px 32px -16px rgba(0, 0, 0, 0.35);
+  box-shadow: var(--qb-shadow-lg);
 }
 
 .specialtyIcon {
@@ -614,7 +618,7 @@
   background: var(--qb-primary);
   color: #ffffff;
   padding: 14px 26px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-weight: 700;
   text-decoration: none;
   transition: filter 0.2s ease, transform 0.2s ease;
@@ -671,6 +675,7 @@
 }
 
 .testimonialsTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.6rem, 2.8vw, 2.1rem);
   font-weight: 800;
   color: #ffffff;
@@ -731,7 +736,7 @@
 
 .resultCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 20px 40px -24px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .resultValue {
@@ -763,7 +768,7 @@
   background: var(--qb-primary);
   color: #ffffff;
   padding: 11px 18px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-weight: 700;
   font-size: 0.88rem;
   text-decoration: none;
@@ -833,6 +838,7 @@
 }
 
 .closingTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.8rem, 3.5vw, 2.6rem);
   font-weight: 800;
   letter-spacing: -0.025em;

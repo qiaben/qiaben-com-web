@@ -1,18 +1,25 @@
 .band {
-  padding: 80px 24px;
-  background: var(--qb-dark);
+  position: relative;
+  padding: 84px 24px;
+  background:
+    radial-gradient(at 15% 20%, rgba(0, 135, 99, 0.35), transparent 55%),
+    radial-gradient(at 85% 80%, rgba(201, 169, 97, 0.12), transparent 50%),
+    linear-gradient(160deg, #0a1f1a 0%, #000000 100%);
   color: #f1f5f9;
   text-align: center;
+  overflow: hidden;
 }
 
 .title {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.6rem, 3vw, 2.2rem);
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: -0.025em;
   line-height: 1.15;
   margin: 0 auto 14px;
   max-width: 26ch;
   color: #ffffff;
+  position: relative;
 }
 
 .desc {
@@ -32,23 +39,25 @@
 
 .ctaPrimary,
 .ctaSecondary {
-  padding: 12px 22px;
-  border-radius: 8px;
+  padding: 12px 24px;
+  border-radius: 9px;
   font-size: 0.96rem;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  transition: background var(--qb-transition), color var(--qb-transition),
+    border-color var(--qb-transition), box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .ctaPrimary {
-  background: var(--qb-primary);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
   color: #ffffff;
 }
 
 .ctaPrimary:hover {
-  background: var(--qb-primary-dark);
   color: #ffffff;
   text-decoration: none;
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
 }
 
 .ctaSecondary {
@@ -61,4 +70,5 @@
   border-color: #ffffff;
   color: #ffffff;
   text-decoration: none;
+  transform: translateY(-1px);
 }

@@ -27,6 +27,7 @@
 }
 
 .postTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.8rem, 3.2vw, 2.4rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -94,7 +95,7 @@
   justify-content: center;
   width: 34px;
   height: 34px;
-  border-radius: 8px;
+  border-radius: 9px;
   border: 1px solid var(--qb-border);
   color: var(--qb-primary);
   background: var(--qb-bg);
@@ -122,6 +123,7 @@
   background: var(--qb-bg-soft);
   border-radius: 12px;
   padding: 18px 22px;
+  box-shadow: var(--qb-shadow-sm);
 }
 
 .authorCard img {
@@ -161,7 +163,7 @@
 .searchBox {
   display: flex;
   border: 1px solid var(--qb-border);
-  border-radius: 8px;
+  border-radius: 9px;
   overflow: hidden;
 }
 
@@ -192,6 +194,7 @@
 
 /* ---------- LAST POST ---------- */
 .lastPost h3 {
+  font-family: var(--qb-font-heading);
   font-size: 1.05rem;
   font-weight: 800;
   color: var(--qb-text);
@@ -229,7 +232,7 @@
 .lastPostItem img {
   width: 64px;
   height: 64px;
-  border-radius: 8px;
+  border-radius: 9px;
   object-fit: cover;
   flex-shrink: 0;
 }
@@ -237,7 +240,7 @@
 .lastPostFallback {
   width: 64px;
   height: 64px;
-  border-radius: 8px;
+  border-radius: 9px;
   background: var(--qb-bg-tint);
   display: flex;
   align-items: center;
@@ -271,9 +274,11 @@
   background: var(--qb-bg-soft);
   border-radius: 16px;
   padding: 24px 20px;
+  box-shadow: var(--qb-shadow-sm);
 }
 
 .revenueBox h3 {
+  font-family: var(--qb-font-heading);
   font-size: 1.1rem;
   font-weight: 800;
   color: var(--qb-text);

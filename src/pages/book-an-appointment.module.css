@@ -19,7 +19,12 @@
 }
 
 .widgetSection {
-  max-width: 900px;
+  max-width: 1360px;
   margin: 48px auto 80px;
   padding: 0 24px;
+}
+
+.widgetSection :global(.calendly-inline-widget) {
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(15, 23, 42, 0.08);
 }
