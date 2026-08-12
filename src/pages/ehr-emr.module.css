@@ -9,6 +9,7 @@
 }
 
 .sectionTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.7rem, 3vw, 2.3rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -58,6 +59,7 @@
 }
 
 .heroSubtitle {
+  font-family: var(--qb-font-heading);
   font-size: 1.2rem;
   font-weight: 700;
   color: #ffffff;
@@ -126,8 +128,14 @@
   border: 1px solid var(--qb-border);
   border-radius: 16px;
   padding: 32px 28px;
-  box-shadow: 0 20px 45px -32px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-md);
   height: 100%;
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
+}
+
+.platformCard:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--qb-shadow-lg);
 }
 
 .platformCard h3 {
@@ -210,7 +218,7 @@
   background: var(--qb-primary);
   color: #ffffff;
   padding: 12px 22px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-weight: 700;
   font-size: 0.92rem;
   text-decoration: none;
@@ -228,7 +236,7 @@
   border: 1px solid var(--qb-primary);
   color: var(--qb-primary);
   padding: 12px 22px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-weight: 700;
   font-size: 0.92rem;
   text-decoration: none;
@@ -263,7 +271,13 @@
   background: var(--qb-bg);
   border-radius: 16px;
   padding: 26px 24px;
-  box-shadow: 0 20px 45px -32px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-sm);
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
+}
+
+.whyCard:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .whyCard h3 {
@@ -287,6 +301,7 @@
 }
 
 .journeyTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.6rem, 2.8vw, 2.1rem);
   font-weight: 800;
   color: var(--qb-text);
@@ -305,7 +320,7 @@
   background: var(--qb-primary);
   color: #ffffff;
   padding: 14px 30px;
-  border-radius: 8px;
+  border-radius: 9px;
   font-weight: 700;
   text-decoration: none;
   transition: background 0.2s ease;

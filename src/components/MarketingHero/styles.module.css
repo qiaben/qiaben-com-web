@@ -8,21 +8,25 @@
 }
 
 .eyebrow {
-  display: inline-block;
-  padding: 6px 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
   border-radius: 980px;
   background: var(--qb-bg-tint);
+  border: 1px solid rgba(0, 135, 99, 0.15);
   color: var(--qb-primary-dark);
   font-size: 0.74rem;
   font-weight: 600;
   letter-spacing: 0.06em;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
   text-transform: uppercase;
 }
 
 .title {
+  font-family: var(--qb-font-heading);
   font-size: clamp(2rem, 4.5vw, 3.4rem);
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: -0.025em;
   line-height: 1.1;
   margin: 0 auto 16px;
@@ -47,23 +51,25 @@
 
 .ctaPrimary,
 .ctaSecondary {
-  padding: 12px 22px;
-  border-radius: 8px;
+  padding: 12px 24px;
+  border-radius: 9px;
   font-size: 0.96rem;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  transition: background var(--qb-transition), color var(--qb-transition),
+    border-color var(--qb-transition), box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .ctaPrimary {
-  background: var(--qb-primary);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
   color: #ffffff;
 }
 
 .ctaPrimary:hover {
-  background: var(--qb-primary-dark);
   color: #ffffff;
   text-decoration: none;
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
 }
 
 .ctaSecondary {
@@ -76,4 +82,5 @@
   border-color: var(--qb-primary);
   color: var(--qb-primary);
   text-decoration: none;
+  transform: translateY(-1px);
 }

@@ -25,6 +25,7 @@
 }
 
 .introTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(2rem, 3.6vw, 2.8rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -40,6 +41,7 @@
 }
 
 .sectionSubtitle {
+  font-family: var(--qb-font-heading);
   font-size: 1.5rem;
   font-weight: 800;
   margin: 0 0 22px;
@@ -69,7 +71,7 @@
 .featureCard:hover {
   transform: translateY(-3px);
   border-color: var(--qb-primary);
-  box-shadow: 0 16px 32px -20px rgba(0, 135, 99, 0.4);
+  box-shadow: var(--qb-shadow-primary);
 }
 
 .featureIcon {
@@ -85,6 +87,7 @@
 }
 
 .featureCard h3 {
+  font-family: var(--qb-font-heading);
   font-size: 1.05rem;
   font-weight: 700;
   margin: 0 0 8px;
@@ -134,6 +137,7 @@
 }
 
 .howItWorksTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.8rem, 3vw, 2.3rem);
   font-weight: 800;
   color: #ffffff;
@@ -224,6 +228,7 @@
 }
 
 .benefitTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.8rem, 3vw, 2.4rem);
   font-weight: 800;
   margin: 0;
@@ -244,6 +249,7 @@
 }
 
 .eyebrowDark {
+  font-family: var(--qb-font-heading);
   font-size: 1.6rem;
   font-weight: 800;
   color: #f0b400;
@@ -299,7 +305,7 @@
 
 .planCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 20px 40px -24px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .planCardPopular {
@@ -329,6 +335,7 @@
 }
 
 .planName {
+  font-family: var(--qb-font-heading);
   font-size: 1.2rem;
   font-weight: 800;
   margin: 8px 0 6px;
@@ -405,7 +412,7 @@
   display: block;
   text-align: center;
   padding: 12px 20px;
-  border-radius: 8px;
+  border-radius: 9px;
   border: 1px solid var(--qb-primary);
   color: var(--qb-primary);
   font-weight: 700;
@@ -457,10 +464,11 @@
   height: auto;
   border-radius: 18px;
   display: block;
-  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.35);
+  box-shadow: var(--qb-shadow-lg);
 }
 
 .closingTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.6rem, 2.8vw, 2.2rem);
   font-weight: 800;
   line-height: 1.25;

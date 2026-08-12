@@ -1,20 +1,36 @@
 .bookingCard {
   background: #ffffff;
-  border-radius: 16px;
-  padding: 30px 28px;
-  box-shadow: 0 30px 60px -24px rgba(2, 20, 16, 0.4);
+  border-radius: 18px;
+  padding: 32px 28px;
+  box-shadow: var(--qb-shadow-lg);
+  border: 1px solid rgba(15, 23, 42, 0.04);
   display: flex;
   flex-direction: column;
   gap: 12px;
   max-width: 460px;
   margin: 0 auto;
+  transition: box-shadow var(--qb-transition);
 }
 
 .bookingTitle {
+  position: relative;
+  font-family: var(--qb-font-heading);
   font-size: 1.35rem;
   font-weight: 800;
   color: var(--qb-text);
-  margin: 0 0 4px;
+  margin: 0 0 12px;
+  padding-bottom: 12px;
+}
+
+.bookingTitle::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 40px;
+  height: 3px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--qb-primary), var(--qb-gold));
 }
 
 .bookingRow {
@@ -28,11 +44,17 @@
 .bookingCard input[type='tel'] {
   width: 100%;
   padding: 12px 14px;
-  border-radius: 8px;
+  border-radius: 9px;
   border: 1px solid var(--qb-border);
   font-size: 0.92rem;
   color: var(--qb-text);
   background: #ffffff;
+}
+
+.bookingCard input[type='text']:focus,
+.bookingCard input[type='email']:focus,
+.bookingCard input[type='tel']:focus {
+  border-color: var(--qb-primary) !important;
 }
 
 .bookingConsent {
@@ -63,15 +85,20 @@
   margin-top: 4px;
   padding: 15px 16px;
   border: none;
-  border-radius: 8px;
-  background: var(--qb-primary);
+  border-radius: 9px;
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
   color: #ffffff;
   font-weight: 700;
   font-size: 0.96rem;
   cursor: pointer;
-  transition: filter 0.15s ease;
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
 }
 
 .bookingSubmit:hover {
-  filter: brightness(1.08);
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
+}
+
+.bookingSubmit:active {
+  transform: translateY(0);
 }

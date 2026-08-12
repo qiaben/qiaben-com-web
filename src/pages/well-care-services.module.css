@@ -14,6 +14,7 @@
 }
 
 .sectionTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.7rem, 3vw, 2.3rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -29,6 +30,7 @@
 }
 
 .titleBar h1 {
+  font-family: var(--qb-font-heading);
   max-width: 1120px;
   margin: 0 auto;
   font-size: clamp(2rem, 4vw, 3rem);
@@ -70,7 +72,7 @@
   height: auto;
   border-radius: 16px;
   display: block;
-  box-shadow: 0 24px 48px -24px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-lg);
 }
 
 /* ---------- WHY CHOOSE US ---------- */
@@ -127,6 +129,7 @@
 }
 
 .whyTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.5rem, 2.6vw, 2rem);
   font-weight: 800;
   color: #0a0f1a;
@@ -151,7 +154,7 @@
   background: #ffffff;
   border-radius: 4px;
   padding: 40px 32px;
-  box-shadow: 0 20px 45px -28px rgba(15, 23, 42, 0.45);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .whyIcon {
@@ -165,6 +168,7 @@
 }
 
 .whyCard h3 {
+  font-family: var(--qb-font-heading);
   font-size: 1.25rem;
   font-weight: 800;
   color: #0a0f1a;
@@ -207,6 +211,7 @@
   background: var(--qb-bg-soft);
   border-radius: 10px;
   padding: 18px 22px;
+  box-shadow: var(--qb-shadow-sm);
 }
 
 .faqQ {
@@ -246,7 +251,7 @@
   border-radius: 14px;
   overflow: hidden;
   text-decoration: none;
-  box-shadow: 0 20px 40px -28px rgba(0, 135, 99, 0.5);
+  box-shadow: var(--qb-shadow-primary);
   transition: transform 0.2s ease;
 }
 
@@ -267,6 +272,7 @@
 }
 
 .blogCardBody h3 {
+  font-family: var(--qb-font-heading);
   font-size: 1rem;
   font-weight: 700;
   color: #ffffff;

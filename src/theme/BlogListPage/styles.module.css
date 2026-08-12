@@ -32,7 +32,7 @@
   max-width: 420px;
   margin: 0 0 32px;
   border: 1px solid var(--qb-border);
-  border-radius: 8px;
+  border-radius: 9px;
   overflow: hidden;
 }
 
@@ -93,12 +93,13 @@
   overflow: hidden;
   text-decoration: none;
   color: inherit;
+  box-shadow: var(--qb-shadow-sm);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 20px 45px -30px rgba(15, 23, 42, 0.35);
+  box-shadow: var(--qb-shadow-md);
   text-decoration: none;
   color: inherit;
 }
@@ -125,6 +126,7 @@
 }
 
 .cardTitle {
+  font-family: var(--qb-font-heading);
   font-size: 1.15rem;
   font-weight: 800;
   color: var(--qb-text);

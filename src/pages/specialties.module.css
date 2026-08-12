@@ -9,6 +9,7 @@
 }
 
 .sectionTitle {
+  font-family: var(--qb-font-heading);
   font-size: clamp(1.8rem, 3vw, 2.4rem);
   font-weight: 800;
   letter-spacing: -0.02em;
@@ -116,7 +117,7 @@
 
 a.specialtyCard:hover {
   transform: translateY(-3px);
-  box-shadow: 0 16px 32px -22px rgba(0, 135, 99, 0.45);
+  box-shadow: var(--qb-shadow-primary);
   text-decoration: none;
 }
 
@@ -145,6 +146,7 @@ a.specialtyCard:hover {
   gap: 14px;
   justify-content: center;
   text-align: center;
+  box-shadow: var(--qb-shadow-sm);
 }
 
 .dentalBanner span {
@@ -181,7 +183,13 @@ a.specialtyCard:hover {
   background: var(--qb-bg);
   border-radius: 16px;
   padding: 28px 24px;
-  box-shadow: 0 20px 45px -32px rgba(15, 23, 42, 0.3);
+  box-shadow: var(--qb-shadow-sm);
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
+}
+
+.whyCard:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--qb-shadow-md);
 }
 
 .whyIcon {

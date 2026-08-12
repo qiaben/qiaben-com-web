@@ -8,9 +8,14 @@
   display: flex;
   align-items: center;
   border: 1px solid var(--qb-border);
-  border-radius: 8px;
+  border-radius: 9px;
   overflow: hidden;
   background: #ffffff;
+  transition: border-color var(--qb-transition);
+}
+
+.collapsedRow:focus-within {
+  border-color: var(--qb-primary);
 }
 
 .trigger {
@@ -99,6 +104,10 @@
   font-size: 0.9rem;
   color: var(--qb-text);
   cursor: pointer;
+}
+
+.option {
+  transition: background var(--qb-transition);
 }
 
 .option:hover {

@@ -176,8 +176,8 @@
 }
 
 .dropdownLink:hover {
-  background: var(--qb-dark-soft);
-  color: #ffffff;
+  background: var(--qb-bg-tint);
+  color: var(--qb-primary-dark);
   text-decoration: none;
 }
 
@@ -189,20 +189,21 @@
   justify-content: center;
   margin-right: 28px;
   padding: 10px 20px;
-  border-radius: 5px;
-  background: var(--qb-primary);
+  border-radius: 9px;
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
   color: #ffffff;
   font-weight: 600;
   font-size: 0.86rem;
   text-decoration: none;
-  transition: background 0.2s ease;
+  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
   white-space: nowrap;
 }
 
 .ctaCol:hover {
-  background: var(--qb-primary-dark);
   color: #ffffff;
   text-decoration: none;
+  box-shadow: var(--qb-shadow-primary);
+  transform: translateY(-1px);
 }
 
 /* ---------- MOBILE BURGER ---------- */

@@ -7,6 +7,10 @@ const isProd = process.env.DEPLOY_ENV === 'production';
 // Klaviyo onsite script company_id. Set via env var or repo variable at deploy time.
 // Leave empty until provided — embed divs render but stay empty without the loader.
 const KLAVIYO_COMPANY_ID = process.env.KLAVIYO_COMPANY_ID || '';
+// Tidio public key (the part before ".js" in //code.tidio.co/<key>.js).
+// Same key used by the live qiaben.com chat widget. Override via
+// TIDIO_PUBLIC_KEY env var if this ever needs to point elsewhere.
+const TIDIO_PUBLIC_KEY = process.env.TIDIO_PUBLIC_KEY || 'c4xmkajfbp230qqhrln4spkryvrh92pp';
 
 const config: Config = {
   title: 'Qiaben Health',
@@ -34,6 +38,24 @@ const config: Config = {
 
   // Mirror analytics from live qiaben.com (WP).
   headTags: [
+    // Premium heading/body typeface pairing (Plus Jakarta Sans + Inter).
+    // Falls back to the system font stack in custom.css until this loads,
+    // so there's never an invisible-text flash.
+    {
+      tagName: 'link',
+      attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap',
+      },
+    },
     // Facebook Pixel
     {
       tagName: 'script',
@@ -76,6 +98,19 @@ const config: Config = {
           },
         ]
       : []),
+    // Tidio live-chat widget — same bottom-right bubble as qiaben.com.
+    // Renders nothing until TIDIO_PUBLIC_KEY is set at build time.
+    ...(TIDIO_PUBLIC_KEY
+      ? [
+          {
+            tagName: 'script',
+            attributes: {
+              async: 'true',
+              src: `//code.tidio.co/${TIDIO_PUBLIC_KEY}.js`,
+            } as Record<string, string>,
+          },
+        ]
+      : []),
   ],
 
   i18n: {
@@ -111,20 +146,28 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        // Primary GTM container (mirrors what's on qiaben.com).
-        googleTagManager: {
-          containerId: 'GTM-PJJZ78Q3',
-        },
-        // GA4 + Google Ads + GA4 server-side — multiple gtag IDs in one config.
-        gtag: {
-          trackingID: [
-            'G-M2TQG7MBXB',
-            'G-DEQLSJEEPP',
-            'GT-KTRJXSJ4',
-            'AW-11217555008',
-          ],
-          anonymizeIP: false,
-        },
+        // Analytics only run in production — staging/dev builds skip GTM/gtag
+        // entirely so local work never depends on googletagmanager.com being
+        // reachable (avoids "window.gtag is not a function" crashes when the
+        // external script is blocked, offline, or simply not yet loaded).
+        ...(isProd
+          ? {
+              // Primary GTM container (mirrors what's on qiaben.com).
+              googleTagManager: {
+                containerId: 'GTM-PJJZ78Q3',
+              },
+              // GA4 + Google Ads + GA4 server-side — multiple gtag IDs in one config.
+              gtag: {
+                trackingID: [
+                  'G-M2TQG7MBXB',
+                  'G-DEQLSJEEPP',
+                  'GT-KTRJXSJ4',
+                  'AW-11217555008',
+                ],
+                anonymizeIP: false,
+              },
+            }
+          : {}),
       } satisfies Preset.Options,
     ],
   ],
