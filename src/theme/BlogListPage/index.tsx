@@ -6,6 +6,7 @@ import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { useLocation, useHistory } from '@docusaurus/router';
 import { PageMetadata, HtmlClassNameProvider, ThemeClassNames } from '@docusaurus/theme-common';
+import Seo from '@site/src/components/Seo';
 import type { Props } from '@theme/BlogListPage';
 import styles from './styles.module.css';
 
@@ -121,6 +122,7 @@ export default function BlogListPage(props: Props): ReactNode {
   return (
     <HtmlClassNameProvider className={clsx(ThemeClassNames.wrapper.blogPages, ThemeClassNames.page.blogListPage)}>
       <PageMetadata title={blogTitle} description={blogDescription} />
+      <Seo title={blogTitle} description={blogDescription} />
       <Layout>
         <div className={styles.page}>
           <section className={styles.titleBar}>

@@ -12,6 +12,7 @@ import {
 } from '@docusaurus/theme-common';
 import { BlogPostProvider, useBlogPost } from '@docusaurus/plugin-content-blog/client';
 import BookingForm from '@site/src/components/BookingForm';
+import Seo from '@site/src/components/Seo';
 import blogThumbnails from '@site/src/data/blogThumbnails.json';
 import type { Props } from '@theme/BlogPostPage';
 import styles from './styles.module.css';
@@ -227,6 +228,11 @@ export default function BlogPostPage(props: Props): ReactNode {
     <BlogPostProvider content={props.content} isBlogPostPage>
       <HtmlClassNameProvider className={clsx(ThemeClassNames.wrapper.blogPages, ThemeClassNames.page.blogPostPage)}>
         <PageMetadata title={BlogPostContent.metadata.title} description={BlogPostContent.metadata.description} />
+        <Seo
+          title={BlogPostContent.metadata.title}
+          description={BlogPostContent.metadata.description}
+          type="article"
+        />
         <BlogPostPageContent sidebarItems={props.sidebar.items}>
           <BlogPostContent />
         </BlogPostPageContent>

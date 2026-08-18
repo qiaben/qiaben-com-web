@@ -12,6 +12,12 @@ const KLAVIYO_COMPANY_ID = process.env.KLAVIYO_COMPANY_ID || '';
 // TIDIO_PUBLIC_KEY env var if this ever needs to point elsewhere.
 const TIDIO_PUBLIC_KEY = process.env.TIDIO_PUBLIC_KEY || 'c4xmkajfbp230qqhrln4spkryvrh92pp';
 
+// Site origin + base path, reused below for both Docusaurus's own url/baseUrl
+// fields and the absolute URLs baked into the sitewide JSON-LD.
+const SITE_ORIGIN = isProd ? 'https://qiaben.com' : 'https://qiaben.github.io';
+const BASE_PATH = isProd ? '/' : '/qiaben-com-web/';
+const SITE_URL = `${SITE_ORIGIN}${BASE_PATH}`;
+
 const config: Config = {
   title: 'Qiaben Health',
   tagline: 'Streamlined billing. Stronger revenues. Happier practices.',
@@ -21,8 +27,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: isProd ? 'https://qiaben.com' : 'https://qiaben.github.io',
-  baseUrl: isProd ? '/' : '/qiaben-com-web/',
+  url: SITE_ORIGIN,
+  baseUrl: BASE_PATH,
 
   organizationName: 'qiaben',
   projectName: 'qiaben-com-web',
@@ -38,6 +44,60 @@ const config: Config = {
 
   // Mirror analytics from live qiaben.com (WP).
   headTags: [
+    // ---------- SEO: sitewide static tags ----------
+    // Same value on every page, so these live here once instead of being
+    // repeated per-page. Per-page tags (canonical, og:type, twitter:title,
+    // WebPage JSON-LD) come from <Seo> — see src/components/Seo and the
+    // swizzled Layout/BlogListPage/BlogPostPage that mount it.
+    {
+      tagName: 'meta',
+      attributes: { name: 'robots', content: 'max-image-preview:large' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:site_name', content: 'Qiaben Health' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'apple-touch-icon', href: `${BASE_PATH}img/favicon.png` },
+    },
+    // Organization + WebSite JSON-LD — identical on every page (unlike the
+    // per-page WebPage/Article block from <Seo>), so it belongs here rather
+    // than being re-emitted by every route.
+    {
+      tagName: 'script',
+      attributes: { type: 'application/ld+json' },
+      innerHTML: JSON.stringify([
+        {
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          '@id': `${SITE_URL}#organization`,
+          name: 'Qiaben Healthcare Solutions',
+          url: SITE_URL,
+          logo: {
+            '@type': 'ImageObject',
+            url: `${SITE_URL}img/logo-navbar.png`,
+            width: 240,
+            height: 80,
+          },
+          sameAs: [
+            'https://www.facebook.com/qiaben.usa',
+            'https://twitter.com/Qiaben_usa',
+            'https://www.youtube.com/@Qiaben',
+            'https://www.linkedin.com/company/qiaben/',
+          ],
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'WebSite',
+          '@id': `${SITE_URL}#website`,
+          name: 'Qiaben Health',
+          url: SITE_URL,
+          description: 'Professional practice management services',
+          publisher: { '@id': `${SITE_URL}#organization` },
+        },
+      ]),
+    },
     // Premium heading/body typeface pairing (Plus Jakarta Sans + Inter).
     // Falls back to the system font stack in custom.css until this loads,
     // so there's never an invisible-text flash.

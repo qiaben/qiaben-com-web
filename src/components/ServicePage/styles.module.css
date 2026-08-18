@@ -27,7 +27,7 @@
 }
 
 .title {
-  font-size: clamp(2rem, 4.5vw, 3.4rem);
+  font-size: clamp(2.2rem, 5.5vw, 4.5rem);
   font-weight: 700;
   letter-spacing: -0.025em;
   line-height: 1.1;
@@ -37,7 +37,7 @@
 }
 
 .subtitle {
-  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  font-size: clamp(1.05rem, 1.7vw, 1.25rem);
   color: var(--qb-text-soft);
   max-width: 60ch;
   margin: 0 auto 28px;

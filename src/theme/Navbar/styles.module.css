@@ -33,7 +33,7 @@
 }
 
 .logo {
-  height: 74px;
+  height: 60px;
   width: auto;
   max-width: 100%;
 }
@@ -52,10 +52,10 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 32px;
+  gap: 24px;
   row-gap: 8px;
   flex-wrap: wrap;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   min-width: 0;
 }
 
@@ -188,12 +188,12 @@
   align-items: center;
   justify-content: center;
   margin-right: 28px;
-  padding: 10px 20px;
+  padding: 12px 24px;
   border-radius: 9px;
   background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
   color: #ffffff;
   font-weight: 600;
-  font-size: 0.86rem;
+  font-size: 0.94rem;
   text-decoration: none;
   transition: box-shadow var(--qb-transition), transform var(--qb-transition);
   white-space: nowrap;
@@ -295,12 +295,12 @@
   }
 
   .logo {
-    height: 52px;
+    height: 46px;
   }
 
   .ctaCol {
     margin-right: 12px;
-    padding: 10px 16px;
-    font-size: 0.86rem;
+    padding: 10px 18px;
+    font-size: 0.9rem;
   }
 }
