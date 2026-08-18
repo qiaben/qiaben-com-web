@@ -475,16 +475,3 @@
   margin: 0 0 32px;
   color: var(--qb-text);
 }
-
-/* ---------- BRAND BAND ---------- */
-.brandBand {
-  padding: 40px 24px;
-  text-align: center;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
-}
-
-.brandBandLogo {
-  height: 56px;
-  width: auto;
-  filter: brightness(0) invert(1);
-}

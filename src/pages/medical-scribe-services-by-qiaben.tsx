@@ -190,11 +190,6 @@ export default function MedicalScribeServices(): ReactNode {
             </Reveal>
           </div>
         </section>
-
-        {/* BRAND BAND */}
-        <div className={styles.brandBand}>
-          <img src={useBaseUrl('img/logo-navbar.png')} alt="Qiaben Health" className={styles.brandBandLogo} />
-        </div>
       </div>
     </Layout>
   );
