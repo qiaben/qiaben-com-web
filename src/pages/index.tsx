@@ -248,9 +248,21 @@ export default function Home(): ReactNode {
         <Reveal>
           <section className={styles.certs}>
             <p className={styles.certTitle}>Certified by</p>
-            <div className={styles.certRow}>
-              <img src={useBaseUrl('/img/uploads/2025/03/HIPAA-COMPLIANCE-2-768x432.png')} alt="HIPAA compliant" />
-              <img src={useBaseUrl('/img/uploads/2025/10/openemr-logo-300x83-1.jpeg')} alt="OpenEMR certified" />
+            <div className={styles.certViewport}>
+              <div className={styles.certTrack}>
+                {[0, 1].map((i) => (
+                  <div className={styles.certRow} key={i} aria-hidden={i === 1}>
+                    <img
+                      src={useBaseUrl('/img/uploads/2025/10/hipaa-compliance-1-300x120.jpg')}
+                      alt={i === 0 ? 'HIPAA compliant' : ''}
+                    />
+                    <img
+                      src={useBaseUrl('/img/uploads/2025/10/openemr-logo-300x83-1.jpeg')}
+                      alt={i === 0 ? 'OpenEMR certified' : ''}
+                    />
+                  </div>
+                ))}
+              </div>
             </div>
           </section>
         </Reveal>
@@ -440,11 +452,6 @@ export default function Home(): ReactNode {
             <BookingForm title="Book an Appointment" />
           </section>
         </Reveal>
-
-        {/* BRAND BAND */}
-        <div className={styles.brandBand}>
-          <img src={useBaseUrl('img/logo-navbar.png')} alt="Qiaben Health" className={styles.brandBandLogo} />
-        </div>
       </div>
     </Layout>
   );
