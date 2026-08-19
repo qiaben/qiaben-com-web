@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './physician-credentialing.module.css';
 
 const checklist = [
@@ -104,6 +105,7 @@ export default function PhysicianCredentialing(): ReactNode {
     <Layout
       title="Physician Credentialing Service - Qiaben Health"
       description="Physician Credentialing Service — Qiaben Health handles documentation, applications, and monitoring so your practice gets credentialed accurately and on time.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>

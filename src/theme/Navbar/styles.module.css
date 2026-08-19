@@ -33,9 +33,9 @@
 }
 
 .logo {
-  height: 60px;
+  height: 80px;
   width: auto;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 /* ---------- MIDDLE (utility row + nav row, stacked) ---------- */
@@ -295,7 +295,7 @@
   }
 
   .logo {
-    height: 46px;
+    height: 32px;
   }
 
   .ctaCol {

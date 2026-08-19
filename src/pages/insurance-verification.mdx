@@ -6,6 +6,35 @@ description: "Insurance verification is a critical step in the healthcare proces
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'What is insurance verification?',
+    answer:
+      "Insurance verification is the process of confirming a patient's insurance coverage and benefits before providing medical or dental services. It ensures that the services are covered by the patient's insurance plan and helps avoid unexpected costs for both the provider and the patient.",
+  },
+  {
+    question: 'Why is insurance verification important?',
+    answer:
+      'Insurance verification is crucial for minimizing claim rejections and denials, ensuring accurate billing, and improving the overall efficiency of the billing process. It helps providers confirm coverage details, patient eligibility, and benefit limits, which ultimately enhances the patient experience and reduces financial risk.',
+  },
+  {
+    question: 'How does Qiaben Health handle insurance verification?',
+    answer:
+      'Qiaben Health utilizes advanced technology to streamline the insurance verification process. Our system quickly and accurately verifies insurance information, reduces manual errors, and ensures timely confirmation of coverage and benefits. This technology helps us deliver efficient and reliable services to both providers and patients.',
+  },
+  {
+    question: 'What information do I need to provide for insurance verification?',
+    answer:
+      "To perform insurance verification, we typically need the patient's full name, date of birth, insurance policy number, and the name of the insurance company. Additional information such as the patient's group number or employer details might also be required depending on the insurance provider.",
+  },
+  {
+    question: 'How long does the insurance verification process take?',
+    answer:
+      'With our advanced technology, Qiaben Health aims to complete insurance verification as quickly as possible, often within minutes. However, the exact time may vary depending on the insurance company and the complexity of the verification request.',
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -80,6 +109,8 @@ Our innovative technology streamlines insurance verification, ensuring accurate 
 ### FAQ's (Frequently Asked Questions)
 
 </Reveal>
+
+<FaqSchema faqs={faqs} />
 
 <Reveal delay={160}>
 

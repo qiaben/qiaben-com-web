@@ -57,6 +57,21 @@ const config: Config = {
       tagName: 'meta',
       attributes: { property: 'og:site_name', content: 'Qiaben Health' },
     },
+    // Same default social-card image on every page (Docusaurus's own
+    // ImageMetadata sets og:image/twitter:image from themeConfig.image —
+    // these fill in the width/height/secure_url the reference site includes).
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image:secure_url', content: `${SITE_URL}img/qiaben-social-card.jpg` },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image:width', content: '1200' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image:height', content: '630' },
+    },
     {
       tagName: 'link',
       attributes: { rel: 'apple-touch-icon', href: `${BASE_PATH}img/favicon.png` },
@@ -76,10 +91,12 @@ const config: Config = {
           url: SITE_URL,
           logo: {
             '@type': 'ImageObject',
-            url: `${SITE_URL}img/logo-navbar.png`,
-            width: 240,
-            height: 80,
+            url: `${SITE_URL}img/uploads/2024/06/QIABEN-Health-rectangle.png`,
+            width: 2001,
+            height: 765,
           },
+          // Real profiles (the reference site's own markup left this blank —
+          // populating it is strictly more correct, not a deviation to fix).
           sameAs: [
             'https://www.facebook.com/qiaben.usa',
             'https://twitter.com/Qiaben_usa',
@@ -91,10 +108,19 @@ const config: Config = {
           '@context': 'https://schema.org',
           '@type': 'WebSite',
           '@id': `${SITE_URL}#website`,
+          headline: 'Qiaben Health',
           name: 'Qiaben Health',
           url: SITE_URL,
           description: 'Professional practice management services',
           publisher: { '@id': `${SITE_URL}#organization` },
+          // Points at the site's real blog search (src/theme/BlogListPage
+          // filters posts by the ?q= param) — not a fabricated sitewide
+          // search endpoint the way a copied WP `?s=` target would be.
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: `${SITE_URL}blog?q={search_term_string}`,
+            'query-input': 'required name=search_term_string',
+          },
         },
       ]),
     },

@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './well-care-services.module.css';
 
 const whyCards = [
@@ -29,28 +30,24 @@ const whyCards = [
 
 const faqs = [
   {
-    q: 'What is medical coding, and why is it important?',
-    a: 'Medical coding is the process of translating healthcare diagnoses, procedures, and services into standardized codes. These codes are essential for accurately documenting patient care, processing insurance claims, and ensuring proper reimbursement for healthcare providers. Accurate coding helps streamline billing, reduces errors, and improves the overall efficiency of healthcare operations.',
+    q: "What are Qiaben's Well Care Services?",
+    a: "Well Care Services are Qiaben's patient loyalty and preventive-care program, built around long-term patient engagement through active outreach, education, and preventive care coordination — aimed at improving overall patient health and retention.",
   },
   {
-    q: 'How does Qiaben Health ensure accuracy in medical coding?',
-    a: 'At Qiaben Health, we prioritize precision and compliance in our medical coding practices. Our team of certified medical coders uses the latest coding guidelines and updates to ensure that every code reflects the most current standards. We also implement rigorous quality control measures and regular audits to maintain the highest level of accuracy.',
+    q: 'What does well-care coordination include?',
+    a: 'It includes making preventive screenings, prompts, and check-ins part of a smooth, forward-looking system that keeps patients active and engaged in their own care.',
   },
   {
-    q: 'What coding systems do Qiaben Health professionals use?',
-    a: 'Our medical coding professionals are skilled in using several coding systems, including ICD-10 (International Classification of Diseases), CPT (Current Procedural Terminology), and HCPCS (Healthcare Common Procedure Coding System). These systems cover a wide range of diagnoses, procedures, and services to ensure comprehensive and precise coding.',
+    q: "How does Qiaben approach patient education and outreach?",
+    a: 'Qiaben engages patients through clear, friendly health education and communication, building trust and awareness while improving patients’ self-care practices.',
   },
   {
-    q: 'How does medical coding impact patient care and billing?',
-    a: 'Accurate medical coding directly impacts both patient care and billing. Properly coded information ensures that patients receive appropriate care and that healthcare providers are reimbursed correctly. Coding errors can lead to claim denials, delays in payment, and potential issues with patient care documentation.',
+    q: 'What happens after a patient visit?',
+    a: "Qiaben provides personalized, mindful post-visit follow-up that reinforces treatment plans and strengthens the relationship between patients and their providers.",
   },
   {
-    q: "What training and qualifications do Qiaben Health's medical coders have?",
-    a: 'Our medical coders at Qiaben Health are highly trained and hold certifications from reputable organizations such as the American Academy of Professional Coders (AAPC) or the American Health Information Management Association (AHIMA). Their expertise ensures that coding practices meet industry standards and regulatory requirements.',
-  },
-  {
-    q: 'How does Qiaben Health handle coding for different specialties?',
-    a: 'Our team is experienced in coding for a wide range of medical specialties, including primary care, surgical specialties, and behavioral health. We tailor our coding practices to the specific requirements and nuances of each specialty to ensure accurate and relevant coding for all types of medical services.',
+    q: 'Why do well-care services matter for a practice?',
+    a: 'Consistent outreach, education, and follow-up improve patient loyalty and overall health outcomes, supporting better long-term relationships between a practice and its patients.',
   },
 ];
 
@@ -98,6 +95,7 @@ export default function WellCareServices(): ReactNode {
     <Layout
       title="Well Care Services & Billing Solutions — Qiaben Health"
       description="Our Patient Well-Care Services at Qiaben are aimed at patient loyalty and an improvement of overall health. We provide long-term patient engagement through active outreach, education, preventive care coordination.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>

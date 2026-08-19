@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './patient-assessment.module.css';
 
 const InsuranceIcon = () => (
@@ -52,28 +53,24 @@ const whyCards = [
 
 const faqs = [
   {
-    q: 'What is medical coding, and why is it important?',
-    a: 'Medical coding is the process of translating healthcare diagnoses, procedures, and services into standardized codes. These codes are essential for accurately documenting patient care, processing insurance claims, and ensuring proper reimbursement for healthcare providers. Accurate coding helps streamline billing, reduces errors, and improves the overall efficiency of healthcare operations.',
+    q: "What is Qiaben's Patient Assessment service?",
+    a: "Qiaben's Patient Assessment service helps healthcare providers increase revenue by turning mental health evaluations into insurance-billable assessments, streamlining the documentation so it meets insurance billing standards.",
   },
   {
-    q: 'How does Qiaben Health ensure accuracy in medical coding?',
-    a: 'At Qiaben Health, we prioritize precision and compliance in our medical coding practices. Our team of certified medical coders uses the latest coding guidelines and updates to ensure that every code reflects the most current standards. We also implement rigorous quality control measures and regular audits to maintain the highest level of accuracy.',
+    q: 'How does this service make assessments insurance-billable?',
+    a: 'Qiaben streamlines mental health records so they can be evaluated according to insurance standards, making billing for these assessments quicker and more precise.',
   },
   {
-    q: 'What coding systems do Qiaben Health professionals use?',
-    a: 'Our medical coding professionals are skilled in using several coding systems, including ICD-10 (International Classification of Diseases), CPT (Current Procedural Terminology), and HCPCS (Healthcare Common Procedure Coding System). These systems cover a wide range of diagnoses, procedures, and services to ensure comprehensive and precise coding.',
+    q: 'How does Patient Assessment help maximize practice revenue?',
+    a: "By optimizing evaluations for compliance and reimbursement, Qiaben helps practices unlock reimbursement potential that would otherwise go unclaimed, turning clinical evaluations into a reliable revenue stream.",
   },
   {
-    q: 'How does medical coding impact patient care and billing?',
-    a: 'Accurate medical coding directly impacts both patient care and billing. Properly coded information ensures that patients receive appropriate care and that healthcare providers are reimbursed correctly. Coding errors can lead to claim denials, delays in payment, and potential issues with patient care documentation.',
+    q: "Will this disrupt my practice's existing clinical workflow?",
+    a: "No — the assessments are designed to integrate seamlessly into your existing clinical workflow, lowering administrative burden while improving both the quality of care and billing accuracy.",
   },
   {
-    q: "What training and qualifications do Qiaben Health's medical coders have?",
-    a: 'Our medical coders at Qiaben Health are highly trained and hold certifications from reputable organizations such as the American Academy of Professional Coders (AAPC) or the American Health Information Management Association (AHIMA). Their expertise ensures that coding practices meet industry standards and regulatory requirements.',
-  },
-  {
-    q: 'How does Qiaben Health handle coding for different specialties?',
-    a: 'Our team is experienced in coding for a wide range of medical specialties, including primary care, surgical specialties, and behavioral health. We tailor our coding practices to the specific requirements and nuances of each specialty to ensure accurate and relevant coding for all types of medical services.',
+    q: 'What type of assessments does Qiaben support?',
+    a: "Qiaben's Patient Assessment service focuses on assessments that are mental in nature, helping practices evaluate and document them in a way that's both clinically sound and compliant with insurance requirements.",
   },
 ];
 
@@ -121,6 +118,7 @@ export default function PatientAssessment(): ReactNode {
     <Layout
       title="Patient Assessment Solutions — Qiaben Health"
       description="The Patient Assessment service offered by Qiaben equips healthcare providers with the power to increase revenue streams by providing insurable assessments that are mental in nature.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>

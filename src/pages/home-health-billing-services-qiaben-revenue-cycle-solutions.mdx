@@ -6,6 +6,30 @@ description: "Qiaben | Home Health Billing Services"
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'Do you work with all types of payers/insurers?',
+    answer:
+      'Yes. We are experienced with commercial, Medicare, Medicaid, and managed care plans—including authorization-heavy plans common in home health.',
+  },
+  {
+    question: 'Can you integrate with our EMR/EHR and tools?',
+    answer:
+      'Absolutely. We tailor workflows to your systems and collaborate with your team for smooth data exchange.',
+  },
+  {
+    question: 'How fast can we get started?',
+    answer:
+      "Most groups onboard within 2–3 weeks depending on scope and access. We'll align on timelines during the assessment.",
+  },
+  {
+    question: 'Do you provide reports and KPI tracking?',
+    answer:
+      'Yes—regular reporting on claims, denials, reimbursements, aging, and recommendations for continuous improvement.',
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -136,6 +160,8 @@ Request a Quote Learn More
 <Reveal delay={160}>
 
 ## Frequently Asked Questions
+
+<FaqSchema faqs={faqs} />
 
 Quick answers to common questions.
 

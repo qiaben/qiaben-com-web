@@ -6,6 +6,45 @@ description: "Our mission is to provide comprehensive billing solutions that str
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'What is patient billing?',
+    answer:
+      'Patient billing is the process of generating and sending bills to patients for healthcare services rendered. It includes verifying insurance coverage, processing claims, posting payments, and managing patient statements to ensure accurate and timely payment.',
+  },
+  {
+    question: 'Why is accurate patient billing important?',
+    answer:
+      'Accurate patient billing ensures that healthcare providers are reimbursed correctly and promptly for their services. It also helps prevent billing errors, reduces claim denials, and enhances patient satisfaction by providing clear and accurate statements.',
+  },
+  {
+    question: 'How does Qiaben Health ensure accurate billing?',
+    answer:
+      'Qiaben Health utilizes advanced billing software and rigorous verification processes to minimize errors. Our team of experts ensures that all insurance details are verified before services are rendered, and we follow up diligently on any denied claims to ensure they are resolved quickly.',
+  },
+  {
+    question: "What services are included in Qiaben Health's patient billing?",
+    answer:
+      'Our patient billing services include insurance verification, claims processing, patient statement generation, payment posting, and denial management. We also offer customer support to address any billing inquiries or issues patients may have.',
+  },
+  {
+    question: 'How does Qiaben Health handle denied claims?',
+    answer:
+      'We have a dedicated denial management team that works to identify the reasons for claim denials. Our team appeals denied claims and follows up with insurance providers to ensure that issues are resolved and payments are received.',
+  },
+  {
+    question: 'What payment options do you offer to patients?',
+    answer:
+      'Qiaben Health offers various payment options, including online payments, credit card payments, and payment plans. We aim to make the billing process as convenient as possible for patients.',
+  },
+  {
+    question: 'How do you protect patient billing information?',
+    answer:
+      'We adhere to stringent HIPAA standards to ensure the security and confidentiality of patient information. Our advanced billing software includes robust security measures to protect data from unauthorized access.',
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -153,6 +192,8 @@ We are revolutionizing patient billing with cutting-edge technology and innovati
 
 </Reveal>
 
+<FaqSchema faqs={faqs} />
+
 <Reveal delay={240}>
 
 ## What is patient billing?
@@ -189,7 +230,7 @@ Our patient billing services include insurance verification, claims processing, 
 
 ## How does Qiaben Health handle denied claims?
 
-e have a dedicated denial management team that works to identify the reasons for claim denials. Our team appeals denied claims and follows up with insurance providers to ensure that issues are resolved and payments are received.
+We have a dedicated denial management team that works to identify the reasons for claim denials. Our team appeals denied claims and follows up with insurance providers to ensure that issues are resolved and payments are received.
 
 </Reveal>
 

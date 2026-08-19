@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './medical-coding.module.css';
 
 const whyCards = [
@@ -98,6 +99,7 @@ export default function MedicalCoding(): ReactNode {
     <Layout
       title="Medical Coding Service — Qiaben Health"
       description="Medical coding is an incredibly important but painstaking task that involves large teams and laborious tasks. Accurate medical coding is essential for the efficient processing of claims.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>

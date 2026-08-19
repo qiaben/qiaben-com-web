@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './md-audit-shield.module.css';
 
 const whyCards = [
@@ -29,28 +30,24 @@ const whyCards = [
 
 const faqs = [
   {
-    q: 'What is medical coding, and why is it important?',
-    a: 'Medical coding is the process of translating healthcare diagnoses, procedures, and services into standardized codes. These codes are essential for accurately documenting patient care, processing insurance claims, and ensuring proper reimbursement for healthcare providers. Accurate coding helps streamline billing, reduces errors, and improves the overall efficiency of healthcare operations.',
+    q: 'What is MD Audit Shield?',
+    a: "MD Audit Shield is Qiaben's audit protection and readiness service. It helps your practice proactively detect audit risk areas, maintain well-documented records, and stay aligned with industry standards — so you can face a regulatory audit with confidence instead of scrambling to prepare for one.",
   },
   {
-    q: 'How does Qiaben Health ensure accuracy in medical coding?',
-    a: 'At Qiaben Health, we prioritize precision and compliance in our medical coding practices. Our team of certified medical coders uses the latest coding guidelines and updates to ensure that every code reflects the most current standards. We also implement rigorous quality control measures and regular audits to maintain the highest level of accuracy.',
+    q: 'How does MD Audit Shield help my practice prepare for an audit?',
+    a: 'The service focuses on proactive audit readiness — identifying and mitigating risk areas before they become findings, so your practice stays continuously up to date rather than facing a last-minute scramble when an audit notice arrives.',
   },
   {
-    q: 'What coding systems do Qiaben Health professionals use?',
-    a: 'Our medical coding professionals are skilled in using several coding systems, including ICD-10 (International Classification of Diseases), CPT (Current Procedural Terminology), and HCPCS (Healthcare Common Procedure Coding System). These systems cover a wide range of diagnoses, procedures, and services to ensure comprehensive and precise coding.',
+    q: 'What kind of documentation support does Qiaben provide?',
+    a: "Qiaben provides robust documentation support, helping you maintain thorough, accurate records with expert guidance. This strengthens your audit trail and reinforces your practice's overall compliance integrity.",
   },
   {
-    q: 'How does medical coding impact patient care and billing?',
-    a: 'Accurate medical coding directly impacts both patient care and billing. Properly coded information ensures that patients receive appropriate care and that healthcare providers are reimbursed correctly. Coding errors can lead to claim denials, delays in payment, and potential issues with patient care documentation.',
+    q: 'How does MD Audit Shield reduce compliance risk?',
+    a: 'By combining proactive risk detection with strong documentation practices, MD Audit Shield minimizes exposure to fines and operational disruptions, giving your practice the confidence to withstand audits while staying focused on patient care.',
   },
   {
-    q: "What training and qualifications do Qiaben Health's medical coders have?",
-    a: 'Our medical coders at Qiaben Health are highly trained and hold certifications from reputable organizations such as the American Academy of Professional Coders (AAPC) or the American Health Information Management Association (AHIMA). Their expertise ensures that coding practices meet industry standards and regulatory requirements.',
-  },
-  {
-    q: 'How does Qiaben Health handle coding for different specialties?',
-    a: 'Our team is experienced in coding for a wide range of medical specialties, including primary care, surgical specialties, and behavioral health. We tailor our coding practices to the specific requirements and nuances of each specialty to ensure accurate and relevant coding for all types of medical services.',
+    q: 'Who should use MD Audit Shield?',
+    a: "Any healthcare practice that wants to reduce audit exposure and strengthen compliance — rather than reacting to an audit after it's already underway — benefits from MD Audit Shield's proactive approach to documentation and risk detection.",
   },
 ];
 
@@ -98,6 +95,7 @@ export default function MdAuditShield(): ReactNode {
     <Layout
       title="MD Audit Shield | Revenue & Compliance — Qiaben Health"
       description="MD Audit Shield provides the benefit of full audit protection and readiness to your practice. This service assists you in detecting audit risk areas in advance.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>
