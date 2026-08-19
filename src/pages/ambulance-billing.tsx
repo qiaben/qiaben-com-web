@@ -3,6 +3,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import FaqSchema from '@site/src/components/FaqSchema';
 import styles from './ambulance-billing.module.css';
 
 const CheckIcon = () => (
@@ -309,6 +310,7 @@ export default function AmbulanceBilling(): ReactNode {
     <Layout
       title="Ambulance Billing Services — Qiaben Health"
       description="EMS Ambulance Billing Services – Qiaben Health specializes in ALS/BLS coding, PCR verification, medical necessity documentation, Medicare compliance, and denial management for EMS providers.">
+      <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* INTRO */}
         <section className={styles.intro}>

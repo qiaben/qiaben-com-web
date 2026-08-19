@@ -759,7 +759,17 @@
   }
 }
 
+.resultsGrid > * {
+  /* Each grid cell is a <Reveal> wrapper, not .resultCard itself — stretch
+     it so .resultCard (below) can fill it and equalize card heights. */
+  height: 100%;
+}
+
 .resultCard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
   background: var(--qb-bg-soft);
   border: 1px solid var(--qb-border);
   border-radius: 16px;
@@ -798,6 +808,7 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
+  margin-top: auto;
   background: var(--qb-primary);
   color: #ffffff;
   padding: 11px 18px;

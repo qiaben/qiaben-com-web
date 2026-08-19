@@ -6,6 +6,34 @@ description: "Are you searching for free expert EMR support? Qiaben, an **offici
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'Which EMR system is best for small clinics?',
+    answer:
+      'Cloud-based solutions like Kareo, DrChrono, and AdvancedMD are ideal. Qiaben supports all leading EMR platforms, including OpenEMR.',
+  },
+  {
+    question: "How do I improve my EMR system's performance?",
+    answer:
+      'We optimize settings, upgrade system components, and implement caching solutions for faster response times.',
+  },
+  {
+    question: 'How can I migrate EMR data without errors?',
+    answer:
+      'Qiaben ensures secure data migration, preserving accuracy while eliminating duplicate or lost records.',
+  },
+  {
+    question: 'How do I confirm HIPAA compliance?',
+    answer:
+      'Our experts perform in-depth compliance checks to ensure your EMR system meets security standards.',
+  },
+  {
+    question: 'Can I link my EMR with billing software?',
+    answer: 'Yes! We offer custom integrations to seamlessly connect your EMR and billing systems.',
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -74,6 +102,8 @@ Equip your staff with the necessary EMR expertise through our **hands-on trainin
 ## Frequently Asked Questions
 
 </Reveal>
+
+<FaqSchema faqs={faqs} />
 
 <Reveal delay={160}>
 

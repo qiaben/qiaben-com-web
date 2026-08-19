@@ -6,6 +6,35 @@ description: "Medical Billing Services: Enhancing Healthcare Revenue with Qiaben
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'What is medical billing and why is it important in healthcare?',
+    answer:
+      'Medical billing is the administrative process of converting healthcare services into standardized codes, submitting claims to insurance companies, and collecting payments. It is essential because it ensures accurate documentation and reimbursement, supporting the revenue cycle and operational efficiency of healthcare providers.',
+  },
+  {
+    question: 'Can you describe the step-by-step medical billing process?',
+    answer:
+      'The medical billing process involves patient registration and insurance verification, documentation during the encounter, medical coding, charge entry and claim creation, claim submission, payer adjudication and payment posting, patient billing and collections, denial management, and reporting and analytics to monitor performance.',
+  },
+  {
+    question: 'What challenges do healthcare providers face in medical billing?',
+    answer:
+      'Healthcare providers often encounter claim denials due to coding errors, revenue loss from unbilled services, administrative burdens, compliance risks, delays caused by errors in billing, and trends of claim denials that impact overall revenue.',
+  },
+  {
+    question: 'Why is outsourcing medical billing beneficial for healthcare practices?',
+    answer:
+      'Outsourcing medical billing improves efficiency and time management, provides expert accuracy, accelerates reimbursements, offers scalability as the practice grows, and enhances team productivity by allowing dedicated focus on patient care while specialists handle billing processes.',
+  },
+  {
+    question: 'How does Qiaben enhance medical billing with technology?',
+    answer:
+      'Qiaben uses advanced AI-driven billing technologies and industry knowledge to deliver comprehensive revenue cycle management, ensure precise coding and claim generation, provide instant tracking and insights, facilitate EHR/EMR synchronization, and support many medical specialties for greater scalability and flexibility.',
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -228,6 +257,8 @@ Medical billing plays a crucial role in healthcare operations. Errors or ineffic
 By collaborating with Qiaben, healthcare professionals can prioritise delivering outstanding patient care while entrusting the complexities of **healthcare billing and revenue cycle management**, including an effective **denial management** approach, to specialists. 
 
 ### FAQS
+
+<FaqSchema faqs={faqs} />
 
 ### What is medical billing and why is it important in healthcare?
 

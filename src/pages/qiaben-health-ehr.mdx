@@ -6,6 +6,40 @@ description: "Qiaben Health best EHR software offers a comprehensive solution th
 import MarketingHero from '@site/src/components/MarketingHero';
 import MarketingCTA from '@site/src/components/MarketingCTA';
 import Reveal from '@site/src/components/Reveal';
+import FaqSchema from '@site/src/components/FaqSchema';
+
+export const faqs = [
+  {
+    question: 'What is an Electronic Health Record (EHR)?',
+    answer:
+      "An Electronic Health Record (EHR) is a digital version of a patient's paper chart. It contains comprehensive patient information including medical history, diagnoses, medications, treatment plans, immunization dates, and test results. EHRs are designed to streamline and improve the management of patient information within healthcare systems.",
+  },
+  {
+    question: 'Why is an EHR system important for healthcare providers?',
+    answer:
+      'An EHR system enhances the efficiency and accuracy of patient care by providing healthcare providers with quick access to comprehensive patient data. It improves communication between different healthcare providers, supports better coordination of care, reduces errors, and helps in complying with regulatory requirements. Additionally, EHRs streamline administrative tasks, such as scheduling and billing, allowing providers to focus more on patient care.',
+  },
+  {
+    question: "How does Qiaben Health's EHR system improve patient care?",
+    answer:
+      "Qiaben Health's EHR system offers features like real-time access to patient records, integrated lab results, and customizable templates tailored to various specialties. These features enable healthcare providers to make informed decisions quickly, enhance diagnostic accuracy, and deliver personalized care based on a comprehensive view of the patient's health history.",
+  },
+  {
+    question: "What security measures does Qiaben Health's EHR system include?",
+    answer:
+      "Qiaben Health's EHR system is equipped with advanced security measures to protect patient data. This includes encryption, secure login protocols, regular data backups, and compliance with HIPAA regulations. Our system ensures that patient information is protected from unauthorized access and breaches.",
+  },
+  {
+    question: 'How long does it take to implement the Qiaben Health EHR system?',
+    answer:
+      'The implementation timeline for the Qiaben Health EHR system varies depending on the size and complexity of the healthcare practice. Generally, the process involves initial setup, data migration, system configuration, and staff training. Our team will work closely with you to provide a clear timeline and ensure a smooth transition to the new system.',
+  },
+  {
+    question: 'Can the Qiaben Health EHR system be customized for specific specialties?',
+    answer:
+      "Yes, Qiaben Health's EHR system offers customizable templates and features that can be tailored to meet the needs of various medical specialties. Whether you are a general practitioner or a specialist, our EHR system can be adjusted to suit your specific practice requirements and workflow.",
+  },
+];
 
 <Reveal variant="fade">
   <MarketingHero
@@ -66,6 +100,8 @@ Our features are meticulously crafted to support quality care programs, making Q
 ### FAQ's (Frequently Asked Questions)
 
 </Reveal>
+
+<FaqSchema faqs={faqs} />
 
 <Reveal delay={80}>
 
