@@ -196,7 +196,7 @@
 
 /* stat row on green background */
 .statBand {
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   padding: 8px 24px;
 }
 
@@ -215,7 +215,7 @@
 
 /* ---------- FEATURE BAND (3-col, green) ---------- */
 .featureBand {
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   padding: 56px 24px;
 }
 
@@ -523,7 +523,7 @@
 }
 
 .ctaBanner {
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   padding: 64px 24px;
   text-align: center;
 }
