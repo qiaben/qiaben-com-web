@@ -1,7 +1,7 @@
 .footer {
   background:
     radial-gradient(at 10% 0%, rgba(255, 255, 255, 0.06), transparent 45%),
-    linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+    linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   color: rgba(255, 255, 255, 0.92);
   padding: 20px 24px 20px;
 }
@@ -136,8 +136,9 @@
   padding: 12px 14px;
   border-radius: 9px;
   border: none;
-  background: linear-gradient(135deg, var(--qb-gold) 0%, var(--qb-gold-dark) 100%);
-  color: #1f2937;
+  /* Matches qiaben.com's own Sign Up button (rgb(254,215,0)) exactly. */
+  background: #fed700;
+  color: #ffffff;
   font-weight: 700;
   font-size: 0.94rem;
   cursor: pointer;
@@ -145,7 +146,7 @@
 }
 
 .newsletterForm button:hover {
-  box-shadow: 0 12px 24px -10px rgba(201, 169, 97, 0.6);
+  box-shadow: 0 12px 24px -10px rgba(254, 215, 0, 0.6);
   transform: translateY(-1px);
 }
 

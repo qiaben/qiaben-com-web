@@ -190,7 +190,7 @@
   margin-right: 28px;
   padding: 12px 24px;
   border-radius: 9px;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-dark) 100%);
+  background: var(--qb-primary);
   color: #ffffff;
   font-weight: 600;
   font-size: 0.94rem;

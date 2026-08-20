@@ -455,7 +455,7 @@
 .specialties {
   position: relative;
   padding: 88px 24px;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   isolation: isolate;
   overflow: hidden;
 }
@@ -666,7 +666,7 @@
 /* ---------- TESTIMONIAL SPOTLIGHT ---------- */
 .testimonials {
   padding: 0;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
 }
 
 .testimonialsInner {

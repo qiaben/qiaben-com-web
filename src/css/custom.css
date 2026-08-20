@@ -55,6 +55,11 @@
   /* Qiaben tokens (brand emerald #008763) */
   --qb-primary: #008763;
   --qb-primary-dark: #035c43;
+  /* Lighter gradient endpoint sampled from live qiaben.com's own section
+     bands (rgb(9,181,133)) — used for large background surfaces (footer,
+     dark bands) instead of --qb-primary-dark, which stays reserved for
+     hover/contrast-text use where an actually darker tone is wanted. */
+  --qb-primary-light: #09b585;
   --qb-dark: #000000;
   --qb-dark-soft: #1f2937;
   --qb-text: #0f172a;

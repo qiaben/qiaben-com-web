@@ -105,7 +105,7 @@
 .howItWorks {
   position: relative;
   padding: 80px 24px;
-  background: linear-gradient(135deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(135deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   isolation: isolate;
   overflow: hidden;
 }
@@ -309,7 +309,7 @@
 }
 
 .planCardPopular {
-  background: linear-gradient(160deg, var(--qb-primary) 0%, #035c43 100%);
+  background: linear-gradient(160deg, var(--qb-primary) 0%, var(--qb-primary-light) 100%);
   border-color: transparent;
   color: #ffffff;
   transform: scale(1.03);
