@@ -102,7 +102,7 @@ export default function Contact(): ReactNode {
                   </div>
                   <div>
                     <p className={styles.infoLabel}>India Head Office</p>
-                    <p className={styles.infoValue}>1/37, Veerappanur, Coimbatore, Tamil Nadu - 641105</p>
+                    <p className={styles.infoValue}>1/39, Veerappanur, Coimbatore, Tamil Nadu - 641105</p>
                   </div>
                 </div>
               </div>
