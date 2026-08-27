@@ -29,7 +29,7 @@ and a stratospheric rise in documentation requirements.
 - Strategically outsource: Partner with well-established dental billing firms who possess the newest software and artificial intelligence technology to reduce denial and shorten claim cycles. 
 - Centralize documentation: Computerize all diagnosis notes, X-rays, and periodontal charts.
 
- "We reduced our accounts receivable days from 42 to 20 by cross-training our front-desk personnel in fundamental billing procedures." — Dana R., Office Manager
+ "We reduced our accounts receivable days from 42 to 20 by cross-training our front-desk personnel in fundamental billing procedures." - Dana R., Office Manager
 
 ### 2\. Automate Smart, But Don't Surrender the Personal Touch  
 
@@ -68,11 +68,11 @@ data access, minimized errors, and time saved.
 - Less manual data transfer = less error
 
  "Since we interfaced our EHR and billing system, claim denials decreased by 35%."  
-— Dr. Jessica P., DDS
+- Dr. Jessica P., DDS
 
 #### 4\. Strengthen Compliance & Cybersecurity Practices 
 
-With HIPAA breaches and violations increasing, being compliant is no longer optional—it's  
+With HIPAA breaches and violations increasing, being compliant is no longer optional-it's  
 your legal and moral requirement.
 
 ### Tips to remain compliant:
@@ -87,7 +87,7 @@ safeguards your practice and establishes patient trust.
 
 ### 5\. Check Out AI & Predictive Analytics 
 
-Artificial Intelligence (AI) isn't fiction—AI is revolutionizing dental billing.
+Artificial Intelligence (AI) isn't fiction-AI is revolutionizing dental billing.
 
 ### Real-World Applications:
 
@@ -96,7 +96,7 @@ Artificial Intelligence (AI) isn't fiction—AI is revolutionizing dental billin
 - AI recommends code optimization for best reimbursement recovered.
 - Qodoro states practices using AI-powered solutions experienced denial rates fall by up to 50% in six months.
 
- "Our. Our AI assistant stopped 12 mistakes in one day—we would have lost thousands without it." — Nina M., Biller
+ "Our. Our AI assistant stopped 12 mistakes in one day-we would have lost thousands without it." - Nina M., Biller
 
 #### 6\. Provide Flexible Patient Payment Options 
 

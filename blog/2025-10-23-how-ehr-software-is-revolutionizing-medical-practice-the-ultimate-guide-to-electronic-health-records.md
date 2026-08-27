@@ -6,7 +6,7 @@ date: 2025-10-23
 authors: [qiaben]
 ---
 
-Technology is no longer a nicety of the healthcare landscape of today—it's de rigueur. EHR software is at the forefront, revolutionizing the practice of [dental and medical practice](https://qiaben.com/specialties-2/) in America. From computerized patient records to optimizing clinical decision support, electronic health records are now the norm for [healthcare providers](https://qiaben.com/about-us/).
+Technology is no longer a nicety of the healthcare landscape of today-it's de rigueur. EHR software is at the forefront, revolutionizing the practice of [dental and medical practice](https://qiaben.com/specialties-2/) in America. From computerized patient records to optimizing clinical decision support, electronic health records are now the norm for [healthcare providers](https://qiaben.com/about-us/).
 
 No matter if you have a small dental clinic or a collection of large medical clinics, knowing how EHRs are different from the older EMR systems and how they function can save time, avoid errors, and improve patient care.
 

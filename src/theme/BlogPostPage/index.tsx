@@ -211,7 +211,7 @@ function BlogPostPageContent({ children, sidebarItems }: { children: ReactNode; 
               <h3>Boost Your Practice Revenue</h3>
               <ul>
                 <li>Affordable RCM</li>
-                <li>Expert consultation — free</li>
+                <li>Expert consultation - free</li>
               </ul>
               <BookingForm title="Book an Appointment" />
             </div>

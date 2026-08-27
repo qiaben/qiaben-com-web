@@ -5,7 +5,7 @@ export type Country = {
 };
 
 // Flag images (not emoji) are rendered from the ISO code via flagcdn.com's
-// SVG endpoint — Windows doesn't ship flag glyphs for the Unicode
+// SVG endpoint - Windows doesn't ship flag glyphs for the Unicode
 // regional-indicator emoji pairs, so relying on emoji renders as plain
 // two-letter text there. SVG avoids guessing a valid raster width preset.
 export function flagUrl(code: string): string {

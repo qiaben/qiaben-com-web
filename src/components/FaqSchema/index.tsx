@@ -8,7 +8,7 @@ export interface FaqItem {
 
 /**
  * Valid FAQPage JSON-LD, built from the same Q&A content already rendered
- * on the page — never fabricated. Only mount this where a page actually has
+ * on the page - never fabricated. Only mount this where a page actually has
  * a real FAQ section; Google's Rich Results validator rejects (and Search
  * Console flags) an FAQPage block with no mainEntity.
  */

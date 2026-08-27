@@ -8,7 +8,7 @@ authors: [qiaben]
 
 The United States has experienced a huge digital revolution in healthcare in the past two decades. The days of cumbersome paper charts and file rooms have slowly been replaced by sophisticated computer systems that securely store, manage, and transfer patient data. This change has not only made things more efficient but also enhanced care coordination among providers. 
 
-And with the change came new buzzwords—used interchangeably, and loosely in some instances. Two of them are Electronic Medical Records (EMR) and [Electronic Health Records](https://en.wikipedia.org/wiki/Electronic_health_records_in_the_United_States) (EHR). At first glance, one would think they were synonyms, but application and purpose are decidedly different. To clinicians, policy makers, and patients alike, understanding the difference between EMRs and EHRs is critical for doctors—its implications are important for care delivery, patient participation, and the future of the healthcare system. The goal of this blog post is to come up close and personal with EMRs and EHRs, to define them, contrast them, talk about benefits and challenges, myths and way forward in the American healthcare system. 
+And with the change came new buzzwords-used interchangeably, and loosely in some instances. Two of them are Electronic Medical Records (EMR) and [Electronic Health Records](https://en.wikipedia.org/wiki/Electronic_health_records_in_the_United_States) (EHR). At first glance, one would think they were synonyms, but application and purpose are decidedly different. To clinicians, policy makers, and patients alike, understanding the difference between EMRs and EHRs is critical for doctors-its implications are important for care delivery, patient participation, and the future of the healthcare system. The goal of this blog post is to come up close and personal with EMRs and EHRs, to define them, contrast them, talk about benefits and challenges, myths and way forward in the American healthcare system. 
 
 ## What is an EMR (Electronic Medical Record)?
 
@@ -32,7 +32,7 @@ For instance, a patient visiting a family physician will have an EMR file that r
 While EMRs automate patient records, they are significant drawbacks: 
 
 - Designed for use by one provider or organization 
-- Portability of data is weak—if patients move from doctor to doctor or hospital to hospital, records must usually be downloaded or faxed 
+- Portability of data is weak-if patients move from doctor to doctor or hospital to hospital, records must usually be downloaded or faxed 
 
 - Information incompatibility and poor information sharing between various healthcare centers 
 
@@ -225,6 +225,6 @@ As the U.S. remains committed to pursuing value-based care systems, EHRs will ta
 
 Effectively, EMRs were the bridge, and EHRs are the foundation for a connected, data-driven future of health care.  
 
-To physicians, policymakers, and patients, the message is clear: EHRs are not merely the future—but they're already on the ground transforming U.S. health care. 
+To physicians, policymakers, and patients, the message is clear: EHRs are not merely the future-but they're already on the ground transforming U.S. health care. 
 
 [Click here](https://qiaben.com/contact/) ![](/img/uploads/2024/04/1.jpg)

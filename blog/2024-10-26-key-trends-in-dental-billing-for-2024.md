@@ -119,7 +119,7 @@ platforms in use.
 
 In addition to these changes, newly introduced policies such as the No Surprises Act, which  
 aims to avert unexpected medical expenses, have changed the trend of how dental billing  
-practice is administered in practice—especially for such services that are offered out of the  
+practice is administered in practice-especially for such services that are offered out of the  
 network.
 
 If the practices do not observe these minimum ethical standards, there is a risk of penalties and  

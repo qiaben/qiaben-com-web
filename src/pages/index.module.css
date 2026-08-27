@@ -1,4 +1,4 @@
-/* Qiaben homepage — faithful match to qiaben.com layout. */
+/* Qiaben homepage - faithful match to qiaben.com layout. */
 
 .page {
   background: var(--qb-bg);
@@ -760,7 +760,7 @@
 }
 
 .resultsGrid > * {
-  /* Each grid cell is a <Reveal> wrapper, not .resultCard itself — stretch
+  /* Each grid cell is a <Reveal> wrapper, not .resultCard itself - stretch
      it so .resultCard (below) can fill it and equalize card heights. */
   height: 100%;
 }

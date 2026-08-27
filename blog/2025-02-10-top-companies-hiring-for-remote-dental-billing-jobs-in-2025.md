@@ -231,6 +231,6 @@ Whether you are new to billing or an experienced professional ready for change, 
 - Go to Qiaben.com to view positions available.
 - Get our free "Remote Billing Starter Kit".
 - Schedule a call to discuss career coaching or training.
-- The future of dental billing arrives: remote—and it begins now.
+- The future of dental billing arrives: remote-and it begins now.
 
 ![Female Dental Doctor](/img/uploads/2024/04/1.jpg)

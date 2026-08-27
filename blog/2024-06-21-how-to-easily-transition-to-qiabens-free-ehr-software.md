@@ -83,7 +83,7 @@ This ensures the system adapts to your workflow instead of forcing you to change
 
 ### Step 5: Provide Training & Ongoing Support
 
-A smooth transition isn’t just about setup—it’s about continuous improvement. Qiaben offers:
+A smooth transition isn’t just about setup-it’s about continuous improvement. Qiaben offers:
 
 - **Step-by-step tutorials**
     
@@ -130,7 +130,7 @@ The best part? Since the software is free, your practice sees financial benefits
 
 Transitioning to a new EHR doesn’t have to be overwhelming. With careful planning, staff involvement, and the right support, your practice can move smoothly to Qiaben’s Free EHR Software. The platform is designed to simplify workflows, improve patient care, and eliminate unnecessary costs.
 
-If you’re ready to streamline your practice operations, there’s no better time to make the switch. **Qiaben’s Free EHR Software** gives you the tools you need—without the burden of expensive licensing fees.
+If you’re ready to streamline your practice operations, there’s no better time to make the switch. **Qiaben’s Free EHR Software** gives you the tools you need-without the burden of expensive licensing fees.
 
 ### [FAQs](https://dash.ezlocal.com/profile/edit/qna/?ProfileID=17825283)
 

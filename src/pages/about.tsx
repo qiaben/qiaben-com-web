@@ -86,8 +86,8 @@ const securityCards = [
 export default function About(): ReactNode {
   return (
     <Layout
-      title="The Qiaben Story: Healthcare Evolved — Qiaben Health"
-      description="Qiaben HCS is more than just a medical/dental billing service. We are your partner in mastering the complexities of healthcare.">
+      title="The Qiaben Story: Healthcare Evolved - Qiaben Health"
+      description="Qiaben is more than just a medical/dental billing service. We are your partner in mastering the complexities of healthcare.">
       <div className={styles.page}>
         {/* TITLE BAR */}
         <section className={styles.titleBar}>
@@ -113,14 +113,14 @@ export default function About(): ReactNode {
                 <p className={styles.eyebrow}>Who we are</p>
                 <h2 className={styles.sectionTitle}>Your Practice Partner to Your Success!</h2>
                 <p className={styles.introLead}>
-                  Qiaben HCS is more than just a medical/dental billing service. We are your partner in mastering
+                  Qiaben is more than just a medical/dental billing service. We are your partner in mastering
                   the complexities of healthcare. Our skilled team meticulously crafts every aspect of your
                   billing process, including coding, denial management, quick reimbursements, and diligent
                   follow-ups.
                 </p>
                 <p className={styles.introLead}>
                   We utilize advanced tools and methods to handle any billing challenges, tailored to the size and
-                  specialty of your practice. With Qiaben HCS, you can leave the billing struggles behind and
+                  specialty of your practice. With Qiaben, you can leave the billing struggles behind and
                   focus on excelling in patient care.
                 </p>
               </div>

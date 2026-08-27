@@ -61,7 +61,7 @@ const plans = [
 export default function MedicalScribeServices(): ReactNode {
   return (
     <Layout
-      title="Medical Scribe Services by Qiaben — Qiaben Health"
+      title="Medical Scribe Services by Qiaben - Qiaben Health"
       description="Healthcare providers today spend nearly half their day on documentation rather than patient care. At Qiaben, our Medical Scribe services are designed to eliminate this burden by providing accurate, real-time documentation support.">
       <div className={styles.page}>
         {/* INTRO + BOOKING */}
@@ -73,7 +73,7 @@ export default function MedicalScribeServices(): ReactNode {
                 <p className={styles.introLead}>
                   Healthcare providers today spend nearly <strong>half their day on documentation</strong> rather
                   than patient care. At Qiaben, our <strong>Medical Scribe services</strong> are designed to
-                  eliminate this burden by providing accurate, real-time documentation support—so you can give
+                  eliminate this burden by providing accurate, real-time documentation support-so you can give
                   your full attention to your patients.
                 </p>
 
@@ -132,7 +132,7 @@ export default function MedicalScribeServices(): ReactNode {
               <p className={styles.eyebrowDark}>Why Choose Us</p>
               <p className={styles.whyLead}>
                 At Qiaben, we combine <strong>technology-driven solutions</strong> with <strong>human
-                expertise</strong>. Our medical scribes are not just note-takers—they are trained to support
+                expertise</strong>. Our medical scribes are not just note-takers-they are trained to support
                 clinical accuracy, ensure compliance, and streamline your operations. With Qiaben, you gain a
                 partner committed to helping you <strong>reduce burnout, improve efficiency, and enhance patient
                 satisfaction.</strong>
@@ -182,7 +182,7 @@ export default function MedicalScribeServices(): ReactNode {
             <Reveal>
               <div>
                 <h2 className={styles.closingTitle}>
-                  Let Qiaben handle your documentation, so you can get back to what matters most—caring for your
+                  Let Qiaben handle your documentation, so you can get back to what matters most-caring for your
                   patients.
                 </h2>
                 <BookingForm title="Book an Appointment" />

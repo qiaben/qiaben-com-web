@@ -204,7 +204,7 @@ Qiaben ensures your OpenEMR system is secure, scalable, and future-ready.
 ### Conclusion
 
 OpenEMR remains one of the leading open-source EMR systems in CQS 2025; major features include interface enhancements, smart billing, report-aided decision support, CQM, and other specialty registry integrations.  
-This powerful solution was developed to provide the benefits of commercially available systems to medical practices — for free.  
+This powerful solution was developed to provide the benefits of commercially available systems to medical practices - for free.  
 As a result, it stands out as a best-of-breed option for clinics seeking flexibility, affordability, and control.
 
 Click here
@@ -213,7 +213,7 @@ Click here
 
 #### Q: Is OpenEMR secure?
 
-For sure — it has access controls, encryption of data, audit logs and is HIPAA compliant.
+For sure - it has access controls, encryption of data, audit logs and is HIPAA compliant.
 
 #### Q: Does OpenEMR have an integrated telemedicine feature?
 

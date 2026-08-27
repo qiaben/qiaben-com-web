@@ -88,8 +88,8 @@ const whyCards = [
 export default function Specialties(): ReactNode {
   return (
     <Layout
-      title="Specialities — Qiaben Health"
-      description="Revenue Cycle Excellence — Tailored for Every Specialty">
+      title="Specialities - Qiaben Health"
+      description="Revenue Cycle Excellence - Tailored for Every Specialty">
       <div className={styles.page}>
         {/* HERO */}
         <section className={styles.hero}>
@@ -104,19 +104,19 @@ export default function Specialties(): ReactNode {
           <div className={styles.heroInner}>
             <Reveal>
               <h1>Qiaben Healthcare Specialties</h1>
-              <p className={styles.heroSubtitle}>Revenue Cycle Excellence — Tailored for Every Specialty</p>
+              <p className={styles.heroSubtitle}>Revenue Cycle Excellence - Tailored for Every Specialty</p>
               <h2 className={styles.heroHeadline}>
                 Smarter Billing. Stronger Revenue. Specialty-Focused Solutions.
               </h2>
               <p className={styles.heroLead}>
-                Every specialty has its own billing challenges — from complex coding rules to payer-specific
+                Every specialty has its own billing challenges - from complex coding rules to payer-specific
                 documentation requirements.
               </p>
               <p className={styles.heroLead}>
                 At Qiaben, we bring deep domain expertise, AI-enabled workflows, and EHR-integrated billing
                 systems to ensure accuracy, compliance, and faster reimbursements for 50+ medical and dental
                 specialties. Our team of certified coders and billing professionals understand the nuances of
-                each field — so your focus stays on patient care, while we handle your revenue cycle end-to-end.
+                each field - so your focus stays on patient care, while we handle your revenue cycle end-to-end.
               </p>
             </Reveal>
           </div>
@@ -130,8 +130,8 @@ export default function Specialties(): ReactNode {
                 Medical Specialties We Support
               </h2>
               <p className={styles.sectionLead} style={{ textAlign: 'center', margin: '0 auto 40px' }}>
-                Qiaben provides complete RCM solutions — including charge entry, coding, claim submission, denial
-                management, and payment posting — for the following medical practices:
+                Qiaben provides complete RCM solutions - including charge entry, coding, claim submission, denial
+                management, and payment posting - for the following medical practices:
               </p>
             </Reveal>
             <div className={styles.specialtyGrid}>
@@ -156,7 +156,7 @@ export default function Specialties(): ReactNode {
               </h2>
               <p className={styles.sectionLead} style={{ textAlign: 'center', margin: '0 auto 40px' }}>
                 Our dental billing experts manage everything from insurance verification to CDT coding and claim
-                follow-ups — delivering transparent reporting and improved cash flow for dental professionals.
+                follow-ups - delivering transparent reporting and improved cash flow for dental professionals.
               </p>
             </Reveal>
             <div className={styles.specialtyGrid}>

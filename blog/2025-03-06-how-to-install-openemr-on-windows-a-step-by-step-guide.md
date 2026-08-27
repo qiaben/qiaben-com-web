@@ -242,6 +242,6 @@ Yes, it installs locally on your computer. Network setup is needed for access by
 
 Yes. OpenEMR has upgrade packages and documentation available.
 
-Installing OpenEMR on Windows is a practical way to gain full control over your practice management system. From patient scheduling to billing and secure record-keeping, OpenEMR has the features your clinic needs to run efficiently. With this guide, you’ve learned every step—from downloading the software to securing the final setup.
+Installing OpenEMR on Windows is a practical way to gain full control over your practice management system. From patient scheduling to billing and secure record-keeping, OpenEMR has the features your clinic needs to run efficiently. With this guide, you’ve learned every step-from downloading the software to securing the final setup.
 
 [Click here](https://calendly.com/qiaben/openemr) ![](/img/uploads/2024/04/1.jpg)

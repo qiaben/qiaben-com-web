@@ -31,7 +31,7 @@ const whyCards = [
 const faqs = [
   {
     q: "What are Qiaben's Well Care Services?",
-    a: "Well Care Services are Qiaben's patient loyalty and preventive-care program, built around long-term patient engagement through active outreach, education, and preventive care coordination — aimed at improving overall patient health and retention.",
+    a: "Well Care Services are Qiaben's patient loyalty and preventive-care program, built around long-term patient engagement through active outreach, education, and preventive care coordination - aimed at improving overall patient health and retention.",
   },
   {
     q: 'What does well-care coordination include?',
@@ -72,7 +72,7 @@ const relatedPosts = [
   },
   {
     title: 'Dental Coding 101: Missing Tooth Clause, COB, and Non-Duplication of Benefits',
-    desc: "You've been paying dental insurance premiums for years — here's what happens when the missing tooth clause kicks in.",
+    desc: "You've been paying dental insurance premiums for years - here's what happens when the missing tooth clause kicks in.",
     img: '/img/uploads/2025/04/dental-insurance-form-toothache-oral-mouth-teeth-concept-768x699.jpg',
     to: '/blog/dental-coding-101-missing-tooth-clause-cob-and-non-duplication-of-benefits',
   },
@@ -93,7 +93,7 @@ const relatedPosts = [
 export default function WellCareServices(): ReactNode {
   return (
     <Layout
-      title="Well Care Services & Billing Solutions — Qiaben Health"
+      title="Well Care Services & Billing Solutions - Qiaben Health"
       description="Our Patient Well-Care Services at Qiaben are aimed at patient loyalty and an improvement of overall health. We provide long-term patient engagement through active outreach, education, preventive care coordination.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>

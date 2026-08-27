@@ -6,7 +6,7 @@ date: 2025-09-16
 authors: [qiaben]
 ---
 
-Oral surgery codes can be troublesome for [dental billing](https://qiaben.com/dental-billing-services/). Extraction, root tip removal, and surgical incision all have specific CDT codes that go with them. Sending the wrong code can result in insurance claims denied—or paid out wrongly—angering patients and practices.
+Oral surgery codes can be troublesome for [dental billing](https://qiaben.com/dental-billing-services/). Extraction, root tip removal, and surgical incision all have specific CDT codes that go with them. Sending the wrong code can result in insurance claims denied-or paid out wrongly-angering patients and practices.
 
 This guide breaks down the root tip extraction code and other significant oral surgery billing codes so you can make appropriate claims, avoid denials, and get fair reimbursement.
 
@@ -20,7 +20,7 @@ Proper coding guarantees:
 - Fewer denials or delays in insurance
 - Simplified communication between insurer, patient, and dentist
 
-Because oral surgery typically involves emergencies—e.g., impacted teeth or infected root tips—the precise billing is even more important.
+Because oral surgery typically involves emergencies-e.g., impacted teeth or infected root tips-the precise billing is even more important.
 
 ### Root Tip Extraction Code Explained
 
@@ -111,7 +111,7 @@ Patients ask themselves: "Why does my bill look so complicated?" or "Why was thi
 
 Here's the reality:
 
-- [CDT codes](https://www.ada.org/publications/cdt) are more than numbers—they decide how much the insurance company pays and how much patients will pay.
+- [CDT codes](https://www.ada.org/publications/cdt) are more than numbers-they decide how much the insurance company pays and how much patients will pay.
 - A mere coding mistake can leave a $1,200 surgical extraction all on the patient.
 - Informed patients who know codes can ask informed questions and prevent surprise bills.
 
@@ -119,7 +119,7 @@ Here's the reality:
 
 - The Root Tip Extraction Code is D7250 (surgical removal of remaining tooth roots).
 - Other key oral surgery codes are D7140 (simple extraction), D7210–D7241 (impactions),     and D7510–D7953 (surgical procedures, grafting, and drainage).
-- Documentation matters—always document X-rays, narratives, and clinical information.
+- Documentation matters-always document X-rays, narratives, and clinical information.
 - Coding errors result in denied claims, delayed payment, and patient dissatisfaction.
 
 With knowledge of oral surgery billing codes, providers and patients alike can safeguard against unnecessary fees and facilitate easy insurance processing.

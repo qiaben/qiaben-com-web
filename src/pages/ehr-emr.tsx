@@ -17,13 +17,13 @@ const differenceCards = [
 ];
 
 const ciyexHighlights = [
-  'Completely free — no per-patient fees, no vendor lock-in',
+  'Completely free - no per-patient fees, no vendor lock-in',
   'Purpose-built for community health centers, free clinics & rural providers',
-  'Multi-language, culturally responsive — designed for underserved communities',
-  'FHIR R4 native — connects with labs, pharmacies & specialists',
+  'Multi-language, culturally responsive - designed for underserved communities',
+  'FHIR R4 native - connects with labs, pharmacies & specialists',
   'HIPAA-compliant with enterprise-grade encryption',
   'Patient-owned data with secure portal access',
-  'Self-hostable — communities can own their healthcare infrastructure',
+  'Self-hostable - communities can own their healthcare infrastructure',
 ];
 
 const openEmrHighlights = [
@@ -53,7 +53,7 @@ const whyCards = [
   {
     icon: '💬',
     title: 'Tailored Solutions',
-    desc: 'We adapt technology to your workflow — not the other way around.',
+    desc: 'We adapt technology to your workflow - not the other way around.',
   },
   {
     icon: '📊',
@@ -70,8 +70,8 @@ const whyCards = [
 export default function EhrEmr(): ReactNode {
   return (
     <Layout
-      title="EHR and EMR Systems for Modern Practices — Qiaben Health"
-      description="EHR or EMR — Which One Fits You Best?">
+      title="EHR and EMR Systems for Modern Practices - Qiaben Health"
+      description="EHR or EMR - Which One Fits You Best?">
       <div className={styles.page}>
         {/* HERO */}
         <section className={styles.hero}>
@@ -86,7 +86,7 @@ export default function EhrEmr(): ReactNode {
           <div className={styles.heroInner}>
             <Reveal>
               <h1>Find the Right Digital Health Solution for Your Practice</h1>
-              <p className={styles.heroSubtitle}>EHR or EMR — Which One Fits You Best?</p>
+              <p className={styles.heroSubtitle}>EHR or EMR - Which One Fits You Best?</p>
               <p className={styles.heroLead}>
                 At Qiaben Healthcare Solutions, we empower healthcare providers with intelligent, secure, and
                 efficient digital systems. Whether you need a complete Electronic Health Record (EHR) platform or
@@ -143,7 +143,7 @@ export default function EhrEmr(): ReactNode {
                   <p className={styles.platformDesc}>
                     <strong>Ciyex</strong> is a <strong>501(c)(3) nonprofit organization</strong> (EIN: 41-3609665)
                     building free, open source EHR software for every community. Over 30 million Americans lack
-                    access to modern health records software — Ciyex ensures clinics don&apos;t have to choose
+                    access to modern health records software - Ciyex ensures clinics don&apos;t have to choose
                     between paper charts and software they can&apos;t afford.
                   </p>
                   <p className={styles.highlightsLabel}>Key Highlights:</p>
@@ -178,7 +178,7 @@ export default function EhrEmr(): ReactNode {
                   <p className={styles.platformTagline}>Flexible, Customizable, and Affordable</p>
                   <p className={styles.platformDesc}>
                     For healthcare providers who value flexibility and control, OpenEMR is a globally trusted
-                    open-source platform — fully customized and supported by Qiaben.
+                    open-source platform - fully customized and supported by Qiaben.
                   </p>
                   <p className={styles.highlightsLabel}>Key Highlights:</p>
                   <ul className={styles.highlightsList}>

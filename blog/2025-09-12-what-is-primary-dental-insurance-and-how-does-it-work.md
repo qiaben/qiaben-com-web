@@ -17,7 +17,7 @@ Don't panic--you're not the only one. Most people have no clue what primary dent
 - If you have just one dental plan, that will be your primary insurance by default.
 - If you are covered under two different plans (such as through your employer and your spouse's employer), one plan will be designated as primary and the other as secondary.
 
-The primary insurance provider pays first. Then, if you have secondary coverage, it can pay for any remaining charges—subject to plan rules and limits of coverage.
+The primary insurance provider pays first. Then, if you have secondary coverage, it can pay for any remaining charges-subject to plan rules and limits of coverage.
 
 ### How is Primary Dental Insurance Determined?
 
@@ -33,7 +33,7 @@ Illustration: Mom's birthday is April 10; Dad's is August 5 → Mom's plan is pr
 
      **2. Employee vs. Dependent Rule**
 
-o you have dental insurance through your own job, that plan is primary for you—even if you're also a dependent on your spouse's plan.
+o you have dental insurance through your own job, that plan is primary for you-even if you're also a dependent on your spouse's plan.
 
 3. **Medicaid and Government Programs**
 
@@ -133,7 +133,7 @@ If you have two plans, show both insurance cards to your dental office so they c
 
 **2.Understand Your Annual Maximum**
 
-If your primary reaches its $1,500 max, your secondary might kick in—but only after the primary max is reached.
+If your primary reaches its $1,500 max, your secondary might kick in-but only after the primary max is reached.
 
 **3.Use Preventive Care to the Max**
 
@@ -149,7 +149,7 @@ Every insurance company has a policy for COB. Yours can prevent surprise billing
 
 ### The Bigger Picture: Why Primary Insurance Knowledge Matters
 
-Primary insurance is more than just paperwork—it’s the foundation of how your dental care is paid for. Whether you’re getting a simple cleaning, a root canal, or orthodontic treatment, knowing how your primary plan works helps you:
+Primary insurance is more than just paperwork-it’s the foundation of how your dental care is paid for. Whether you’re getting a simple cleaning, a root canal, or orthodontic treatment, knowing how your primary plan works helps you:
 
 - Avoid unexpected bills
 - Maximize benefits
@@ -162,4 +162,4 @@ So, then, what is primary dental insurance? Simply: it's your primary dental pla
 
 The more familiar you are with your main insurance, the more empowered you'll be as a patient. You'll know what's included, what isn't, and how to pay less.
 
-Ultimately, insurance can't be a secret—it should be a tool to an end: allowing you to protect your oral health at an affordable price.
+Ultimately, insurance can't be a secret-it should be a tool to an end: allowing you to protect your oral health at an affordable price.

@@ -4,7 +4,7 @@ import { TitleFormatterProvider } from '@docusaurus/theme-common/internal';
 import type { Props } from '@theme/Layout';
 import Seo from '@site/src/components/Seo';
 
-// Every page's title prop already ends in "— Qiaben Health" (or similar), so
+// Every page's title prop already ends in "- Qiaben Health" (or similar), so
 // Docusaurus's default " | Qiaben Health" site-title suffix would double up
 // (e.g. "...Happier Practices. | Qiaben Health" tacked onto a title that
 // already says Qiaben Health). Skip the suffix whenever the page title
@@ -36,7 +36,7 @@ function titleFormatter({
  */
 export default function LayoutWrapper(props: Props): ReactNode {
   // Blog list/post pages call <Layout> without title/description (they set
-  // PageMetadata + their own <Seo> separately) — skip here to avoid emitting
+  // PageMetadata + their own <Seo> separately) - skip here to avoid emitting
   // a second, conflicting canonical/JSON-LD block for those routes.
   return (
     <TitleFormatterProvider formatter={titleFormatter}>

@@ -12,7 +12,7 @@ export type RevealProps = {
 
 /**
  * Reveal is a simple CSS animation wrapper. The animation runs once when the
- * element is first painted. No IntersectionObserver — that approach was unreliable
+ * element is first painted. No IntersectionObserver - that approach was unreliable
  * for SSR snapshots, Playwright fullpage screenshots, and prefers-reduced-motion.
  *
  * Content is always rendered (and SSR-visible). The animation is cosmetic.

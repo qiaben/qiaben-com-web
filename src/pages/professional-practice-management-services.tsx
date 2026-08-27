@@ -84,7 +84,7 @@ const services = [
 export default function ProfessionalPracticeManagementServices(): ReactNode {
   return (
     <Layout
-      title="Professional Practice Management Services — Qiaben Health"
+      title="Professional Practice Management Services - Qiaben Health"
       description="Qiaben offering end to end professional practice management services for health providers. Our professional team will solve your all problems on fastest way.">
       <div className={styles.page}>
         {/* TITLE BAR */}

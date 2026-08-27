@@ -165,8 +165,8 @@ These changes are especially important for **dental billing teams** to prevent c
 1. **Always use the most recent CDT manual (2025 edition).**
 2. **Submit supporting documentation** (X-rays, perio charts, narratives) when needed.
 3. **Pre-authorize major procedures** to confirm patient benefits.
-4. **Train billing staff regularly**—ADA updates codes every year.
-5. **Educate patients**—explaining codes can build trust and reduce billing confusion.
+4. **Train billing staff regularly**-ADA updates codes every year.
+5. **Educate patients**-explaining codes can build trust and reduce billing confusion.
 
 ### Patient Tip: How to Read Your Bill
 
@@ -180,4 +180,4 @@ If you’re a patient, here’s how to make sense of CDT codes on your bill:
 
 The **2025 CDT code set** is the backbone of dental billing and insurance claims. For providers, using the right code means smoother reimbursement. For patients, understanding codes brings clarity to your bill and helps avoid surprises.
 
-Whether it’s a **routine cleaning (D1110)**, a **root canal (D3330)**, or an **oral surgery extraction (D7250)**, every dental service has a code. Staying updated ensures everyone—dentist, patient, and insurer—is on the same page.
+Whether it’s a **routine cleaning (D1110)**, a **root canal (D3330)**, or an **oral surgery extraction (D7250)**, every dental service has a code. Staying updated ensures everyone-dentist, patient, and insurer-is on the same page.

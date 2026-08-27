@@ -13,8 +13,8 @@ export interface SeoProps {
 /**
  * Per-page SEO additions that Docusaurus's own <PageMetadata> doesn't cover:
  * canonical link, og:type, twitter:title/description, and a WebPage JSON-LD
- * block. Mounted once in the swizzled Layout wrapper so every page — MDX,
- * TSX, and blog posts — gets these automatically from its title/description.
+ * block. Mounted once in the swizzled Layout wrapper so every page - MDX,
+ * TSX, and blog posts - gets these automatically from its title/description.
  */
 export default function Seo({ title, description, type = 'website' }: SeoProps): ReactNode {
   const { pathname } = useLocation();

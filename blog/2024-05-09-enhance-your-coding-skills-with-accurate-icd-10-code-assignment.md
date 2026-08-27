@@ -107,12 +107,12 @@ Continuing education is essential for staying current with evolving coding guide
 1.  Review the entire clinical note, not just the diagnosis.
 2.  Identify the principal diagnosis and comorbidities. Apply coding conventions (laterality, episode, specificity).
 3.  Use combination codes when applicable.
-4.  Avoid assumptions—code only what is documented.
+4.  Avoid assumptions-code only what is documented.
 5.  Stay updated with ICD-10 guideline changes.
 
 #### Conclusion
 
-ICD-10 coding accuracy is more than a technical skill—it is a key driver of financial performance, regulatory compliance, and patient outcomes. By avoiding common errors, following best practices, and committing to continuous education, healthcare providers and coders can work together to achieve coding excellence.
+ICD-10 coding accuracy is more than a technical skill-it is a key driver of financial performance, regulatory compliance, and patient outcomes. By avoiding common errors, following best practices, and committing to continuous education, healthcare providers and coders can work together to achieve coding excellence.
 
 Accurate coding results in improved reimbursements, fewer claim denials, stronger compliance, and, most importantly, better patient care.
 

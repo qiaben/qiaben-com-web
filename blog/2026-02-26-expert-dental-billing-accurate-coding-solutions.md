@@ -21,7 +21,7 @@ authors: [qiaben]
 - Qiaben’s team is described as highly experienced in [dental billing and coding](https://qiaben.com/dental-billing-services/), meaning they understand the detailed requirements of dental claims and industry standards.  
       
     
-- This expertise helps ensure claims are coded and submitted correctly — reducing errors, claim rejections, and denials while ensuring compliance with the latest billing regulations and standards.  
+- This expertise helps ensure claims are coded and submitted correctly - reducing errors, claim rejections, and denials while ensuring compliance with the latest billing regulations and standards.  
       
     
 - In addition to accurate coding, their specialists perform comprehensive insurance verification to confirm patient coverage and benefit details before claims are filed, further preventing avoidable delays and financial discrepancies.  

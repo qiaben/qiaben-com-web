@@ -66,7 +66,7 @@ const faqs = [
   },
   {
     q: "Will this disrupt my practice's existing clinical workflow?",
-    a: "No — the assessments are designed to integrate seamlessly into your existing clinical workflow, lowering administrative burden while improving both the quality of care and billing accuracy.",
+    a: "No - the assessments are designed to integrate seamlessly into your existing clinical workflow, lowering administrative burden while improving both the quality of care and billing accuracy.",
   },
   {
     q: 'What type of assessments does Qiaben support?',
@@ -116,7 +116,7 @@ const relatedPosts = [
 export default function PatientAssessment(): ReactNode {
   return (
     <Layout
-      title="Patient Assessment Solutions — Qiaben Health"
+      title="Patient Assessment Solutions - Qiaben Health"
       description="The Patient Assessment service offered by Qiaben equips healthcare providers with the power to increase revenue streams by providing insurable assessments that are mental in nature.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>

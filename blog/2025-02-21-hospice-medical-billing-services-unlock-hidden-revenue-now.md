@@ -18,7 +18,7 @@ Running a hospice agency comes with unique challenges. Between patient care, reg
 
 ### The Importance of Accurate Hospice Medical Billing
 
-Unlike standard [**home health care services**](https://www.hopkinsmedicine.org/health/caregiving/types-of-home-health-care-services), hospice agencies must follow strict Medicare and Medicaid guidelines. Billing errors, missed deadlines, or incomplete documentation can delay payments—or worse, result in claim denials. Unfortunately, many agencies lose thousands of dollars every year simply because billing was not handled efficiently.
+Unlike standard [**home health care services**](https://www.hopkinsmedicine.org/health/caregiving/types-of-home-health-care-services), hospice agencies must follow strict Medicare and Medicaid guidelines. Billing errors, missed deadlines, or incomplete documentation can delay payments-or worse, result in claim denials. Unfortunately, many agencies lose thousands of dollars every year simply because billing was not handled efficiently.
 
 Outsourcing hospice billing services ensures:
 
@@ -72,7 +72,7 @@ Accurate billing reports reveal opportunities most agencies overlook. With detai
 - **Trend analysis** on revenue, receivables, and cash flow
     
 
-These reports don’t just keep your finances organized—they highlight where revenue is being lost and how to recover it.
+These reports don’t just keep your finances organized-they highlight where revenue is being lost and how to recover it.
 
 ### Key Features of Effective Hospice Medical Billing Services
 
@@ -160,7 +160,7 @@ A good billing service provides regular financial reports to track revenue perfo
 
 Your hospice agency’s mission is to provide compassionate care during life’s most critical moments. But financial challenges can hold you back from delivering that mission effectively. With professional **hospice billing services**, you can secure timely reimbursements, ensure compliance, and uncover hidden revenue opportunities.
 
-When billing and collections are managed correctly, your agency gains the financial stability it needs to focus on what truly matters—patient care.
+When billing and collections are managed correctly, your agency gains the financial stability it needs to focus on what truly matters-patient care.
 
 ### Ready to Unlock Hidden Revenue?
 

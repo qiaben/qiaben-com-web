@@ -6,7 +6,7 @@ import styles from './legal.module.css';
 export default function PrivacyPolicy(): ReactNode {
   return (
     <Layout
-      title="Privacy Policy — Qiaben Health"
+      title="Privacy Policy - Qiaben Health"
       description="Qiaben Health Privacy Policy. How we collect, use, and protect personal and health information.">
       <main className={styles.container}>
         <article className={styles.legal}>

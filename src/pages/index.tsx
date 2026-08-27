@@ -133,7 +133,7 @@ function ServiceCard({ icon, title, desc, to }: { icon: string; title: string; d
 export default function Home(): ReactNode {
   return (
     <Layout
-      title="Qiaben Health — Streamlined billing. Stronger revenues. Happier practices."
+      title="Qiaben Health - Streamlined billing. Stronger revenues. Happier practices."
       description="Qiaben Health: medical and dental billing, RCM, EHR/EMR integration, credentialing, and practice management for healthcare providers across the US.">
       <div className={styles.page}>
 
@@ -158,7 +158,7 @@ export default function Home(): ReactNode {
                 <p className={styles.heroSubtitle}>
                   Qiaben’s expert medical and dental billing solutions empower
                   clinics to simplify workflows, boost claim accuracy, and get
-                  paid faster — while staying fully compliant.
+                  paid faster - while staying fully compliant.
                 </p>
                 <div className={styles.heroCtas}>
                   <Link className={styles.ctaPrimary} to="/book-an-appointment">
@@ -218,7 +218,7 @@ export default function Home(): ReactNode {
                 </h2>
                 <p className={styles.sectionLead}>
                   Qiaben empowers medical and dental practices with end-to-end{' '}
-                  <strong>billing, RCM, and EHR/EMR integration</strong> —
+                  <strong>billing, RCM, and EHR/EMR integration</strong> -
                   simplifying workflows and driving revenue growth.
                 </p>
                 <div className={styles.whoWeAreStats}>
@@ -446,7 +446,7 @@ export default function Home(): ReactNode {
             </h2>
             <p className={styles.closingDesc}>
               Ready to Streamline and Scale Your Healthcare Operations? Let
-              Qiaben handle your billing, technology, and EHR/EMR setup —
+              Qiaben handle your billing, technology, and EHR/EMR setup -
               while you focus on delivering better care.
             </p>
             <BookingForm title="Book an Appointment" />

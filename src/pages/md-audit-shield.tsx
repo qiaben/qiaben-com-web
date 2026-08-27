@@ -31,11 +31,11 @@ const whyCards = [
 const faqs = [
   {
     q: 'What is MD Audit Shield?',
-    a: "MD Audit Shield is Qiaben's audit protection and readiness service. It helps your practice proactively detect audit risk areas, maintain well-documented records, and stay aligned with industry standards — so you can face a regulatory audit with confidence instead of scrambling to prepare for one.",
+    a: "MD Audit Shield is Qiaben's audit protection and readiness service. It helps your practice proactively detect audit risk areas, maintain well-documented records, and stay aligned with industry standards - so you can face a regulatory audit with confidence instead of scrambling to prepare for one.",
   },
   {
     q: 'How does MD Audit Shield help my practice prepare for an audit?',
-    a: 'The service focuses on proactive audit readiness — identifying and mitigating risk areas before they become findings, so your practice stays continuously up to date rather than facing a last-minute scramble when an audit notice arrives.',
+    a: 'The service focuses on proactive audit readiness - identifying and mitigating risk areas before they become findings, so your practice stays continuously up to date rather than facing a last-minute scramble when an audit notice arrives.',
   },
   {
     q: 'What kind of documentation support does Qiaben provide?',
@@ -47,7 +47,7 @@ const faqs = [
   },
   {
     q: 'Who should use MD Audit Shield?',
-    a: "Any healthcare practice that wants to reduce audit exposure and strengthen compliance — rather than reacting to an audit after it's already underway — benefits from MD Audit Shield's proactive approach to documentation and risk detection.",
+    a: "Any healthcare practice that wants to reduce audit exposure and strengthen compliance - rather than reacting to an audit after it's already underway - benefits from MD Audit Shield's proactive approach to documentation and risk detection.",
   },
 ];
 
@@ -72,7 +72,7 @@ const relatedPosts = [
   },
   {
     title: 'Dental Coding 101: Missing Tooth Clause, COB, and Non-Duplication of Benefits',
-    desc: "You've been paying dental insurance premiums for years — here's what happens when the missing tooth clause kicks in.",
+    desc: "You've been paying dental insurance premiums for years - here's what happens when the missing tooth clause kicks in.",
     img: '/img/uploads/2025/04/dental-insurance-form-toothache-oral-mouth-teeth-concept-768x699.jpg',
     to: '/blog/dental-coding-101-missing-tooth-clause-cob-and-non-duplication-of-benefits',
   },
@@ -93,7 +93,7 @@ const relatedPosts = [
 export default function MdAuditShield(): ReactNode {
   return (
     <Layout
-      title="MD Audit Shield | Revenue & Compliance — Qiaben Health"
+      title="MD Audit Shield | Revenue & Compliance - Qiaben Health"
       description="MD Audit Shield provides the benefit of full audit protection and readiness to your practice. This service assists you in detecting audit risk areas in advance.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>

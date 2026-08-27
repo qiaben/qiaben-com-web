@@ -50,7 +50,7 @@ As for [Humana](https://www.humana.com/dental-insurance) trumpeting about its 
 
 ![dental-insurance-comapanie](/img/uploads/2024/10/Untitled-design-1-1024x576.jpg)
 
-At Qiaben HCS, we offer comprehensive [dental billing](https://qiaben.com/dental-billing-service/) services that handle every aspect of the billing cycle. From patient registration and insurance verification to claim submission and follow-up, our professionals ensure that your billing process is efficient and error-free. We focus on maximizing your reimbursement rates and minimizing denials, allowing your dental practice to thrive.
+At Qiaben, we offer comprehensive [dental billing](https://qiaben.com/dental-billing-service/) services that handle every aspect of the billing cycle. From patient registration and insurance verification to claim submission and follow-up, our professionals ensure that your billing process is efficient and error-free. We focus on maximizing your reimbursement rates and minimizing denials, allowing your dental practice to thrive.
 
 ## What is dental insurance?
 

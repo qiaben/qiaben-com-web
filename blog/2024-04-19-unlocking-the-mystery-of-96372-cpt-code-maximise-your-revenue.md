@@ -120,6 +120,6 @@ Ensure proper documentation, review payer guidelines, and use correct modifiers.
 
 ### Conclusion
 
-Mastering **CPT 96372 billing** is more than just a compliance requirement—it’s a way to unlock hidden profits in your practice. By understanding its proper use, avoiding common mistakes, using modifiers correctly, and keeping accurate documentation, healthcare providers can optimize revenue and reduce claim denials.
+Mastering **CPT 96372 billing** is more than just a compliance requirement-it’s a way to unlock hidden profits in your practice. By understanding its proper use, avoiding common mistakes, using modifiers correctly, and keeping accurate documentation, healthcare providers can optimize revenue and reduce claim denials.
 
 Implement these tips today, and watch your practice reap the financial benefits of precise coding.

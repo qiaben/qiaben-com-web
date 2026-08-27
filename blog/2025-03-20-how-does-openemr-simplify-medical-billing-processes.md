@@ -74,7 +74,7 @@ Making reimbursement accurate to the penny
 
 Streamlining bill processing
 
-Patients are able to search and apply the correct codes within a patient's record efficiently—no additional hardware or codebooks are necessary.
+Patients are able to search and apply the correct codes within a patient's record efficiently-no additional hardware or codebooks are necessary.
 
 ### Instant Insurance Eligibility Checks
 
@@ -175,7 +175,7 @@ Yes. OpenEMR provides patient portal access where patients can view bills, make 
 
 ### Conclusion
 
-Billing doesn't have to be difficult—but too often, it is. OpenEMR simplifies billing with automation, integration, and intelligent workflow. It simplifies practices to reduce errors, speed up payments, and ensure regulatory compliance.
+Billing doesn't have to be difficult-but too often, it is. OpenEMR simplifies billing with automation, integration, and intelligent workflow. It simplifies practices to reduce errors, speed up payments, and ensure regulatory compliance.
 
 By streamlining clinical and financial tasks into one system, OpenEMR reduces your workload and maximizes your bottom line. If you have one doctor or multiple doctors in your big clinic, OpenEMR is a smart, scalable solution to automate billing.
 
