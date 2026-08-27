@@ -52,7 +52,7 @@ Customizability is one of OpenEMR’s strongest advantages. You can tailor the i
 
 ### Advantages of Using OpenEMR
 
-OpenEMR has several major benefits. It is free to use, which reduces long-term software costs for clinics and non-profit organizations. It is also scalable, so it grows with your practice—from a single provider to a large healthcare system.
+OpenEMR has several major benefits. It is free to use, which reduces long-term software costs for clinics and non-profit organizations. It is also scalable, so it grows with your practice-from a single provider to a large healthcare system.
 
 Its active developer community keeps the platform updated with new features and modern healthcare technologies. Patient engagement increases through online scheduling, portals, and easy access to medical records. This leads to stronger provider-patient relationships and better outcomes.
 

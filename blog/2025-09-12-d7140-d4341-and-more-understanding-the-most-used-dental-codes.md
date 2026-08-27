@@ -10,7 +10,7 @@ If you’ve ever looked at a dental bill or an insurance claim form, you’ve pr
 
 These codes come from the  [(CDT)](https://www.ada.org/publications/cdt) system, which the American Dental Association (ADA) maintains. CDT codes form the backbone of dental billing and ensure that every dental procedure is described consistently across the country.
 
-In this guide, we break down the most common dental codes—such as D7140 (tooth extraction) and D4341 (scaling and root planing). You’ll learn what they mean, why they matter, and how understanding them can make your dental visits and bills much less overwhelming.
+In this guide, we break down the most common dental codes-such as D7140 (tooth extraction) and D4341 (scaling and root planing). You’ll learn what they mean, why they matter, and how understanding them can make your dental visits and bills much less overwhelming.
 
 ### Why Dental Codes Matter
 
@@ -53,7 +53,7 @@ Let’s look at some of the most frequently used CDT codes and what they actuall
 
 **What it doesn’t include:**
 
-More complex surgical extractions—such as impacted wisdom teeth—use codes like **D7210**.
+More complex surgical extractions-such as impacted wisdom teeth-use codes like **D7210**.
 
 **Insurance insight:**
 
@@ -100,7 +100,7 @@ Routine cleanings are preventive. In contrast, SRP treats gum disease.
 
 **Insurance insight:**
 
-Most plans cover D1110 at 100%—usually twice a year.
+Most plans cover D1110 at 100%-usually twice a year.
 
 ### D2740 – Crown, Porcelain/Ceramic Substrate
 
@@ -159,7 +159,7 @@ For example:
     
 - Extraction codes vary depending on whether a tooth is erupted, impacted, or requires surgery.
     
-- X-rays have different codes based on type—bitewing, full-mouth, or panoramic.
+- X-rays have different codes based on type-bitewing, full-mouth, or panoramic.
     
 
 Accurate coding prevents overbilling and ensures fair reimbursement.

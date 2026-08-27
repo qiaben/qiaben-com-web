@@ -6,7 +6,7 @@ date: 2025-09-15
 authors: [qiaben]
 ---
 
-Dental insurance can be like a foreign language—[codes](https://qiaben.com/understanding-diagnostic-codes-d0100-d0999-and-their-role-in-healthcare/), clauses, and fine print galore. For patients, it's daunting. For billing offices and dental practices, misinterpretation of insurance jargon can result in rejected claims, slow payments, and angry patients.
+Dental insurance can be like a foreign language-[codes](https://qiaben.com/understanding-diagnostic-codes-d0100-d0999-and-their-role-in-healthcare/), clauses, and fine print galore. For patients, it's daunting. For billing offices and dental practices, misinterpretation of insurance jargon can result in rejected claims, slow payments, and angry patients.
 
 That's why it's essential to know three of the most misinterpreted aspects of dental insurance billing:
 
@@ -14,13 +14,13 @@ That's why it's essential to know three of the most misinterpreted aspects of de
 - **Coordination of Benefits (COB)**
 - **Non-Duplication of Benefits**
 
-Here are the confounding clauses they've distilled in plain language so you can feel secure about how to navigate dental insurance—whether as a patient, practice manager, or dental biller.
+Here are the confounding clauses they've distilled in plain language so you can feel secure about how to navigate dental insurance-whether as a patient, practice manager, or dental biller.
 
 ### Why Dental Insurance Clauses Are Important
 
 Dental treatment is costly. A crown is more than $1,000. Dental implants usually cost $3,000–$5,000. Insurance only benefits you if you know the rules.
 
-Many [denials](https://qiaben.com/top-dental-billing-challenges-and-solutions-for-2025/) and unexpected out-of-pocket bills aren’t because the insurance didn’t cover the service—it’s because the fine print limited coverage. That’s where clauses like the missing tooth clause, COB, and non-duplication come in.
+Many [denials](https://qiaben.com/top-dental-billing-challenges-and-solutions-for-2025/) and unexpected out-of-pocket bills aren’t because the insurance didn’t cover the service-it’s because the fine print limited coverage. That’s where clauses like the missing tooth clause, COB, and non-duplication come in.
 
 By the end of this article, you’ll know what these terms mean, why they exist, and how to work around them.
 
@@ -55,11 +55,11 @@ It generally does not apply to fillings, crowns, or other restorative procedures
 
 - Verify the policy prior to enrolling. There are premium plans without the missing tooth clause.
 - Employer plans tend to be less restrictive.
-- Consult your dentist for alternatives—sometimes partial dentures are less restrictive than implants.
+- Consult your dentist for alternatives-sometimes partial dentures are less restrictive than implants.
 
 ### What Is Coordination of Benefits (COB)?
 
-Coordination of Benefits (COB) is what you use when you have two dental plans. This occurs a lot—such as when a child is on both parents' plans, or when you have coverage through your employer and also from your spouse.
+Coordination of Benefits (COB) is what you use when you have two dental plans. This occurs a lot-such as when a child is on both parents' plans, or when you have coverage through your employer and also from your spouse.
 
 COB decides which plan covers first (primary) and which one covers second (secondary).
 
@@ -68,16 +68,16 @@ Example:
 - You have two plans: Plan A and Plan B.
 - Your dentist charges $200 for a cleaning.
 - Plan A (primary) covers $120.
-- Plan B (secondary) can cover the remaining $80—depending on COB rules.
+- Plan B (secondary) can cover the remaining $80-depending on COB rules.
 
 ### How Is Primary vs. Secondary Decided?
 
-- For children: The "birthday rule" usually applies—the parent with the earlier birthday in the calendar year is the one who gives the primary plan.
+- For children: The "birthday rule" usually applies-the parent with the earlier birthday in the calendar year is the one who gives the primary plan.
 - For adults: Your own employer's plan is typically primary, and your spouse's plan is secondary.
 
 ### Why It Matters
 
-Without COB, both plans could overpay—or neither could pay. That's why proper billing and proper coordination are essential.
+Without COB, both plans could overpay-or neither could pay. That's why proper billing and proper coordination are essential.
 
 ### What Is the Non-Duplication of Benefits Clause?
 
@@ -116,7 +116,7 @@ It’s easy to confuse COB and non-duplication. Here’s the breakdown:
 
 **Scenario 1: The Missing Tooth**
 
-Mary had a molar go missing years ago. She signs up for dental insurance and requests an implant. Her claim is rejected because of the missing tooth exclusion—so she pays out of pocket.
+Mary had a molar go missing years ago. She signs up for dental insurance and requests an implant. Her claim is rejected because of the missing tooth exclusion-so she pays out of pocket.
 
 **Scenario 2: Double Coverage Without Non-Duplication**
 
@@ -143,7 +143,7 @@ If you are a patient, here's how to prevent surprise bills:
 - Request clauses. Before enrolling, ask: "Is this plan missing tooth covered? Non-duplication of benefits?"
 - Contact HR. If you have employer coverage, HR can clarify COB rules.
 - Request pre-treatment estimates. Dentists can file a "pre-determination of benefits" with your insurance so you know exactly what's covered.
-- Keep records. In case you change plans, retain evidence of earlier coverage—it can be used to waive waiting periods or provisions.
+- Keep records. In case you change plans, retain evidence of earlier coverage-it can be used to waive waiting periods or provisions.
 
 ### Final Thoughts
 

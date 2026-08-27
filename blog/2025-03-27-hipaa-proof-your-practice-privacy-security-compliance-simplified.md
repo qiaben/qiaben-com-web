@@ -57,7 +57,7 @@ To enhance security:
 
 #### **3\. Compliance: Staying Audit-Ready**
 
-HIPAA compliance isn’t a one-time task—it’s an ongoing process. Being audit-ready requires consistent monitoring and documentation.  
+HIPAA compliance isn’t a one-time task-it’s an ongoing process. Being audit-ready requires consistent monitoring and documentation.  
 To ensure compliance:
 
 **Document everything:** Maintain detailed records of policies, procedures, and staff training.

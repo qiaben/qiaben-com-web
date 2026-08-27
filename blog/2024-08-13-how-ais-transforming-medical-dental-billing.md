@@ -15,7 +15,7 @@ The integration of [**AI in Medical and Dental Billing**](https://qiaben.com/can
 
 ### The Power of AI in Medical and Dental Billing
 
-**AI (Artificial Intelligence)** is more than just a buzzword—it’s a powerful tool that is transforming the way medical and dental billing is handled. By automating routine tasks, AI reduces the workload on administrative staff and minimizes human error. But what does this mean for your practice?
+**AI (Artificial Intelligence)** is more than just a buzzword-it’s a powerful tool that is transforming the way medical and dental billing is handled. By automating routine tasks, AI reduces the workload on administrative staff and minimizes human error. But what does this mean for your practice?
 
 - **Enhanced Accuracy:** AI systems can analyze vast amounts of data quickly and accurately, reducing the risk of errors in billing codes and insurance claims.  
       
@@ -88,6 +88,6 @@ Yes, AI can analyze historical data to predict future billing trends, allowing p
 
 AI systems are designed to process large amounts of data accurately, minimizing the risk of human error. This leads to more accurate billing and fewer rejected claims.
 
-## 4\. What if my practice is small—can we still benefit from AI?
+## 4\. What if my practice is small-can we still benefit from AI?
 
 Absolutely! AI solutions can be scaled to fit practices of any size. Smaller practices can benefit from the time savings and increased accuracy that AI provides without breaking the bank. [Get started](https://qiaben.com/contact/)

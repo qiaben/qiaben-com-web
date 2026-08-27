@@ -33,7 +33,7 @@ export default function BookingForm({ title = 'Book an Appointment' }: { title?:
         I agree to get SMS from Qiaben for reminders and offers. Msg &amp; data rates may apply. Reply STOP to unsubscribe.
       </label>
       <p className={styles.bookingFinePrint}>
-        By submitting, you agree to get marketing texts &amp; calls from Qiaben HCS. May use autodialer.
+        By submitting, you agree to get marketing texts &amp; calls from Qiaben. May use autodialer.
         Consent isn&apos;t required to buy. Msg &amp; data rates may apply. Frequency varies. Reply STOP to opt
         out. See <Link to="/privacy-policy">Privacy Policy</Link> &amp; Terms.
       </p>

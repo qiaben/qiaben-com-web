@@ -62,7 +62,7 @@ These are classic examples of credentialing and claim setup problems, not clinic
 
 ### Result
 
-The overall denial rate dropped sharply — to a fraction of what it had been before. That alone removed a major revenue bottleneck.
+The overall denial rate dropped sharply - to a fraction of what it had been before. That alone removed a major revenue bottleneck.
 
 ## Step 2: Cleaning up payer and credentialing gaps
 
@@ -104,7 +104,7 @@ Claims that would previously have been written off were now getting paid. Recove
 
 ### Delayed Patient Balance Collection
 
-Patient balances were often addressed late — after statements, reminders, and follow-ups.
+Patient balances were often addressed late - after statements, reminders, and follow-ups.
 
 ### What Changed
 
@@ -172,7 +172,7 @@ Those signals came weeks before leadership reviewed formal metrics.
 
 ### Workflow Optimization Without Replacing the EHR
 
-The practice did not replace its EHR, but it adjusted workflows around it. This aligns with broader findings on the impact of electronic health records on healthcare delivery — systems work best when teams are trained and processes are aligned.
+The practice did not replace its EHR, but it adjusted workflows around it. This aligns with broader findings on the impact of electronic health records on healthcare delivery - systems work best when teams are trained and processes are aligned.
 
 ### Key Takeaways
 
@@ -196,7 +196,7 @@ Many dental practices are under pressure from:
 
 ### Conclusion
 
-This case shows that meaningful revenue recovery is still possible — not by doing more work, but by doing the right work consistently.
+This case shows that meaningful revenue recovery is still possible - not by doing more work, but by doing the right work consistently.
 
 ## What practice owners can learn from this
 
@@ -216,7 +216,7 @@ These lessons apply across dental care settings, from solo practices to growing 
 
 ### Next Step
 
-If you suspect your practice is leaking revenue in similar ways, request a similar audit. A focused review of claims, payer setups, and intake workflows can reveal quick wins you can apply within weeks — not months.
+If you suspect your practice is leaking revenue in similar ways, request a similar audit. A focused review of claims, payer setups, and intake workflows can reveal quick wins you can apply within weeks - not months.
 
 ### Final Thought
 

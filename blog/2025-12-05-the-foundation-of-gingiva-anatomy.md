@@ -6,7 +6,7 @@ date: 2025-12-05
 authors: [qiaben]
 ---
 
-Gum tissue isn’t just a soft pink border around your teeth. It’s a **vital, functional structure** that protects, supports, and anchors your entire dentition. For clinicians, a thorough understanding of gingiva anatomy is essential—not just for diagnosis, but for effective treatment and long-term periodontal health.
+Gum tissue isn’t just a soft pink border around your teeth. It’s a **vital, functional structure** that protects, supports, and anchors your entire dentition. For clinicians, a thorough understanding of gingiva anatomy is essential-not just for diagnosis, but for effective treatment and long-term periodontal health.
 
 ## What is Gingiva?
 
@@ -90,7 +90,7 @@ With Qiaben, you can focus on **treating patients confidently**, while the admin
 
 **Reflection:** Imagine how much time and stress you could save with a system that handles billing, insurance, and documentation efficiently. How would this improve your patient care?
 
-Understanding gingiva is more than memorizing anatomy—it’s about connecting knowledge to **real clinical practice**.
+Understanding gingiva is more than memorizing anatomy-it’s about connecting knowledge to **real clinical practice**.
 
 1. Healthy gingiva = strong foundation for teeth and periodontium
 2. Early recognition of inflammation = prevention of disease progression

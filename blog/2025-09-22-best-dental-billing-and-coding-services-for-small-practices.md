@@ -49,7 +49,7 @@ Financial reports on a monthly and quarterly basis provide dentists with informa
 
 ### Why Small Practices Benefit the Most from Outsourcing
 
-Larger practices tend to have their own billing departments, but small practices simply don't have the same capabilities. In smaller offices, employees usually play a multi-role job of front desk duties, patient communication, scheduling, and billing—all concurrently. This puts them at a higher risk of delays and mistakes.  
+Larger practices tend to have their own billing departments, but small practices simply don't have the same capabilities. In smaller offices, employees usually play a multi-role job of front desk duties, patient communication, scheduling, and billing-all concurrently. This puts them at a higher risk of delays and mistakes.  
 Having their dental billing and coding outsourced allows small practices to be able to compete with big clinics without the extra cost of employing new staff through access to professional know-how, advanced billing equipment, and full-time claim follow-up.  
 Keeping billing specialists on payroll and training them is expensive for small practices. Outsourcing is less expensive. The practice only pays for the service they need, not the extra costs of salaries, benefits, or training. Outsourcing in most cases leads to higher collections, which pay for the cost of the service many times over.
 
@@ -77,4 +77,4 @@ In small practices, where word of mouth is the basis for referrals, efficient bi
 ### Final Thoughts
 
 For small offices, billing and coding in-house simply leads to stress, inefficiencies, and dollars lost. Through outsourcing or the aid of experts, dentists can rest assured that claims are correct, compliant, and paid in a timely manner.  
-The best dental billing and coding programs provide insurance verification, accurate CDT coding, denial management, payment posting, patient invoicing, and thorough financial reporting—all tailored to meet smaller practices' needs. With the help of professionals, dentists can focus on giving great care while keeping the practice's financial health intact.
+The best dental billing and coding programs provide insurance verification, accurate CDT coding, denial management, payment posting, patient invoicing, and thorough financial reporting-all tailored to meet smaller practices' needs. With the help of professionals, dentists can focus on giving great care while keeping the practice's financial health intact.

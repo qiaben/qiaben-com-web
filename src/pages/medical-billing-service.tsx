@@ -88,7 +88,7 @@ const plans = [
 export default function MedicalBillingService(): ReactNode {
   return (
     <Layout
-      title="Medical Billing Services — Qiaben Health"
+      title="Medical Billing Services - Qiaben Health"
       description="Qiaben is a Medical Billing Service Firm that delivers unparalleled medical billing consulting services. Our expert billing advisors collaborate closely with healthcare professionals to guide them towards billing excellence.">
       <div className={styles.page}>
         {/* TITLE BAR */}

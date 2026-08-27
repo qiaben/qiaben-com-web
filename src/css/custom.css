@@ -1,7 +1,7 @@
-/* Qiaben Health — healthcare-professional theme matching qiaben.com palette. */
+/* Qiaben Health - healthcare-professional theme matching qiaben.com palette. */
 
 :root {
-  /* Brand — sampled from live qiaben.com (rgb(0,135,99) for CTAs, rgb(3,92,67) for darker accents) */
+  /* Brand - sampled from live qiaben.com (rgb(0,135,99) for CTAs, rgb(3,92,67) for darker accents) */
   --ifm-color-primary: #008763;
   --ifm-color-primary-dark: #006b4f;
   --ifm-color-primary-darker: #035c43;
@@ -10,7 +10,7 @@
   --ifm-color-primary-lighter: #0bb380;
   --ifm-color-primary-lightest: #2cc599;
 
-  /* Type — Plus Jakarta Sans for headings (distinctive, premium geometric feel),
+  /* Type - Plus Jakarta Sans for headings (distinctive, premium geometric feel),
      Inter for body/UI text (excellent legibility at small sizes). Both loaded via
      docusaurus.config headTags; system stack is the fallback if the network font
      hasn't painted yet, so nothing ever renders invisible. */
@@ -56,7 +56,7 @@
   --qb-primary: #008763;
   --qb-primary-dark: #035c43;
   /* Lighter gradient endpoint sampled from live qiaben.com's own section
-     bands (rgb(9,181,133)) — used for large background surfaces (footer,
+     bands (rgb(9,181,133)) - used for large background surfaces (footer,
      dark bands) instead of --qb-primary-dark, which stays reserved for
      hover/contrast-text use where an actually darker tone is wanted. */
   --qb-primary-light: #09b585;
@@ -71,7 +71,7 @@
   --qb-warn: #f59e0b;
   --qb-success: #008763;
 
-  /* Elevated palette — warm neutrals + a restrained gold accent for a more
+  /* Elevated palette - warm neutrals + a restrained gold accent for a more
      premium feel, layered on top of the emerald brand rather than replacing it. */
   --qb-navy: #0a1f1a;
   --qb-bg-warm: #fbfaf7;
@@ -80,7 +80,7 @@
   --qb-gold-dark: #a8863f;
   --qb-gold-tint: #faf6ea;
 
-  /* Elevation — soft, brand-tinted shadows instead of flat gray, for depth
+  /* Elevation - soft, brand-tinted shadows instead of flat gray, for depth
      that still reads as "healthcare-professional" rather than gaudy. */
   --qb-shadow-sm: 0 2px 8px -2px rgba(15, 23, 42, 0.08);
   --qb-shadow-md: 0 12px 28px -8px rgba(2, 20, 16, 0.16);
@@ -99,7 +99,7 @@ body {
   font-family: var(--qb-font-body);
 }
 
-/* Selection + scrollbar — small, consistent brand touches everywhere text is
+/* Selection + scrollbar - small, consistent brand touches everywhere text is
    selected or a panel scrolls, instead of the browser default. */
 ::selection {
   background: var(--qb-primary);
@@ -125,7 +125,7 @@ body {
   background: var(--qb-primary);
 }
 
-/* Focus ring — visible for keyboard users, invisible for mouse users. */
+/* Focus ring - visible for keyboard users, invisible for mouse users. */
 :focus-visible {
   outline: 2px solid var(--qb-primary);
   outline-offset: 2px;
@@ -273,7 +273,7 @@ body {
   margin-top: 28px;
 }
 
-/* Headings — heading typeface everywhere, tightened tracking at display sizes. */
+/* Headings - heading typeface everywhere, tightened tracking at display sizes. */
 h1,
 h2,
 h3,
@@ -285,7 +285,7 @@ h6 {
   color: var(--qb-text);
 }
 
-/* Links — subtle underline-grow on hover instead of the flat instant underline. */
+/* Links - subtle underline-grow on hover instead of the flat instant underline. */
 a {
   transition: color var(--qb-transition);
 }
@@ -312,7 +312,7 @@ hr {
   border-top: 1px solid var(--qb-border);
 }
 
-/* Marketing page body — wraps WP-imported MDX content */
+/* Marketing page body - wraps WP-imported MDX content */
 .qb-mdxBody {
   max-width: 880px;
   margin: 0 auto;
@@ -406,7 +406,7 @@ hr {
   margin-bottom: 0;
 }
 
-/* Top utility bar (above navbar) — used on real qiaben.com */
+/* Top utility bar (above navbar) - used on real qiaben.com */
 .qb-topbar {
   background: var(--qb-dark);
   color: #cbd5e1;

@@ -135,7 +135,7 @@ export default function BlogListPage(props: Props): ReactNode {
                 <p className={styles.searchStatus}>
                   {visibleItems.length > 0
                     ? `Showing results for "${query}" on this page`
-                    : `No results for "${query}" on this page — try browsing another page`}
+                    : `No results for "${query}" on this page - try browsing another page`}
                 </p>
               )}
               <div className={styles.grid}>

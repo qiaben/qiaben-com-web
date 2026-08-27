@@ -104,4 +104,4 @@ Related: https://qiaben.com/10-tips-for-getting-started-with-ai-scribe-and-ehr/
 
 ## Conclusion
 
-An EHR system isn't a computerized record—it's the foundation of healthcare today. It's intimidating to learn, but with education and an unbreakable spirit, clinicians can utilize EHR systems to deliver safer, more efficient, and better quality care. As technology advances to evolve so quickly, the possibilities for EHRs will grow exponentially, making them a cornerstone of healthcare's future.
+An EHR system isn't a computerized record-it's the foundation of healthcare today. It's intimidating to learn, but with education and an unbreakable spirit, clinicians can utilize EHR systems to deliver safer, more efficient, and better quality care. As technology advances to evolve so quickly, the possibilities for EHRs will grow exponentially, making them a cornerstone of healthcare's future.

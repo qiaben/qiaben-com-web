@@ -12,9 +12,9 @@ On April 11, the General Counsel of the CFPB, Seth Frotman, delivered a speech a
 
 On rental collections and credit reporting, Frotman noted an increase in the “financialization” of the landlord and tenant relationship, such as products to finance security deposits or rent and offering rent-specific credit cards. Frotman also noted that corporate landlords, who have increased their share of the rental housing market, have increased the demand for “tenant screening” products that score prospective tenants. Frotman expressed concern that the algorithms relied on by these tenant screening products have been opaque and even discriminatory. The speech highlighted the CFPB’s focus on tenant screening as part of the Bureau’s increased attention toward debt collection and credit reporting companies generally in the rental industry. For instance, the CFPB noted that law firms that operate as “eviction mills” (i.e., firms that “rubber stamp” eviction actions without performing a meaningful review) could be held liable under the FDCPA.
 
-## How Qiaben HCS Can Help?
+## How Qiaben Can Help?
 
-**[At Qiaben HCS, we offer comprehensive billing services that handle every aspect of the billing cycle.](https://qiaben.com/)** From patient registration and insurance verification to claim submission and follow-up, our professionals ensure that your billing process is efficient and error-free. We focus on maximizing your reimbursement rates and minimizing denials, allowing your dental practice to thrive.
+**[At Qiaben, we offer comprehensive billing services that handle every aspect of the billing cycle.](https://qiaben.com/)** From patient registration and insurance verification to claim submission and follow-up, our professionals ensure that your billing process is efficient and error-free. We focus on maximizing your reimbursement rates and minimizing denials, allowing your dental practice to thrive.
 
 #### Introduction
 
@@ -117,6 +117,6 @@ Ultimately, CFPB’s guidance empowers consumers to make informed financial deci
 
 #### Conclusion
 
-Medical debt and rental financial products are more than just financial concerns—they’re issues that directly impact household stability and long-term economic health. **CFPB expert advice** encourages consumers to stay informed, challenge unfair practices, and demand transparency.
+Medical debt and rental financial products are more than just financial concerns-they’re issues that directly impact household stability and long-term economic health. **CFPB expert advice** encourages consumers to stay informed, challenge unfair practices, and demand transparency.
 
 Whether you’re struggling with unexpected medical bills or exploring rental finance tools, following CFPB’s insights can help you avoid hidden risks and safeguard your financial future.

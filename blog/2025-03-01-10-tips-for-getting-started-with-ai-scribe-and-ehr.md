@@ -101,7 +101,7 @@ According to the Journal of Clinical Informatics study published in 2024, backgr
 
 - In the exam areas, install the Jabra Speak2 75 microphone devices because they efficiently block unnecessary background sounds.
 - Put "AI Recording in Progress" signs where patients can see them to reduce disturbances.
-- Medical staff at NYU Langone implement redundancy plans by repeating important information to maintain correct data transmission during noisy emergency room conditions (e.g., “Patient's glucose reaches 450 mg/dL—spell G-L-U-C-O-S-E”).
+- Medical staff at NYU Langone implement redundancy plans by repeating important information to maintain correct data transmission during noisy emergency room conditions (e.g., “Patient's glucose reaches 450 mg/dL-spell G-L-U-C-O-S-E”).
 
 ### 7.Privacy by Design
 

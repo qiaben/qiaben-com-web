@@ -10,7 +10,7 @@ authors: [qiaben]
 
 # Most pediatricians don’t wake up thinking about templates.
 
-Most pediatricians don’t wake up thinking about templates. They think about packed schedules, parents with questions, and charts that somehow always need finishing at the end of the day. Over time, though, many clinics realize the problem isn’t the EHR itself — it’s how the documentation is set up.
+Most pediatricians don’t wake up thinking about templates. They think about packed schedules, parents with questions, and charts that somehow always need finishing at the end of the day. Over time, though, many clinics realize the problem isn’t the EHR itself - it’s how the documentation is set up.
 
 Templates, when done right, quietly remove friction. They don’t replace clinical thinking. They just keep you from rewriting the same things again and again, and they help the rest of the practice run smoother, especially when billing and follow-up come into play.
 
@@ -75,7 +75,7 @@ These templates usually focus on:
 • Parent observations  
 • Next steps
 
-When documentation follows the same structure each visit, it’s easier for everyone — including billing and coding companies — to understand what’s being managed and why.
+When documentation follows the same structure each visit, it’s easier for everyone - including billing and coding companies - to understand what’s being managed and why.
 
 ## 6\. Parent Communication Template
 

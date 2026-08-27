@@ -36,7 +36,7 @@ Scanned documents and free-text notes also create problems. Clinics expect them 
 
 Data mapping is another quiet trouble spot. Default mappings rarely line up perfectly. Fields that look similar may not function the same way. Clinics that skip manual review often discover missing allergies, broken problem lists, or billing fields in the wrong place weeks after go-live.
 
-Testing matters more than most teams expect. One test migration is rarely enough. Different patient types, payer setups, and workflows behave differently. Multiple test runs catch issues early — before they affect real patients or claims.
+Testing matters more than most teams expect. One test migration is rarely enough. Different patient types, payer setups, and workflows behave differently. Multiple test runs catch issues early - before they affect real patients or claims.
 
 ## Where billing teams feel the impact first
 

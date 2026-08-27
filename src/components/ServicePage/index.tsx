@@ -28,11 +28,11 @@ export type ServicePageProps = {
   ctaTitle?: string;
   /** Description for the bottom CTA band. */
   ctaDesc?: string;
-  /** Page <title> meta. Defaults to `${title} — Qiaben Health`. */
+  /** Page <title> meta. Defaults to `${title} - Qiaben Health`. */
   metaTitle?: string;
   /** Meta description. Defaults to subtitle. */
   metaDescription?: string;
-  /** Optional banner above the hero (e.g. "Stub — content migration in progress"). */
+  /** Optional banner above the hero (e.g. "Stub - content migration in progress"). */
   stubBanner?: boolean;
 };
 
@@ -54,7 +54,7 @@ export default function ServicePage(props: ServicePageProps): ReactNode {
 
   return (
     <Layout
-      title={metaTitle ?? `${title} — Qiaben Health`}
+      title={metaTitle ?? `${title} - Qiaben Health`}
       description={metaDescription ?? subtitle}>
       <div className={styles.page}>
         <section className={styles.hero}>

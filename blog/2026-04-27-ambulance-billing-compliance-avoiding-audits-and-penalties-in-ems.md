@@ -46,7 +46,7 @@ Working with Qiaben ensures full HIPAA compliance in every aspect of your billin
 Medicare fraud prevention is a critical pillar of ambulance billing compliance. Billing fraud in EMS includes:
 
 - Billing for services not rendered
-- Upcoding — billing for a higher level of service than documented
+- Upcoding - billing for a higher level of service than documented
 - Unbundling charges that should be billed together
 - Falsifying medical necessity documentation
 - Knowingly submitting claims for ineligible patients
@@ -115,12 +115,12 @@ Our ambulance billing compliance support includes:
 - **Billing audit preparation** including mock audits and records organization
 - **Ongoing compliance monitoring** to catch and correct issues proactively
 
-With Qiaben, ambulance billing compliance is not a checkbox — it's a core part of how we manage your billing every day.
+With Qiaben, ambulance billing compliance is not a checkbox - it's a core part of how we manage your billing every day.
 
 Learn more about Qiaben's [ambulance billing services](https://qiaben.com/ambulance-billing/) and how we protect your agency from audit risk.
 
 ## Conclusion
 
-Ambulance billing compliance is not optional — it's the foundation upon which legitimate, sustainable EMS billing is built. From OIG compliance and HIPAA regulations to Medicare fraud prevention and billing audit preparation, every element of your compliance program must be active, documented, and consistently enforced. Qiaben provides the expertise and infrastructure to keep your agency compliant, protected, and performing at its best.
+Ambulance billing compliance is not optional - it's the foundation upon which legitimate, sustainable EMS billing is built. From OIG compliance and HIPAA regulations to Medicare fraud prevention and billing audit preparation, every element of your compliance program must be active, documented, and consistently enforced. Qiaben provides the expertise and infrastructure to keep your agency compliant, protected, and performing at its best.
 
 Don't wait for an audit to discover compliance gaps. Visit [https://qiaben.com/ambulance-billing/](https://qiaben.com/ambulance-billing/) to learn how Qiaben can strengthen your ambulance billing compliance program today.

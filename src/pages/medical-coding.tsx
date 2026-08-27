@@ -76,7 +76,7 @@ const relatedPosts = [
   },
   {
     title: 'Dental Coding 101: Missing Tooth Clause, COB, and Non-Duplication of Benefits',
-    desc: "You've been paying dental insurance premiums for years — here's what happens when the missing tooth clause kicks in.",
+    desc: "You've been paying dental insurance premiums for years - here's what happens when the missing tooth clause kicks in.",
     img: '/img/uploads/2025/04/dental-insurance-form-toothache-oral-mouth-teeth-concept-768x699.jpg',
     to: '/blog/dental-coding-101-missing-tooth-clause-cob-and-non-duplication-of-benefits',
   },
@@ -97,7 +97,7 @@ const relatedPosts = [
 export default function MedicalCoding(): ReactNode {
   return (
     <Layout
-      title="Medical Coding Service — Qiaben Health"
+      title="Medical Coding Service - Qiaben Health"
       description="Medical coding is an incredibly important but painstaking task that involves large teams and laborious tasks. Accurate medical coding is essential for the efficient processing of claims.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>

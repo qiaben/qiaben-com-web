@@ -49,7 +49,7 @@ const socials = [
 export default function Contact(): ReactNode {
   return (
     <Layout
-      title="Contact — Qiaben Health"
+      title="Contact - Qiaben Health"
       description="Contact Qiaben Health. Free consultation, email, phone, and address.">
       <div className={styles.page}>
         {/* TITLE BAR */}

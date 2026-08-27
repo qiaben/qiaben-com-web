@@ -11,7 +11,7 @@ declare global {
 // change with no existence check. If the external googletagmanager.com script
 // is blocked (ad blocker, offline, slow network) or hasn't loaded yet,
 // `window.gtag` is undefined and navigation throws. Defining a queueing
-// no-op stub up front means calls are safely buffered instead of crashing —
+// no-op stub up front means calls are safely buffered instead of crashing -
 // the real gtag.js script (when it loads) drains the same `dataLayer` queue.
 if (typeof window !== 'undefined' && typeof window.gtag !== 'function') {
   window.dataLayer = window.dataLayer || [];

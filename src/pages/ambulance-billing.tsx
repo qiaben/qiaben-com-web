@@ -71,12 +71,12 @@ const introFeatures = [
   {
     icon: '🚑',
     title: 'EMS-Only Expertise',
-    desc: 'Unlike general medical billers, Qiaben focuses exclusively on EMS and ambulance transport billing — meaning our team knows every nuance of HCPCS transport codes, ALS/BLS documentation, and EMS-specific payer rules.',
+    desc: 'Unlike general medical billers, Qiaben focuses exclusively on EMS and ambulance transport billing - meaning our team knows every nuance of HCPCS transport codes, ALS/BLS documentation, and EMS-specific payer rules.',
   },
   {
     icon: '📋',
     title: 'PCR-to-Claim Accuracy',
-    desc: 'Every Patient Care Report is cross-validated against billing data before submission. PCR errors are the #1 cause of EMS claim denials — we eliminate them before they cost you revenue.',
+    desc: 'Every Patient Care Report is cross-validated against billing data before submission. PCR errors are the #1 cause of EMS claim denials - we eliminate them before they cost you revenue.',
   },
   {
     icon: '🏥',
@@ -88,7 +88,7 @@ const introFeatures = [
 const specialistCards = [
   {
     title: 'HCPCS Ambulance Transport Codes',
-    desc: 'Each EMS transport is billed using specific HCPCS A-codes (A0425–A0999). Selecting the wrong code — e.g., A0427 (ALS Emergency) vs. A0429 (BLS Emergency) — directly impacts reimbursement and triggers denials.',
+    desc: 'Each EMS transport is billed using specific HCPCS A-codes (A0425–A0999). Selecting the wrong code - e.g., A0427 (ALS Emergency) vs. A0429 (BLS Emergency) - directly impacts reimbursement and triggers denials.',
   },
   {
     title: 'ALS1 vs ALS2 vs BLS Distinction',
@@ -108,7 +108,7 @@ const specialistCards = [
   },
   {
     title: 'PCR Documentation Matching',
-    desc: 'Patient Care Reports must align exactly with billed codes — crew signatures, vitals, interventions, and transport times all must match. Discrepancies trigger post-payment audits and recoupment demands.',
+    desc: 'Patient Care Reports must align exactly with billed codes - crew signatures, vitals, interventions, and transport times all must match. Discrepancies trigger post-payment audits and recoupment demands.',
   },
 ];
 
@@ -123,7 +123,7 @@ const revenueCycleServices = [
     tag: 'Claims',
     icon: '📋',
     title: 'EMS Claim Submission',
-    desc: 'Claims are scrubbed against EMS-specific edits — modifier validation, medical necessity documentation checks, and payer-specific rules — before electronic submission to Medicare, Medicaid, or commercial insurers.',
+    desc: 'Claims are scrubbed against EMS-specific edits - modifier validation, medical necessity documentation checks, and payer-specific rules - before electronic submission to Medicare, Medicaid, or commercial insurers.',
   },
   {
     tag: 'Mileage',
@@ -135,7 +135,7 @@ const revenueCycleServices = [
     tag: 'AR Recovery',
     icon: '⚡',
     title: 'EMS Denial Management & Appeals',
-    desc: 'Our AR specialists analyze root causes of EMS denials — medical necessity, incorrect transport level, PCR mismatch — and build appeal packages with supporting clinical documentation for maximum recovery.',
+    desc: 'Our AR specialists analyze root causes of EMS denials - medical necessity, incorrect transport level, PCR mismatch - and build appeal packages with supporting clinical documentation for maximum recovery.',
   },
   {
     tag: 'Payments',
@@ -165,7 +165,7 @@ const complianceCards = [
   {
     icon: '⚖️',
     title: 'False Claims Act & OIG Compliance',
-    desc: "EMS billing fraud — including upcoding ALS/BLS levels or billing for non-covered transports — carries liability under the False Claims Act. Qiaben's compliance workflow includes pre-submission audits, coder training, and documentation standards to keep you fully protected.",
+    desc: "EMS billing fraud - including upcoding ALS/BLS levels or billing for non-covered transports - carries liability under the False Claims Act. Qiaben's compliance workflow includes pre-submission audits, coder training, and documentation standards to keep you fully protected.",
   },
   {
     icon: '🏥',
@@ -185,10 +185,10 @@ const complianceCards = [
 ];
 
 const transportTypes = [
-  'Basic Life Support — BLS Emergency & Non-Emergency',
+  'Basic Life Support - BLS Emergency & Non-Emergency',
   'Advanced Life Support ALS1 (Single Intervention)',
   'Advanced Life Support ALS2 (3+ Interventions)',
-  'Specialty Care Transport (SCT) — Critical Care',
+  'Specialty Care Transport (SCT) - Critical Care',
   'Emergency Ground Ambulance Transport',
   'Non-Emergency Medical Transport (NEMT)',
   'Dialysis Transport',
@@ -202,7 +202,7 @@ const workflowSteps = [
   { title: 'Transport Level Assessment', desc: 'ALS1, ALS2, BLS, or SCT determined based on documented interventions and patient condition.' },
   { title: 'HCPCS & ICD-10 Coding', desc: 'Correct ambulance transport codes, modifiers, mileage, and diagnosis codes assigned by certified EMS coders.' },
   { title: 'Medical Necessity Review', desc: 'ANF and supporting documentation verified against payer-specific LCD criteria before submission.' },
-  { title: 'Claim Scrubbing & QA', desc: 'EMS-specific claim edits applied — modifier validation, payer rules, timely filing checks — before submission.' },
+  { title: 'Claim Scrubbing & QA', desc: 'EMS-specific claim edits applied - modifier validation, payer rules, timely filing checks - before submission.' },
   { title: 'Electronic Submission & Follow-up', desc: 'Claims submitted electronically with real-time status tracking and proactive payer follow-up.' },
   { title: 'Denial Management & Reporting', desc: 'Denied claims appealed with full documentation. Monthly EMS revenue reports delivered to leadership.' },
 ];
@@ -221,7 +221,7 @@ const servedOrgs = [
 const problemsSolved = [
   {
     title: 'High EMS Claim Denial Rates',
-    desc: 'Industry EMS denial rates average 15–25%. We identify root causes — coding errors, missing docs, wrong modifiers — and systematically eliminate them.',
+    desc: 'Industry EMS denial rates average 15–25%. We identify root causes - coding errors, missing docs, wrong modifiers - and systematically eliminate them.',
   },
   {
     title: 'ALS/BLS Level-of-Care Errors',
@@ -233,11 +233,11 @@ const problemsSolved = [
   },
   {
     title: 'PCR & Billing Data Mismatches',
-    desc: 'PCR data is cross-checked against billed codes at the claim level. Any discrepancy is flagged and resolved before submission — not discovered in a post-payment audit.',
+    desc: 'PCR data is cross-checked against billed codes at the claim level. Any discrepancy is flagged and resolved before submission - not discovered in a post-payment audit.',
   },
   {
     title: 'Medicare & Medicaid Compliance Risk',
-    desc: 'Full compliance with CMS ambulance fee schedule, LCD requirements, and ZPIC/RAC audit standards is built into our workflow — protecting you from recoupment and penalties.',
+    desc: 'Full compliance with CMS ambulance fee schedule, LCD requirements, and ZPIC/RAC audit standards is built into our workflow - protecting you from recoupment and penalties.',
   },
   {
     title: 'Slow EMS Reimbursement Cycles',
@@ -249,27 +249,27 @@ const documentationServices = [
   {
     icon: '📝',
     title: 'EMS SOAP Notes',
-    desc: 'Structured Subjective, Objective, Assessment, and Plan notes prepared for every patient encounter — aligned with transport level documentation requirements for ALS, BLS, and SCT billing.',
+    desc: 'Structured Subjective, Objective, Assessment, and Plan notes prepared for every patient encounter - aligned with transport level documentation requirements for ALS, BLS, and SCT billing.',
   },
   {
     icon: '🎙️',
     title: 'EMS Medical Transcription',
-    desc: 'Crew audio dictations and voice notes converted into precise clinical text with 99%+ accuracy and fast turnaround — ready for PCR completion and claim submission.',
+    desc: 'Crew audio dictations and voice notes converted into precise clinical text with 99%+ accuracy and fast turnaround - ready for PCR completion and claim submission.',
   },
   {
     icon: '🩺',
     title: 'Real-Time EMS Scribing',
-    desc: 'Remote EMS scribes document patient encounters within your EHR/ePCR system in real time — reducing paramedic documentation time and improving PCR completeness for billing.',
+    desc: 'Remote EMS scribes document patient encounters within your EHR/ePCR system in real time - reducing paramedic documentation time and improving PCR completeness for billing.',
   },
   {
     icon: '🏥',
     title: 'ePCR & EHR Documentation',
-    desc: 'Full ePCR data entry and chart management compatible with major EMS platforms including ESO, ImageTrend, Zoll, and others — ensuring billing-ready documentation every time.',
+    desc: 'Full ePCR data entry and chart management compatible with major EMS platforms including ESO, ImageTrend, Zoll, and others - ensuring billing-ready documentation every time.',
   },
   {
     icon: '✅',
     title: 'Audit-Ready EMS Records',
-    desc: 'All EMS documentation reviewed for CMS, Medicare LCD, and payer-specific compliance before billing — reducing audit risk from PCR-to-claim discrepancies.',
+    desc: 'All EMS documentation reviewed for CMS, Medicare LCD, and payer-specific compliance before billing - reducing audit risk from PCR-to-claim discrepancies.',
   },
   {
     icon: '⏱️',
@@ -285,7 +285,7 @@ const faqs = [
   },
   {
     q: 'What HCPCS codes are used for ambulance billing?',
-    a: 'EMS transport is billed using HCPCS A-codes: A0425 (Ground Mileage, per mile), A0426 (ALS, Non-Emergency), A0427 (ALS, Emergency — Level 1), A0428 (BLS, Non-Emergency), A0429 (BLS, Emergency), A0430 (Air Transport, Fixed Wing), A0431 (Air Transport, Rotary Wing), A0433 (ALS2), A0434 (Specialty Care Transport). Each code must be combined with correct origin/destination modifiers.',
+    a: 'EMS transport is billed using HCPCS A-codes: A0425 (Ground Mileage, per mile), A0426 (ALS, Non-Emergency), A0427 (ALS, Emergency - Level 1), A0428 (BLS, Non-Emergency), A0429 (BLS, Emergency), A0430 (Air Transport, Fixed Wing), A0431 (Air Transport, Rotary Wing), A0433 (ALS2), A0434 (Specialty Care Transport). Each code must be combined with correct origin/destination modifiers.',
   },
   {
     q: 'What are origin and destination modifiers in ambulance billing?',
@@ -297,18 +297,18 @@ const faqs = [
   },
   {
     q: 'Why do EMS claims get denied more often than other medical claims?',
-    a: "EMS billing involves more variables than standard medical billing — transport level, mileage, modifiers, PCR documentation, medical necessity forms, and payer-specific rules must all align perfectly. Industry denial rates for EMS run 15–25%, significantly higher than the 5–10% average for other specialties. Qiaben's EMS-specific process reduces client denial rates to under 5%.",
+    a: "EMS billing involves more variables than standard medical billing - transport level, mileage, modifiers, PCR documentation, medical necessity forms, and payer-specific rules must all align perfectly. Industry denial rates for EMS run 15–25%, significantly higher than the 5–10% average for other specialties. Qiaben's EMS-specific process reduces client denial rates to under 5%.",
   },
   {
     q: 'Does Qiaben handle Medicare, Medicaid, and commercial EMS billing?',
-    a: 'Yes. Qiaben manages complete payer mix billing for EMS providers — Medicare (Part B ambulance), Medicaid (state-specific ambulance programs), and all commercial insurers. We stay current with CMS ambulance fee schedule updates, state Medicaid rate changes, and commercial payer policy revisions.',
+    a: 'Yes. Qiaben manages complete payer mix billing for EMS providers - Medicare (Part B ambulance), Medicaid (state-specific ambulance programs), and all commercial insurers. We stay current with CMS ambulance fee schedule updates, state Medicaid rate changes, and commercial payer policy revisions.',
   },
 ];
 
 export default function AmbulanceBilling(): ReactNode {
   return (
     <Layout
-      title="Ambulance Billing Services — Qiaben Health"
+      title="Ambulance Billing Services - Qiaben Health"
       description="EMS Ambulance Billing Services – Qiaben Health specializes in ALS/BLS coding, PCR verification, medical necessity documentation, Medicare compliance, and denial management for EMS providers.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
@@ -323,9 +323,9 @@ export default function AmbulanceBilling(): ReactNode {
                 </h1>
                 <p className={styles.introLead}>
                   Our <strong>EMS Ambulance Billing Services</strong> at Qiaben are built exclusively for EMS
-                  providers and ambulance organizations. We manage every step of your revenue cycle — ALS/BLS
+                  providers and ambulance organizations. We manage every step of your revenue cycle - ALS/BLS
                   coding, PCR verification, medical necessity documentation, Medicare compliance, and denial
-                  management — so your team can focus entirely on patient care.
+                  management - so your team can focus entirely on patient care.
                 </p>
                 <p className={styles.introLead}>
                   This specialized approach enables EMS agencies to reduce claim denials, accelerate
@@ -335,7 +335,7 @@ export default function AmbulanceBilling(): ReactNode {
                 <div className={styles.callout}>
                   <span aria-hidden="true">🚨</span>
                   <span>
-                    <strong>EMS-Exclusive:</strong> We only bill ambulance &amp; EMS transport — no generalist
+                    <strong>EMS-Exclusive:</strong> We only bill ambulance &amp; EMS transport - no generalist
                     billing here.
                   </span>
                 </div>
@@ -423,7 +423,7 @@ export default function AmbulanceBilling(): ReactNode {
               <p className={styles.eyebrow}>EMS billing services</p>
               <h2 className={styles.sectionTitle}>Complete EMS Revenue Cycle Management Services</h2>
               <p className={styles.sectionLead}>
-                Every service is purpose-built for EMS and ambulance providers — not adapted from general medical
+                Every service is purpose-built for EMS and ambulance providers - not adapted from general medical
                 billing workflows.
               </p>
             </Reveal>
@@ -473,7 +473,7 @@ export default function AmbulanceBilling(): ReactNode {
               <p className={styles.eyebrow}>EMS transport coverage</p>
               <h2 className={styles.sectionTitle}>Every EMS Transport Type We Bill</h2>
               <p className={styles.sectionLead}>
-                From emergency BLS ground transport to critical care air ambulance — Qiaben bills every EMS
+                From emergency BLS ground transport to critical care air ambulance - Qiaben bills every EMS
                 service level with code-level accuracy.
               </p>
             </Reveal>
@@ -485,7 +485,7 @@ export default function AmbulanceBilling(): ReactNode {
 
         <CtaBanner
           title="Ready to Reduce Your EMS Claim Denials by 40%?"
-          desc="Talk to a certified EMS billing specialist today. No commitment — just an honest review of your current revenue cycle."
+          desc="Talk to a certified EMS billing specialist today. No commitment - just an honest review of your current revenue cycle."
           ctaLabel="Schedule My Free EMS Audit →"
         />
 
@@ -496,8 +496,8 @@ export default function AmbulanceBilling(): ReactNode {
               <p className={styles.eyebrow}>Our EMS billing workflow</p>
               <h2 className={styles.sectionTitle}>7-Step EMS Billing Process Built for Zero Leakage</h2>
               <p className={styles.sectionLead}>
-                Every transport goes through a structured, audit-proof workflow — from PCR intake to final
-                reimbursement — with quality checkpoints at each stage.
+                Every transport goes through a structured, audit-proof workflow - from PCR intake to final
+                reimbursement - with quality checkpoints at each stage.
               </p>
             </Reveal>
             <div className={styles.cardGrid5}>
@@ -558,7 +558,7 @@ export default function AmbulanceBilling(): ReactNode {
 
         <CtaBanner
           title="Stop Leaving EMS Revenue Behind"
-          desc="Our EMS billing specialists will audit your current process, identify revenue leaks, and show you a clear path to higher collections — at no cost."
+          desc="Our EMS billing specialists will audit your current process, identify revenue leaks, and show you a clear path to higher collections - at no cost."
           ctaLabel="Start Free EMS Consultation →"
         />
 
@@ -629,7 +629,7 @@ export default function AmbulanceBilling(): ReactNode {
               <h2 className={styles.sectionTitle}>Get Your Free EMS Billing Audit Today</h2>
               <p className={styles.sectionLead} style={{ margin: '0 auto' }}>
                 If your EMS organization is experiencing claim denials, delayed reimbursements, or compliance
-                concerns — Qiaben&apos;s EMS specialists will analyze your billing process and show you exactly
+                concerns - Qiaben&apos;s EMS specialists will analyze your billing process and show you exactly
                 where to improve.
               </p>
             </Reveal>
@@ -645,7 +645,7 @@ export default function AmbulanceBilling(): ReactNode {
             <h2>Ready to Maximize Your EMS Revenue?</h2>
             <p>
               Let Qiaben&apos;s certified EMS billing specialists audit your revenue cycle and uncover every
-              dollar your organization is leaving behind — completely free.
+              dollar your organization is leaving behind - completely free.
             </p>
             <div className={styles.finalCtaButtons}>
               <Link className={styles.ctaPrimary} to="/book-an-appointment">

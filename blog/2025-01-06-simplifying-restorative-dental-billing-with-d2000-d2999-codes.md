@@ -54,30 +54,30 @@ Below are the most commonly billed restorative codes with billing tips:
 
 |   Code   |   Description   |   Quick Tip   |
 | --- | --- | --- |
-|   D2330   |   1-surface amalgam/composite filling   |   Most common—fill > 1 surface?  Use combo.   |
+|   D2330   |   1-surface amalgam/composite filling   |   Most common-fill > 1 surface?  Use combo.   |
 |   D2391   |   1-surface resin composite front tooth   |   Preferred cosmetic code over amalgam.   |
 |   D2740   |   Porcelain crown   |   Ensure Prep notes and lab slips included.   |
 |   D2952   |   Cast post & core   |   Pair with crown code; attach x-rays.   |
-|   D2712   |   ¾ crown (cast noble metal)   |   Newer code—watch for plan-specific limits.   |
+|   D2712   |   ¾ crown (cast noble metal)   |   Newer code-watch for plan-specific limits.   |
 |   D2910   |   Re-cement crown/bridge   |   Evidence of debonding required.   |
-|   D2930   |   Prefab stainless steel crown   |   Common in kids—document fracture or decay.   |
-|   D2950   |   Core buildup, First tooth   |   Needed for retention—support D2740   |
+|   D2930   |   Prefab stainless steel crown   |   Common in kids-document fracture or decay.   |
+|   D2950   |   Core buildup, First tooth   |   Needed for retention-support D2740   |
 |   D2962   |   Labial veneer resin-based composite   |   Attach shade, prep notes for audit   |
-|   D2999   |   Unspecified restorative (by report)   |   Rare—must include narrative justification.   |
+|   D2999   |   Unspecified restorative (by report)   |   Rare-must include narrative justification.   |
 
 ## 3\. Common Coding Errors to Avoid
 
 Many errors repeat across practices. To prevent denials:
 
-- **Do not overuse D2999** — It triggers audits when used without justification.
+- **Do not overuse D2999** - It triggers audits when used without justification.
     
-- **Avoid missing paired codes** — Crowns often require a supporting core buildup.
+- **Avoid missing paired codes** - Crowns often require a supporting core buildup.
     
-- **Reduce unnecessary recement codes (D2910)** — Document each case thoroughly.
+- **Reduce unnecessary recement codes (D2910)** - Document each case thoroughly.
     
-- **Check frequency limits** — Many fillings and crowns have time-based restrictions.
+- **Check frequency limits** - Many fillings and crowns have time-based restrictions.
     
-- **Attach complete records** — Include radiographs, prep notes, and lab documentation.
+- **Attach complete records** - Include radiographs, prep notes, and lab documentation.
     
 
 ## 4\. Correct Use of D2999 (“By Report”)
@@ -131,7 +131,7 @@ Accurate documentation greatly improves claim acceptance. Follow these steps:
     
 - **Match chart notes to billing codes** to avoid discrepancies.
     
-- **Avoid upcoding**—only bill for the exact procedure performed.
+- **Avoid upcoding**-only bill for the exact procedure performed.
     
 - **Scrub claims** with software tools to catch errors before submission.
     

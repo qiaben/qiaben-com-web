@@ -6,7 +6,7 @@ date: 2025-09-11
 authors: [qiaben]
 ---
 
-If you take a glance at a [dental billing](https://qiaben.com/dental-billing-services/), it might as well be a foreign language. Unfamiliar letters and numbers mixed—in the form of D0210, D0330, or D0230—don't mean much to the typical patient. However, to dentists, insurance providers, and billing staff, these codes are paramount.
+If you take a glance at a [dental billing](https://qiaben.com/dental-billing-services/), it might as well be a foreign language. Unfamiliar letters and numbers mixed-in the form of D0210, D0330, or D0230-don't mean much to the typical patient. However, to dentists, insurance providers, and billing staff, these codes are paramount.
 
 One of the most frequently asked questions is about the FMX dental code, also known as the full mouth x-ray series. In this guide, we’ll break down what FMX means, how it’s different from a panoramic x-ray, and what the most common CDT radiograph codes stand for.
 
@@ -106,7 +106,7 @@ Panoramic x-rays are simple, painless, and quick.
 
 ### Why Do These Codes Matter?
 
-Dental codes aren't only for insurance companies—they're important to you, as well.
+Dental codes aren't only for insurance companies-they're important to you, as well.
 
 - For providers: Accurate coding averts claim denials and accelerates reimbursement.
 - For patients: You can better understand your bill and what your insurance really covers when you know what codes represent.

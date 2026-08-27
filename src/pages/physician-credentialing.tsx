@@ -104,7 +104,7 @@ export default function PhysicianCredentialing(): ReactNode {
   return (
     <Layout
       title="Physician Credentialing Service - Qiaben Health"
-      description="Physician Credentialing Service — Qiaben Health handles documentation, applications, and monitoring so your practice gets credentialed accurately and on time.">
+      description="Physician Credentialing Service - Qiaben Health handles documentation, applications, and monitoring so your practice gets credentialed accurately and on time.">
       <FaqSchema faqs={faqs.map((f) => ({ question: f.q, answer: f.a }))} />
       <div className={styles.page}>
         {/* TITLE BAR */}

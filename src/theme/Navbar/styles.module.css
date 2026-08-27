@@ -1,5 +1,5 @@
 /* !important overrides guard against Infima's global .navbar rule
-   (display:flex; height:72px; padding:...) — this element also carries
+   (display:flex; height:72px; padding:...) - this element also carries
    the "navbar" class so Docusaurus's useTOCHighlight can find it via
    document.querySelector('.navbar').clientHeight, but must keep our own layout. */
 .header {

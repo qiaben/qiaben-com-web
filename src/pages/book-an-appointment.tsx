@@ -18,7 +18,7 @@ export default function BookAnAppointment(): ReactNode {
 
   return (
     <Layout
-      title="Book an Appointment — Qiaben Health"
+      title="Book an Appointment - Qiaben Health"
       description="Book a 15-minute meeting with Qiaben's practice management specialists.">
       <div className={styles.page}>
         <section className={styles.titleBar}>
