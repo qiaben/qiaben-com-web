@@ -205,8 +205,6 @@ function BlogPostPageContent({ children, sidebarItems }: { children: ReactNode; 
           </article>
 
           <aside className={styles.sidebar}>
-            <SearchBox />
-            <LastPosts items={sidebarItems} />
             <div className={styles.revenueBox}>
               <h3>Boost Your Practice Revenue</h3>
               <ul>
@@ -215,6 +213,8 @@ function BlogPostPageContent({ children, sidebarItems }: { children: ReactNode; 
               </ul>
               <BookingForm title="Book an Appointment" />
             </div>
+            <SearchBox />
+            <LastPosts items={sidebarItems} />
           </aside>
         </div>
       </div>

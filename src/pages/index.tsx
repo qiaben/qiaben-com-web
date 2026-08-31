@@ -205,7 +205,7 @@ export default function Home(): ReactNode {
               <div className={styles.whoWeAreImage}>
                 <img
                   src={useBaseUrl(
-                    '/img/uploads/2024/08/a_electronic_health_record_data_in_a_medical_office_with_us_nurses_practitioners_reviewing_on_big_screen_with_qiaben_com_the_light_is_bright_and_the_mood_is_happy-1-1024x1024.jpeg',
+                    '/img/uploads/2025/03/male-radiologist-analyzing-mri-scan-results-patient-computer-monitor-control-room-1024x683.jpg',
                   )}
                   alt="Healthcare provider reviewing digital records"
                   loading="lazy"
