@@ -223,198 +223,37 @@
 
 /* ---------- PRICING ---------- */
 .pricingSection {
-  padding: 72px 24px;
-  background: var(--qb-bg-soft);
-}
-
-.pricingHead {
-  display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
-  gap: 40px;
-  align-items: end;
-  margin-bottom: 40px;
-}
-
-@media (max-width: 800px) {
-  .pricingHead {
-    grid-template-columns: 1fr;
-  }
-}
-
-.pricingHead .sectionTitle {
-  margin-bottom: 0;
-}
-
-.pricingLead {
-  font-size: 1rem;
-  color: var(--qb-text-soft);
-  line-height: 1.6;
-  margin: 0;
-}
-
-.pricingGrid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 24px;
-}
-
-@media (max-width: 1000px) {
-  .pricingGrid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 620px) {
-  .pricingGrid {
-    grid-template-columns: 1fr;
-  }
-}
-
-.planCard {
-  background: var(--qb-bg);
-  border: 1px solid var(--qb-border);
-  border-radius: 16px;
-  padding: 28px 24px;
   position: relative;
-  display: flex;
-  flex-direction: column;
-  box-shadow: var(--qb-shadow-sm);
-  transition: box-shadow var(--qb-transition), transform var(--qb-transition);
+  padding: 84px 24px;
+  background: linear-gradient(180deg, #f4faf8 0%, #eef6f3 45%, #f7f9fc 100%);
+  overflow: hidden;
+  isolation: isolate;
 }
 
-.planCard:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--qb-shadow-md);
-}
-
-.planCardPopular {
-  background: var(--qb-primary);
-  border-color: var(--qb-primary);
-  box-shadow: var(--qb-shadow-primary);
-}
-
-.planCardPopular:hover {
-  box-shadow: var(--qb-shadow-lg);
-}
-
-.planBadge {
+.pricingSection::before,
+.pricingSection::after {
+  content: '';
   position: absolute;
-  top: -14px;
-  left: 24px;
-  background: #f5c518;
-  color: #1f2937;
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  padding: 6px 14px;
-  border-radius: 999px;
+  border-radius: 50%;
+  filter: blur(60px);
+  z-index: -1;
+  pointer-events: none;
 }
 
-.planName {
-  font-family: var(--qb-font-heading);
-  font-size: 1.3rem;
-  font-weight: 800;
-  margin: 8px 0 12px;
-  color: var(--qb-text);
+.pricingSection::before {
+  width: 420px;
+  height: 420px;
+  top: -180px;
+  left: -120px;
+  background: radial-gradient(circle, rgba(0, 135, 99, 0.16) 0%, rgba(0, 135, 99, 0) 70%);
 }
 
-.planCardPopular .planName {
-  color: #ffffff;
-}
-
-.planRange {
-  font-size: 0.86rem;
-  color: var(--qb-text-soft);
-  margin: 0 0 20px;
-}
-
-.planCardPopular .planRange {
-  color: rgba(255, 255, 255, 0.85);
-}
-
-.planRate {
-  font-size: 2rem;
-  font-weight: 800;
-  color: var(--qb-primary);
-  margin: 0 0 20px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid var(--qb-border);
-}
-
-.planCardPopular .planRate {
-  color: #f5c518;
-  border-bottom-color: rgba(255, 255, 255, 0.25);
-}
-
-.planRate span {
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: var(--qb-text-soft);
-}
-
-.planCardPopular .planRate span {
-  color: rgba(255, 255, 255, 0.75);
-}
-
-.planFeatures {
-  list-style: none;
-  margin: 0 0 24px;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  flex: 1;
-}
-
-.planFeatures li {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 0.9rem;
-  color: var(--qb-text-soft);
-}
-
-.planCardPopular .planFeatures li {
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.planFeatures li svg {
-  flex-shrink: 0;
-  color: var(--qb-primary);
-}
-
-.planCardPopular .planFeatures li svg {
-  color: #f5c518;
-}
-
-.planCta {
-  display: block;
-  text-align: center;
-  padding: 12px 20px;
-  border-radius: 10px;
-  border: 1px solid var(--qb-primary);
-  color: var(--qb-primary);
-  font-weight: 700;
-  text-decoration: none;
-  transition: background 0.2s ease, color 0.2s ease;
-}
-
-.planCta:hover {
-  background: var(--qb-primary);
-  color: #ffffff;
-  text-decoration: none;
-}
-
-.planCardPopular .planCta {
-  background: #f5c518;
-  border-color: #f5c518;
-  color: #1f2937;
-}
-
-.planCardPopular .planCta:hover {
-  background: #e0b311;
-  color: #1f2937;
+.pricingSection::after {
+  width: 480px;
+  height: 480px;
+  bottom: -220px;
+  right: -140px;
+  background: radial-gradient(circle, rgba(201, 169, 97, 0.18) 0%, rgba(201, 169, 97, 0) 70%);
 }
 
 /* ---------- TRANSFORM YOUR PRACTICE ---------- */
