@@ -80,7 +80,7 @@ const planFeatures = [
 const plans = [
   { name: 'QBN Enterprise', range: 'Office Insurance Collections More than $1 Million per month', rate: '1.99%', features: [...planFeatures, 'Free EHR Cloud'] },
   { name: 'QBN Performance', range: 'Office Insurance Collections More than $100,000 per month', rate: '2.49%', features: [...planFeatures, 'Free EHR Cloud'] },
-  { name: 'QBN Pro', range: 'Office Insurance Collections More than $50,000 per month', rate: '2.99%', features: planFeatures, popular: true },
+  { name: 'QBN Pro', range: 'Office Insurance Collections More than $40,000 per month', rate: '2.99%', features: planFeatures, popular: true },
   { name: 'QBN Start', range: 'Office Insurance Collections Less than $40,000 per month', rate: '$999', rateUnit: '/month', features: planFeatures },
 ];
 
