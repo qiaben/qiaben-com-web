@@ -4,6 +4,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
 import PricingPlans from '@site/src/components/PricingPlans';
+import PricingCta from '@site/src/components/PricingCta';
 import styles from './dental-billing-services.module.css';
 
 const TrendUpIcon = () => (
@@ -158,6 +159,8 @@ const verificationPlans = [
 // link to their own service pages and show a custom-quote panel instead of
 // fabricated pricing — swap in real `plans` for any of them once rates
 // are finalized.
+const SHOW_PRICING = false;
+
 const pricingCategories = [
   {
     label: 'Practice Growth Bundle',
@@ -289,11 +292,15 @@ export default function DentalBillingServices(): ReactNode {
         </section>
 
         {/* PRICING */}
-        <section className={styles.pricingSection}>
-          <div className={styles.sectionInner}>
-            <PricingPlans categories={pricingCategories} ctaLabel="Get Started" />
-          </div>
-        </section>
+        {SHOW_PRICING ? (
+          <section className={styles.pricingSection}>
+            <div className={styles.sectionInner}>
+              <PricingPlans categories={pricingCategories} ctaLabel="Get Started" />
+            </div>
+          </section>
+        ) : (
+          <PricingCta service="dental billing" />
+        )}
 
         {/* TRANSFORM YOUR PRACTICE */}
         <section className={styles.closing}>
