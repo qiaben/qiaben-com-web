@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Reveal from '@site/src/components/Reveal';
 import BookingForm from '@site/src/components/BookingForm';
+import PricingCta from '@site/src/components/PricingCta';
 import styles from './medical-billing-service.module.css';
 
 const TrendUpIcon = () => (
@@ -77,6 +78,8 @@ const planFeatures = [
   'Accounts Receivable Follow-up',
   'Reporting and Analysis',
 ];
+
+const SHOW_PRICING = false;
 
 const plans = [
   { name: 'QBN Enterprise', range: 'Monthly collections $5 million+', rate: '2.49%', features: [...planFeatures, 'Free EHR Cloud'] },
@@ -180,48 +183,52 @@ export default function MedicalBillingService(): ReactNode {
         </section>
 
         {/* PRICING */}
-        <section className={styles.pricingSection}>
-          <div className={styles.sectionInner}>
-            <Reveal>
-              <div className={styles.pricingHead}>
-                <div>
-                  <p className={styles.eyebrow}>Qiaben&apos;s pricing plan</p>
-                  <h2 className={styles.sectionTitle}>Comprehensive RCM Solutions at Competitive Rates</h2>
-                </div>
-                <p className={styles.pricingLead}>
-                  Our medical billing services provide comprehensive RCM solutions for a reasonable percentage of
-                  your monthly revenue collections.
-                </p>
-              </div>
-            </Reveal>
-            <div className={styles.pricingGrid}>
-              {plans.map((plan, i) => (
-                <Reveal key={plan.name} delay={i * 60}>
-                  <div className={`${styles.planCard} ${plan.popular ? styles.planCardPopular : ''}`}>
-                    {plan.popular && <span className={styles.planBadge}>Most Popular</span>}
-                    <h3 className={styles.planName}>{plan.name}</h3>
-                    <p className={styles.planRange}>{plan.range}</p>
-                    <p className={styles.planRate}>
-                      {plan.rate}
-                      <span>/month</span>
-                    </p>
-                    <ul className={styles.planFeatures}>
-                      {plan.features.map((f) => (
-                        <li key={f}>
-                          <CheckMarkIcon />
-                          {f}
-                        </li>
-                      ))}
-                    </ul>
-                    <Link to="/book-an-appointment" className={styles.planCta}>
-                      Get started
-                    </Link>
+        {SHOW_PRICING ? (
+          <section className={styles.pricingSection}>
+            <div className={styles.sectionInner}>
+              <Reveal>
+                <div className={styles.pricingHead}>
+                  <div>
+                    <p className={styles.eyebrow}>Qiaben&apos;s pricing plan</p>
+                    <h2 className={styles.sectionTitle}>Comprehensive RCM Solutions at Competitive Rates</h2>
                   </div>
-                </Reveal>
-              ))}
+                  <p className={styles.pricingLead}>
+                    Our medical billing services provide comprehensive RCM solutions for a reasonable percentage of
+                    your monthly revenue collections.
+                  </p>
+                </div>
+              </Reveal>
+              <div className={styles.pricingGrid}>
+                {plans.map((plan, i) => (
+                  <Reveal key={plan.name} delay={i * 60}>
+                    <div className={`${styles.planCard} ${plan.popular ? styles.planCardPopular : ''}`}>
+                      {plan.popular && <span className={styles.planBadge}>Most Popular</span>}
+                      <h3 className={styles.planName}>{plan.name}</h3>
+                      <p className={styles.planRange}>{plan.range}</p>
+                      <p className={styles.planRate}>
+                        {plan.rate}
+                        <span>/month</span>
+                      </p>
+                      <ul className={styles.planFeatures}>
+                        {plan.features.map((f) => (
+                          <li key={f}>
+                            <CheckMarkIcon />
+                            {f}
+                          </li>
+                        ))}
+                      </ul>
+                      <Link to="/book-an-appointment" className={styles.planCta}>
+                        Get started
+                      </Link>
+                    </div>
+                  </Reveal>
+                ))}
+              </div>
             </div>
-          </div>
-        </section>
+          </section>
+        ) : (
+          <PricingCta service="medical billing" />
+        )}
 
         {/* TRANSFORM YOUR PRACTICE */}
         <section className={styles.closing}>
