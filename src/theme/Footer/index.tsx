@@ -10,6 +10,8 @@ const quickLinks = [
   { label: 'Blogs', to: '/blog' },
   { label: 'News & Article', to: '/blog' },
   { label: 'Privacy policy', to: '/privacy-policy' },
+  { label: 'SMS terms', to: '/sms-terms' },
+  { label: 'SMS opt-in', to: '/sms-consent' },
 ];
 
 const serviceLinks = [

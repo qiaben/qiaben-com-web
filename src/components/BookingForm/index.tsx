@@ -5,6 +5,7 @@ import { useHistory } from '@docusaurus/router';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import CountryCodeSelect from '@site/src/components/CountryCodeSelect';
 import { countries } from '@site/src/components/CountryCodeSelect/countries';
+import { SMS_CONSENT_TEXT } from '@site/src/data/sms';
 import styles from './styles.module.css';
 
 export default function BookingForm({ title = 'Book an Appointment' }: { title?: string }): ReactNode {
@@ -30,12 +31,12 @@ export default function BookingForm({ title = 'Book an Appointment' }: { title?:
       </CountryCodeSelect>
       <label className={styles.bookingConsent}>
         <input type="checkbox" />
-        I agree to get SMS from Qiaben for reminders and offers. Msg &amp; data rates may apply. Reply STOP to unsubscribe.
+        <span>
+          {SMS_CONSENT_TEXT} (Optional)
+        </span>
       </label>
       <p className={styles.bookingFinePrint}>
-        By submitting, you agree to get marketing texts &amp; calls from Qiaben. May use autodialer.
-        Consent isn&apos;t required to buy. Msg &amp; data rates may apply. Frequency varies. Reply STOP to opt
-        out. See <Link to="/privacy-policy">Privacy Policy</Link> &amp; Terms.
+        See our <Link to="/privacy-policy#sms">Privacy Policy</Link> and <Link to="/sms-terms">SMS Terms</Link>.
       </p>
       <button type="submit" className={styles.bookingSubmit}>
         Select Appointment Date &amp; Time
