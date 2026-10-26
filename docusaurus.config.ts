@@ -342,10 +342,12 @@ const config: Config = {
           title: 'Legal',
           items: [
             { label: 'Privacy Policy', to: '/privacy-policy' },
+            { label: 'SMS Terms', to: '/sms-terms' },
+            { label: 'SMS Opt-In', to: '/sms-consent' },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Qiaben Inc. All rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Qiaben LLC. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,

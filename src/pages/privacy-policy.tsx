@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import Link from '@docusaurus/Link';
 import styles from './legal.module.css';
 
 export default function PrivacyPolicy(): ReactNode {
@@ -13,11 +14,11 @@ export default function PrivacyPolicy(): ReactNode {
           <Heading as="h1">Privacy Policy</Heading>
           <p className={styles.meta}>
             <strong>Effective Date:</strong> May 9, 2026 &nbsp;|&nbsp;{' '}
-            <strong>Last Updated:</strong> May 9, 2026
+            <strong>Last Updated:</strong> October 8, 2026
           </p>
 
           <p>
-            Qiaben Inc. (&ldquo;Qiaben,&rdquo; &ldquo;Qiaben Health,&rdquo;
+            Qiaben LLC (&ldquo;Qiaben,&rdquo; &ldquo;Qiaben Health,&rdquo;
             &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;)
             respects the privacy of visitors to{' '}
             <a href="https://qiaben.com">qiaben.com</a> and of our
@@ -78,10 +79,14 @@ export default function PrivacyPolicy(): ReactNode {
           <p>We share information only as necessary to operate the services:</p>
           <ul>
             <li>
-              <strong>Subprocessors:</strong> cloud hosting, email and SMS
-              providers, clearinghouses, payment processors, and analytics
-              tools that operate under contractual data-protection
-              obligations and BAAs where applicable.
+              <strong>Service providers:</strong> cloud hosting, email
+              delivery, telephone and text-message delivery, clearinghouses,
+              payment processors, and analytics tools that process
+              information on our behalf, only to provide their service to
+              us, under contractual data-protection obligations and BAAs
+              where applicable. They may not use it for their own purposes.
+              Mobile numbers and SMS opt-in data are never shared for
+              marketing (see Section 6).
             </li>
             <li>
               <strong>At your direction:</strong> integrations, exports,
@@ -98,7 +103,31 @@ export default function PrivacyPolicy(): ReactNode {
             </li>
           </ul>
 
-          <Heading as="h2">6. Data Retention</Heading>
+          <Heading as="h2" id="sms">6. Text Messaging (SMS)</Heading>
+          <p>
+            If you opt in on our <Link to="/sms-consent">SMS consent page</Link>{' '}
+            or a form on our site, Qiaben LLC sends text messages to the
+            mobile number you provide about consultation and appointment
+            scheduling and reminders, replies to your inquiries, follow-ups
+            to missed calls, billing and account notices, and customer
+            support. Message frequency varies. Msg &amp; data rates may
+            apply. Reply HELP for help or STOP to opt out at any time.
+            Consent is not a condition of any purchase or service. See our{' '}
+            <Link to="/sms-terms">SMS Terms</Link>.
+          </p>
+          <p>
+            <strong>
+              Mobile numbers and SMS consent/opt-in data are never sold,
+              rented or shared with third parties or affiliates for
+              marketing or promotional purposes. Text message originator
+              opt-in data and consent will not be shared with any third
+              parties.
+            </strong>{' '}
+            The categories of sharing described in Section 5 exclude text
+            messaging originator opt-in data and consent.
+          </p>
+
+          <Heading as="h2">7. Data Retention</Heading>
           <p>
             We retain personal information for as long as needed to provide
             services and comply with legal obligations. PHI retention
@@ -106,7 +135,7 @@ export default function PrivacyPolicy(): ReactNode {
             retention requirements.
           </p>
 
-          <Heading as="h2">7. Security</Heading>
+          <Heading as="h2">8. Security</Heading>
           <p>
             We use industry-standard administrative, physical, and technical
             safeguards including TLS encryption in transit, encryption at
@@ -114,7 +143,7 @@ export default function PrivacyPolicy(): ReactNode {
             audit logging, and regular access reviews.
           </p>
 
-          <Heading as="h2">8. Your Rights</Heading>
+          <Heading as="h2">9. Your Rights</Heading>
           <p>
             Depending on where you live, you may have rights to access,
             correct, delete, or port your personal information. To make a
@@ -124,16 +153,16 @@ export default function PrivacyPolicy(): ReactNode {
             direction of the covered entity.
           </p>
 
-          <Heading as="h2">9. Changes to This Policy</Heading>
+          <Heading as="h2">10. Changes to This Policy</Heading>
           <p>
             We may update this policy from time to time. The
             &ldquo;Last Updated&rdquo; date at the top reflects the most
             recent revision.
           </p>
 
-          <Heading as="h2">10. Contact</Heading>
+          <Heading as="h2">11. Contact</Heading>
           <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
-            <li><strong>Qiaben Inc.</strong></li>
+            <li><strong>Qiaben LLC</strong></li>
             <li>1309 Coffeen Avenue, STE 1200</li>
             <li>Sheridan, WY 82801</li>
             <li>
