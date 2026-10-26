@@ -10,6 +10,7 @@ const quickLinks = [
   { label: 'Blogs', to: '/blog' },
   { label: 'News & Article', to: '/blog' },
   { label: 'Privacy policy', to: '/privacy-policy' },
+  { label: 'Terms of Service', to: '/terms-of-service' },
 ];
 
 const serviceLinks = [
@@ -17,6 +18,7 @@ const serviceLinks = [
   { label: 'Dental Billing', to: '/dental-billing-services' },
   { label: 'Medical Coding', to: '/medical-coding' },
   { label: 'Physician Credentialing', to: '/physician-credentialing' },
+  { label: 'EHR and EMR Customizations', to: '/ehr-emr' },
   { label: 'Qiaben Health EHR', to: '/qiaben-health-ehr' },
   { label: 'Patient Billing', to: '/patient-billing' },
   { label: 'Insurance Verification', to: '/insurance-verification' },
