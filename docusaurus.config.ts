@@ -7,10 +7,6 @@ const isProd = process.env.DEPLOY_ENV === 'production';
 // Klaviyo onsite script company_id. Set via env var or repo variable at deploy time.
 // Leave empty until provided — embed divs render but stay empty without the loader.
 const KLAVIYO_COMPANY_ID = process.env.KLAVIYO_COMPANY_ID || '';
-// Tidio public key (the part before ".js" in //code.tidio.co/<key>.js).
-// Same key used by the live qiaben.com chat widget. Override via
-// TIDIO_PUBLIC_KEY env var if this ever needs to point elsewhere.
-const TIDIO_PUBLIC_KEY = process.env.TIDIO_PUBLIC_KEY || 'c4xmkajfbp230qqhrln4spkryvrh92pp';
 
 // Site origin + base path, reused below for both Docusaurus's own url/baseUrl
 // fields and the absolute URLs baked into the sitewide JSON-LD.
@@ -41,6 +37,15 @@ const config: Config = {
       onBrokenMarkdownImages: 'warn',
     },
   },
+
+  // Zendesk reads its key from the script with this exact id.
+  scripts: [
+    {
+      id: 'ze-snippet',
+      src: 'https://static.zdassets.com/ekr/snippet.js?key=78314c43-6d76-4092-85ab-40a8a4219971',
+      async: true,
+    },
+  ],
 
   // Mirror analytics from live qiaben.com (WP).
   headTags: [
@@ -180,19 +185,6 @@ const config: Config = {
             attributes: {
               async: 'true',
               src: `https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=${KLAVIYO_COMPANY_ID}`,
-            } as Record<string, string>,
-          },
-        ]
-      : []),
-    // Tidio live-chat widget — same bottom-right bubble as qiaben.com.
-    // Renders nothing until TIDIO_PUBLIC_KEY is set at build time.
-    ...(TIDIO_PUBLIC_KEY
-      ? [
-          {
-            tagName: 'script',
-            attributes: {
-              async: 'true',
-              src: `//code.tidio.co/${TIDIO_PUBLIC_KEY}.js`,
             } as Record<string, string>,
           },
         ]
